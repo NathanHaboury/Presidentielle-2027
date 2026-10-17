@@ -1,0 +1,181 @@
+# Le livre en bref
+
+Une fiche par chapitre : quelques chiffres à retenir, les questions que le chapitre examine, et les grands enjeux auxquels il se rattache. Les chiffres sont repris de « L'essentiel », la page qui ouvre chaque chapitre, et complètent ceux des [grands enjeux](enjeux.qmd) ; les questions sont celles de sa section « Ce qui fait débat ».
+
+<!-- Les lignes « En débat » sont mises à jour par edition/scripts/livre_en_bref.py à partir de la section 2 de chaque chapitre : ne pas les modifier à la main. Les lignes « À savoir » s'écrivent à la main. -->
+
+## Le cadre
+
+### [Institutions](../../institutions/institutions.md)
+
+**À savoir.** La France a organisé dix référendums depuis 1958, aucun depuis 2005 ; le référendum d'initiative partagée n'a abouti à aucun vote depuis 2015. En janvier 2026, 76 % des Français jugent que la démocratie fonctionne mal.
+
+<!-- en-debat: institutions/institutions.md -->
+
+**En débat.** Changer de République ou corriger la Ve ? Faut-il élire les députés à la proportionnelle ? Faut-il plus de référendums, ou un référendum d'initiative citoyenne ? Qui a le dernier mot : les juges, le Parlement ou le peuple ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [Gouverner](enjeux.qmd#8-gouverner--avec-quelle-majorité-et-dans-quelles-limites-).
+
+## Économie et finances
+
+### [Finances publiques](../../finances-publiques/finances_publiques.md)
+
+**À savoir.** La dette atteint 119,0 % du PIB fin juin 2026. Deux agences de notation ont abaissé la note de la France à A+ en 2025. En 2024, les recettes ont été inférieures de 41,5 Md€ à la prévision du budget, selon le Sénat.
+
+<!-- en-debat: finances-publiques/finances_publiques.md -->
+
+**En débat.** Réduire le déficit vite ou progressivement ? Économies ou impôts : sur quoi faire porter l'effort ? Taxer davantage les très hauts patrimoines et les héritages ? Quelles dépenses réduire ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [Une dette qui coûte plus cher](enjeux.qmd#2-une-dette-qui-coûte-plus-cher--économies-impôts-ou-délai-).
+
+### [Pouvoir d'achat, salaires et inégalités](../../pouvoir-achat/pouvoir_achat.md)
+
+**À savoir.** De 2021 à 2025, l'alimentation a pris 22,5 % et l'énergie 25,5 %, contre 13,6 % pour l'ensemble des prix. Fin 2021, la moitié des foyers qui y avaient droit ne touchaient pas la prime d'activité. Les 10 % les mieux dotés détiennent 48 à 60 % du patrimoine, selon la mesure.
+
+<!-- en-debat: pouvoir-achat/pouvoir_achat.md -->
+
+**En débat.** Le pouvoir d'achat a-t-il baissé ? Augmenter les salaires : par le SMIC ou par la baisse des prélèvements ? Agir sur les prix ou sur les revenus ? Faut-il indexer les salaires sur les prix ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [Le niveau de vie](enjeux.qmd#3-le-niveau-de-vie--salaires-prix-ou-logement-).
+
+### [Retraites et productivité](../../retraites-productivite/retraites_productivite.md)
+
+**À savoir.** Une heure de travail produit 15 % de plus que la moyenne de l'UE, mais 7,6 % de moins qu'en Allemagne. Selon le Conseil d'orientation des retraites, le solde des retraites atteindrait −0,9 % du PIB en 2045 et −2,4 % en 2070. Les plus de 65 ans sont moins souvent pauvres que dans la plupart des pays riches.
+
+<!-- en-debat: retraites-productivite/retraites_productivite.md -->
+
+**En débat.** Reculer l'âge de départ, ou s'appuyer sur la durée de cotisation ? Qui doit porter l'effort ? Faut-il une part de capitalisation ? Le déficit : trop de dépenses, pas assez de recettes, ou une question de convention ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [Une population qui vieillit](enjeux.qmd#1-une-population-qui-vieillit--qui-paie-).
+
+### [Travail et emploi](../../travail-emploi/travail_emploi.md)
+
+**À savoir.** Le chômage remonte, à 8,3 % au 2e trimestre 2026, alors que 69,3 % des 15-64 ans ont un emploi en 2025, un record depuis 1975. Le chômage des moins de 25 ans atteint 20,6 % en août 2026, contre 15,4 % dans l'UE. Les baisses de cotisations patronales sur les bas salaires coûtent ≈ 75 Md€ par an.
+
+<!-- en-debat: travail-emploi/travail_emploi.md -->
+
+**En débat.** L'assurance chômage : durcir les règles pour pousser au retour à l'emploi, ou mieux protéger ? Le revenu de solidarité active (RSA) et les aides : conditionner, plafonner, unifier, ou garantir un revenu ? Le temps de travail : travailler plus, ou moins ? Les baisses de cotisations : les garder, les recentrer, ou les réduire ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [Une population qui vieillit](enjeux.qmd#1-une-population-qui-vieillit--qui-paie-) ; [Le niveau de vie](enjeux.qmd#3-le-niveau-de-vie--salaires-prix-ou-logement-).
+
+### [Logement](../../logement/logement.md)
+
+**À savoir.** Les mises en chantier ont baissé d'un tiers de 2022 à 2024. Les prix ont été multipliés par 2,5 depuis 2000, puis ont baissé de 6 % depuis fin 2022. Selon l'Union sociale pour l'habitat, 2,9 millions de ménages attendent un logement social.
+
+<!-- en-debat: logement/logement.md -->
+
+**En débat.** Construire plus : par les organismes publics ou par les investisseurs privés ? Encadrer ou geler les loyers, ou supprimer l'encadrement ? Les passoires thermiques : garder le calendrier, l'assouplir ou le supprimer ? Qui doit passer en premier pour un logement social, et que faire de la loi relative à la solidarité et au renouvellement urbains (SRU) ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [Le niveau de vie](enjeux.qmd#3-le-niveau-de-vie--salaires-prix-ou-logement-) ; [La transition écologique](enjeux.qmd#4-la-transition-écologique--à-quel-rythme-et-qui-en-porte-le-coût-).
+
+## Services publics
+
+### [Éducation](../../education/remuneration_enseignants.md)
+
+**À savoir.** Les enseignants fonctionnaires gagnent 3 090 € nets par mois en moyenne (2024). En 2026, les concours font presque le plein : 98,5 % des postes pourvus en primaire, 96,1 % dans le secondaire. Parmi les bacheliers inscrits en licence, 40 % l'obtiennent en 3 ou 4 ans.
+
+<!-- en-debat: education/remuneration_enseignants.md -->
+
+**En débat.** Moins d'élèves : alléger les classes, mieux payer les enseignants, ou faire des économies ? Faut-il regrouper les élèves par niveau et rétablir des examens de passage ? Le privé sous contrat : que lui demander en échange de l'argent public ? L'accès au supérieur : sélectionner les étudiants, ou ouvrir toutes les formations ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [École, santé, sécurité](enjeux.qmd#5-école-santé-sécurité--plus-de-moyens-ou-une-autre-organisation-).
+
+### [Santé et assurance maladie](../../sante/sante_assurance_maladie.md)
+
+**À savoir.** Le déficit de la Sécurité sociale a doublé en deux ans : 10,8 Md€ en 2023, 21,6 Md€ en 2025. Les facultés admettent ≈ 11 000 étudiants en médecine par an, formés en ≈ 10 ans. Les Français vivent 1,4 an de plus que la moyenne de l'UE (2024).
+
+<!-- en-debat: sante/sante_assurance_maladie.md -->
+
+**En débat.** Déserts médicaux : obliger les médecins à s'installer là où ils manquent, ou les y inciter ? Comment réduire le déficit : économies, recettes nouvelles ou report de la dette ? Qui doit payer les soins : la Sécurité sociale seule, ou avec les complémentaires ? L'hôpital : rouvrir des lits, ou soigner davantage sans hospitalisation ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [Une population qui vieillit](enjeux.qmd#1-une-population-qui-vieillit--qui-paie-) ; [École, santé, sécurité](enjeux.qmd#5-école-santé-sécurité--plus-de-moyens-ou-une-autre-organisation-).
+
+### [Sécurité et justice](../../securite-justice/securite_justice.md)
+
+**À savoir.** Les homicides passent d'≈ 830 par an en 2017-2020 à 975 en 2025. Selon le ministre de l'Intérieur, les saisies de cocaïne passent de 23 tonnes en 2023 à 84 tonnes en 2025. Fin 2025, près de 6 000 affaires criminelles attendent d'être jugées.
+
+<!-- en-debat: securite-justice/securite_justice.md -->
+
+**En débat.** Les peines : punir plus sévèrement et construire des prisons, ou exécuter davantage de peines hors de prison ? Le trafic de drogue : un régime d'exception, ou la légalisation du cannabis ? Les mineurs : juger plus vite et plus sévèrement, ou garder la priorité à l'éducation ? La police : plus de moyens et de protection juridique, ou plus de proximité et de contrôle ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [École, santé, sécurité](enjeux.qmd#5-école-santé-sécurité--plus-de-moyens-ou-une-autre-organisation-).
+
+## Énergie et climat
+
+### [Énergie](../../energie/energie_france_europe_allemagne.md)
+
+**À savoir.** Le prix de gros pèse ≈ 30 % de la facture d'électricité d'un ménage, le réseau ≈ 31 % et les taxes ≈ 32 %. La France a exporté 92 térawattheures d'électricité en 2025, un volume record. En 2025, les taxes font 54 % du prix du gazole.
+
+<!-- en-debat: energie/energie_france_europe_allemagne.md -->
+
+**En débat.** Le prix de l'électricité : réformer les règles européennes ou s'en affranchir ? Nouveau nucléaire, renouvelables, ou les deux ? Électrifier : contraindre ou inciter ? Baisser les taxes pour tous, ou aider de façon ciblée ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [Le niveau de vie](enjeux.qmd#3-le-niveau-de-vie--salaires-prix-ou-logement-) ; [La transition écologique](enjeux.qmd#4-la-transition-écologique--à-quel-rythme-et-qui-en-porte-le-coût-) ; [La France dans l'Europe et face à la guerre](enjeux.qmd#7-la-france-dans-leurope-et-face-à-la-guerre).
+
+### [Climat et environnement](../../climat-environnement/climat_environnement.md)
+
+**À savoir.** L'agriculture émet 21 % des gaz à effet de serre, surtout du méthane de l'élevage. L'empreinte carbone, importations comprises, atteint 8,2 t par habitant en 2024, contre 5,3 t sur le territoire. La consommation d'espaces naturels a diminué de moitié depuis 2011.
+
+<!-- en-debat: climat-environnement/climat_environnement.md -->
+
+**En débat.** Comment accélérer la baisse des émissions : par le prix, par des normes ou par l'investissement public ? Réduire les émissions ou s'adapter d'abord ? Agriculture et eau : réduire les pesticides ou alléger les règles ? Les sols : garder, assouplir ou supprimer le « zéro artificialisation nette » ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [La transition écologique](enjeux.qmd#4-la-transition-écologique--à-quel-rythme-et-qui-en-porte-le-coût-).
+
+## La France dans le monde
+
+### [Immigration](../../immigration/immigration.md)
+
+**À savoir.** En 2025, 145 000 demandes d'asile ont été déposées ; 52 % des décisions accordent une protection, recours compris. La France reçoit 169 premières demandes pour 100 000 habitants, contre 149 dans l'UE. En 2025, 24 985 étrangers ont été éloignés.
+
+<!-- en-debat: immigration/immigration.md -->
+
+**En débat.** L'immigration coûte-t-elle ou rapporte-t-elle aux finances publiques ? Quel lien entre immigration et délinquance ? Faut-il plus d'immigration de travail ? Peut-on réduire les entrées et augmenter les retours dans le cadre européen ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [L'immigration](enjeux.qmd#6-limmigration--combien-qui-et-dans-quel-cadre-).
+
+### [Défense et Europe](../../defense-europe/defense_europe.md)
+
+**À savoir.** La défense pèse 2 % du PIB, contre 2,8 % en 1990. Pour l'aide à l'Ukraine, la France est le 10e donateur en valeur, le 22e sur 41 rapporté au PIB. Sa contribution au budget de l'UE passe de 23,0 Md€ en 2025 à 30,9 Md€ prévus en 2027.
+
+<!-- en-debat: defense-europe/defense_europe.md -->
+
+**En débat.** Jusqu'où augmenter le budget des armées, et avec quel argent ? L'Alliance atlantique (OTAN), l'Europe ou l'autonomie : avec qui assurer la sécurité de la France ? L'Ukraine : jusqu'où l'aider ? Plus ou moins d'Europe ?
+
+<!-- /en-debat -->
+
+**Enjeux liés.** [La France dans l'Europe et face à la guerre](enjeux.qmd#7-la-france-dans-leurope-et-face-à-la-guerre).
+
+## Les partis
+
+### [Ce que proposent les partis](../../partis/programmes_partis_2027.md)
+
+**À savoir.** Dans 17 sondages publiés de juillet à octobre 2026, Marine Le Pen obtient 29,2 à 38 % au premier tour. Raphaël Glucksmann a gagné la primaire de la gauche sociale-démocrate le 11 octobre 2026 ; Les Écologistes votent en décembre et LFI publie son programme le 6 novembre. Au 12 octobre 2026, aucun programme pour 2027 n'a de chiffrage indépendant.
+
+**Les fiches.** [La France insoumise (LFI)](../../partis/lfi.md) ; [Les Écologistes](../../partis/ecologistes.md) ; [PS-Place publique](../../partis/ps_place_publique.md) ; [Renaissance](../../partis/renaissance.md) ; [Horizons](../../partis/horizons.md) ; [Les Républicains (LR)](../../partis/lr.md) ; [Rassemblement national (RN)](../../partis/rn.md) ; [Reconquête](../../partis/reconquete.md).
+
+**Enjeux liés.** [Gouverner](enjeux.qmd#8-gouverner--avec-quelle-majorité-et-dans-quelles-limites-).

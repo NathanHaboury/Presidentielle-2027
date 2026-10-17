@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+_book/
+.quarto/
+*.quarto_ipynb
+
+# Fichiers provisoires de Quarto pendant un rendu (ils finissent dans docs/)
+/site_libs/
+/*.html
+/*/*.html
+/edition/livre/*.html
+!/docs/**
+
+/.quarto/
+**/*.quarto_ipynb

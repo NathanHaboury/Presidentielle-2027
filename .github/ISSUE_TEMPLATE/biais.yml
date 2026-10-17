@@ -1,0 +1,55 @@
+name: Biais ou déséquilibre
+description: Un passage qui penche d'un côté, ou un parti traité avec une exigence différente.
+title: "[Biais] "
+labels: ["neutralité"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Le document vise la même exigence pour tous les partis. Si un passage vous paraît pencher, dites-le, quelle que soit votre sensibilité.
+  - type: dropdown
+    id: chapitre
+    attributes:
+      label: Chapitre
+      options:
+        - Présentation ou introduction
+        - Institutions
+        - Finances publiques
+        - Pouvoir d'achat, salaires et inégalités
+        - Retraites et productivité
+        - Travail et emploi
+        - Logement
+        - Éducation
+        - Santé et assurance maladie
+        - Sécurité et justice
+        - Énergie
+        - Climat et environnement
+        - Immigration
+        - Défense et Europe
+        - Ce que proposent les partis
+        - Comparaisons internationales
+        - Annexe : TotalEnergies (étude de cas)
+        - Autre
+    validations:
+      required: true
+  - type: textarea
+    id: passage
+    attributes:
+      label: Le passage
+      description: Section et phrase exacte, ou ligne du tableau.
+    validations:
+      required: true
+  - type: textarea
+    id: probleme
+    attributes:
+      label: Ce qui vous paraît déséquilibré
+      description: Par exemple un mot qui juge, une critique non attribuée, un obstacle signalé pour un parti et pas pour un autre, une source orientée présentée comme neutre.
+    validations:
+      required: true
+  - type: textarea
+    id: proposition
+    attributes:
+      label: Ce que vous proposez
+      description: Une reformulation, une source ou une position à ajouter.
+    validations:
+      required: false

@@ -1,0 +1,53 @@
+# Introduction
+
+*Version de travail du 17 octobre 2026. Les chiffres datent du 7 au 12 octobre 2026, selon les chapitres. Ils seront mis à jour à la date d'arrêt des données de l'édition 1, dont la publication est visée pour la fin de 2026.*
+
+## Pourquoi ce livre
+
+Le premier tour de l'élection présidentielle aura lieu le 18 avril 2027, le second le 2 mai. D'ici là, chaque candidat avancera son diagnostic, ses chiffres et ses solutions. Le déficit vient-il des dépenses ou des baisses d'impôts ? L'immigration coûte-t-elle ou rapporte-t-elle aux finances publiques ? Peut-on payer l'électricité moins cher en sortant des règles européennes ? Chaque camp a sa réponse, et il est difficile de vérifier seul.
+
+Ce livre rassemble ce qu'il faut savoir pour se faire son propre avis. Pour chaque grand sujet de la campagne, il présente :
+
+- la situation : les faits, leur évolution et la comparaison avec nos voisins ;
+- ce qui fait débat, avec les arguments de chaque côté ;
+- ce que proposent les partis, comment ils le mettraient en place et ce qui pourrait les en empêcher ;
+- ce que montrent les évaluations des mesures déjà essayées, en France ou ailleurs ;
+- des affirmations entendues dans le débat, vérifiées une à une.
+
+Il ne recommande aucun vote et ne juge aucun programme dans son ensemble. Il applique la même exigence à tous les partis.
+
+## Ce qu'il contient
+
+Treize chapitres thématiques forment le cœur du livre. Ils sont regroupés en cinq parties : le cadre (les institutions), l'économie et les finances, les services publics, l'énergie et le climat, la France dans le monde. Chacun se lit seul et suit le même plan.
+
+La partie « Les partis » vient ensuite. Son introduction donne le calendrier, les candidats, les sondages et l'état des programmes. Une fiche par parti résume ensuite ses positions sur quatorze thèmes et renvoie aux chapitres pour le détail.
+
+En annexe : une étude de cas sur les profits et les impôts de TotalEnergies, et un glossaire.
+
+## Comment il est fait
+
+**Des sources que chacun peut vérifier.** Chaque chiffre a une unité, une année et une source, et une note relie chaque chiffre et chaque citation à sa source. Les sources sont choisies dans cet ordre :
+
+1. les statistiques et textes officiels : Institut national de la statistique et des études économiques (Insee), Eurostat, ministères, lois, décisions de justice ;
+2. les institutions publiques indépendantes : Cour des comptes, Haut Conseil des finances publiques, Banque de France, Organisation de coopération et de développement économiques (OCDE), Commission européenne ;
+3. la recherche universitaire publiée ;
+4. les instituts et les centres de réflexion, avec leur orientation, par exemple « Institut Montaigne (libéral) » ou « Fondation Jean-Jaurès (proche du PS) » ;
+5. la presse, signalée comme source secondaire.
+
+Les positions des partis viennent de leur programme officiel, puis de déclarations datées.
+
+**Ce qui est fragile est signalé.** Un chiffre dont la source n'est pas encore confirmée est marqué *(à vérifier)*. Chaque chapitre se termine par ses « Points incertains ».
+
+**Des unités simples.** Les montants sont en milliards d'euros (Md€) ou en millions d'euros (M€). Un montant « en % du PIB » est rapporté au produit intérieur brut, la richesse produite en France en un an (≈ 2 990 Md€ en 2025) : un point de PIB vaut donc ≈ 30 Md€. Les euros courants sont ceux de l'année concernée ; les euros constants sont corrigés de la hausse des prix, pour comparer des années différentes.
+
+**Une date d'arrêt des données.** Chaque édition retient le chiffre le plus récent publié à cette date. Juste avant la publication, une mise à jour actualisera ce qui bouge (budget, sondages, programmes), puis fixera la date.
+
+**Une méthode ouverte.** La recherche et la rédaction sont faites avec l'aide d'une intelligence artificielle (Claude, d'Anthropic), avec relecture et contrôle des sources. Le texte, les graphiques, le code qui les produit et la [charte éditoriale](edition/charte.md) sont publics : [github.com/NathanHaboury/Presidentielle-2027](https://github.com/NathanHaboury/Presidentielle-2027). Une erreur, un biais ou un problème de structure se signalent en [ouvrant une issue](https://github.com/NathanHaboury/Presidentielle-2027/issues/new/choose).
+
+## Par où commencer
+
+- **Pour une vue d'ensemble** : [les grands enjeux de 2027](edition/livre/enjeux.qmd). Huit questions qui traversent plusieurs chapitres, avec les faits qui les posent et les choix en débat.
+- **Pour un thème** : [le livre en bref](edition/livre/livre_en_bref.qmd) donne, chapitre par chapitre, les chiffres à retenir et les questions en débat. Chaque chapitre s'ouvre ensuite sur « L'essentiel », une page.
+- **Pour un parti** : sa fiche, dans la partie [« Les partis »](partis/programmes_partis_2027.md).
+
+Le [mode d'emploi](edition/livre/mode_emploi.qmd) explique le plan des chapitres et des fiches, le choix des partis, les verdicts et les signes utilisés.

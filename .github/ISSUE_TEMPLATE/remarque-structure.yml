@@ -1,0 +1,45 @@
+name: Remarque sur la structure
+description: La façon de présenter un sujet, le plan des chapitres, les verdicts ou les conventions.
+title: "[Structure] "
+labels: ["charte"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tous les chapitres suivent le même plan, fixé par la charte éditoriale (edition/charte.md). Vos remarques sur ce plan servent à l'améliorer pour tous les chapitres.
+  - type: dropdown
+    id: partie
+    attributes:
+      label: Partie concernée
+      options:
+        - L'essentiel
+        - La situation
+        - Ce qui fait débat
+        - Ce que proposent les partis (tableaux, leviers, obstacles)
+        - Ce que disent les évaluations
+        - Pour débattre (affirmations et verdicts)
+        - Points incertains
+        - Conventions (≈, calcul, source secondaire, à vérifier)
+        - Longueur ou lisibilité
+        - Mise en page du livre ou des PDF
+        - Autre
+    validations:
+      required: true
+  - type: input
+    id: chapitre
+    attributes:
+      label: Chapitre où vous l'avez remarqué
+    validations:
+      required: false
+  - type: textarea
+    id: remarque
+    attributes:
+      label: Votre remarque
+    validations:
+      required: true
+  - type: textarea
+    id: proposition
+    attributes:
+      label: Ce que vous proposez
+    validations:
+      required: false

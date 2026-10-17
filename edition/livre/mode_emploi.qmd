@@ -1,0 +1,113 @@
+# Mode d'emploi
+
+Ces pages complètent l'[introduction](../../index.qmd), qui présente les sources, la méthode et les unités. Elles rassemblent les repères communs à tout le livre : le plan des chapitres et des fiches, les partis retenus, les leviers, les verdicts et les signes. Elles se consultent au besoin.
+
+## Le plan d'un chapitre
+
+Chaque chapitre traite un thème et se lit seul. Il suit toujours le même plan :
+
+| Section | Ce qu'on y trouve |
+|---|---|
+| **En-tête** | Le sujet du chapitre, sa date et les chapitres liés. |
+| **Repères** *(facultatif)* | Les unités et les acteurs utiles pour suivre le chapitre. |
+| **L'essentiel** | En une page : 5 à 7 points clés, un graphique et les grandes options en débat. |
+| **1. La situation** | Les faits, leur évolution et la comparaison européenne. |
+| **2. Ce qui fait débat** | Deux à quatre questions centrales, avec les arguments de chaque côté. |
+| **3. Ce que proposent les partis** | Une vue d'ensemble, puis le détail de chaque parti : ses propositions, comment il les mettrait en place, ce qu'il ne précise pas, les critiques et ses réponses. |
+| **4. Ce que disent les évaluations** | Les mesures déjà essayées, en France ou ailleurs, et leurs effets mesurés. |
+| **5. Pour débattre : affirmations vérifiées** | Des affirmations entendues dans le débat, chacune avec un verdict. |
+| **6. Points incertains** | Ce qui reste fragile ou non vérifié. |
+| **Sources** | Les liens vers toutes les sources, classés par sous-thème, puis les notes de source. |
+
+Pour une lecture rapide, « L'essentiel » et la vue d'ensemble des partis suffisent. Les sections suivantes servent à approfondir un point ou à vérifier un chiffre.
+
+**Les encadrés** traitent un sujet qui touche plusieurs chapitres ; ils sont rattachés à l'un d'eux. **Les études de cas**, centrées sur un seul acteur, sont en annexe.
+
+## Les fiches des partis
+
+Après son introduction, construite comme un chapitre, la partie « Les partis » compte huit fiches, une par parti, toutes sur le même plan :
+
+| Section | Ce qu'on y trouve |
+|---|---|
+| **En bref** | Le projet, selon le parti ou son candidat, trois mesures phares, la méthode et ce qui n'est pas chiffré ou pas précisé. |
+| **1. Qui** | Le candidat et son parcours, les résultats passés du parti, ses élus, ses alliés et ses documents de référence. |
+| **2. Sa vision, dans ses mots** | Le projet, cité dans les documents et les déclarations datées du parti ou du candidat. |
+| **3. Ses propositions, thème par thème** | Quatorze thèmes, toujours dans le même ordre : la position, le levier, l'obstacle ou le coût principal, et le chapitre qui donne le détail. |
+| **4. Comment il gouvernerait** | La méthode annoncée pour appliquer le programme, et ce qu'elle suppose. |
+| **5. Ce que coûte le programme dans son ensemble** | Les chiffrages du parti et ceux d'organismes extérieurs, avec leur orientation et leur date. |
+| **6. Critiques et réponses** | Trois critiques au plus, d'orientations différentes, avec la réponse du parti quand elle existe. |
+| **7. Expérience du pouvoir et procédures en cours** | Les responsabilités nationales du parti et du candidat depuis 2012 ; les procédures judiciaires en cours qui visent le candidat. |
+| **8. Ce qui reste à préciser** | Les points que le parti n'a pas encore tranchés ou chiffrés. |
+
+Pour les quatorze thèmes, les fiches reprennent en règle générale les positions établies dans les chapitres. Pour les procédures, toute personne est présumée innocente tant qu'elle n'a pas été définitivement condamnée.
+
+## Les partis retenus
+
+Le livre suit les huit partis dont le candidat atteint au moins 5 % des intentions de vote dans au moins deux sondages de premier tour des trois derniers mois. Ils sont toujours présentés dans l'ordre où leurs groupes siégeaient à l'Assemblée nationale en 2022-2024, de gauche à droite ; Reconquête, qui n'y avait pas de groupe, vient en dernier. C'est une référence extérieure, pas un classement.
+
+| Parti | Nom complet |
+|---|---|
+| **LFI** | La France insoumise, le mouvement fondé par Jean-Luc Mélenchon |
+| **Les Écologistes** | Les Écologistes (anciennement Europe Écologie Les Verts) |
+| **PS-Place publique** | Parti socialiste et Place publique, présentés ensemble |
+| **Renaissance** | Renaissance (anciennement La République en marche), le parti fondé par Emmanuel Macron |
+| **Horizons** | Horizons, le parti fondé par Édouard Philippe |
+| **LR** | Les Républicains (anciennement Union pour un mouvement populaire, UMP) |
+| **RN** | Rassemblement national (anciennement Front national) |
+| **Reconquête** | Reconquête, le parti fondé par Éric Zemmour |
+
+**Les rattachements.** Une candidature de François Hollande serait rattachée à la fiche PS-Place publique. Les alliés du RN, l'Union des droites pour la République (UDR), sont présentés avec lui. Les autres candidats sont présentés dans l'introduction de la partie « Les partis » ; dans les chapitres, leurs propositions figurent dans une ligne « Autres », suivie, quand c'est utile, de la politique du gouvernement en place. La liste des partis retenus est revue à chaque édition.
+
+Quand un parti n'a pas encore publié son programme pour 2027, le livre le dit et donne la date de ses positions.
+
+## La colonne « Levier »
+
+Promettre ne suffit pas : il faut un moyen d'agir. Dans les tableaux des partis, la colonne « Levier » indique ce qu'il faudrait pour appliquer chaque mesure. Quand plusieurs leviers sont cités, le premier est le levier décisif. Une précision peut suivre entre parenthèses, par exemple « Décret (programmation de l'énergie) ».
+
+| Levier | Ce qu'il suppose |
+|---|---|
+| **Président** | Un pouvoir propre du président : défense, diplomatie, nominations, dissolution de l'Assemblée. |
+| **Décret** | Une décision du gouvernement seul. |
+| **Loi** | Une majorité à l'Assemblée nationale. En cas de désaccord, le Sénat peut retarder une loi ; il ne peut pas la bloquer si le gouvernement donne le dernier mot à l'Assemblée (article 45). |
+| **Budget** | Le vote de la loi de finances (budget de l'État) ou de la loi de financement de la Sécurité sociale. |
+| **Constitution** | Une révision de la Constitution : l'accord de l'Assemblée et du Sénat, puis un référendum ou, pour un projet du président, un vote du Parlement réuni en Congrès (3/5 des suffrages exprimés). |
+| **Référendum** | Un référendum direct (article 11 de la Constitution), dans les domaines où il est permis. |
+| **UE** | Un accord européen ou une modification du droit de l'Union européenne, souvent à l'unanimité des États. |
+| **Traité** | Un engagement international hors de l'Union européenne : Convention européenne des droits de l'homme, Nations unies… |
+| **Négociation** | Un accord avec les syndicats et le patronat. |
+| **Collectivités** | Une décision des communes, des départements ou des régions. |
+
+## Les verdicts de « Pour débattre »
+
+La section « Pour débattre » de chaque chapitre teste des affirmations précises, entendues dans le débat. Chaque affirmation donne un exemple : qui l'a dit, quand et où. Quand aucun auteur n'a été identifié, elle est notée « idée répandue » et n'est attribuée à aucun camp. Le verdict porte sur l'affirmation, pas sur le parti qui l'a faite. Il utilise toujours la même échelle :
+
+| Verdict | Ce qu'il signifie |
+|---|---|
+| **Vrai** | Les données confirment l'affirmation telle qu'elle est formulée. |
+| **Plutôt vrai** | L'affirmation est juste pour l'essentiel ; un chiffre, une date ou une précision manque. |
+| **À nuancer** | Une part de l'affirmation est juste et une part est inexacte, ou la réponse dépend des hypothèses, de la période ou du périmètre choisis. |
+| **Plutôt faux** | L'essentiel de l'affirmation est contredit par les données, même si un élément est juste. |
+| **Faux** | Les données contredisent l'affirmation. |
+| **Non démontré** | Les données disponibles ne permettent ni de confirmer ni d'infirmer l'affirmation. C'est souvent le cas d'un chiffrage sans évaluation indépendante. |
+
+## Les signes et les notes
+
+**Les signes de prudence** signalent les chiffres et les analyses fragiles.
+
+| Signe | Sens |
+|---|---|
+| **≈** | Valeur arrondie ou approximative. |
+| *(à vérifier)* | Information plausible, mais dont la source n'a pas encore été confirmée. |
+| *(calcul)* | Chiffre calculé par le livre à partir de sources citées. |
+| *(source secondaire)* | Information connue par la presse ou un intermédiaire, pas par la source d'origine. |
+| *(lecture du texte)* | Analyse juridique faite par le livre à partir d'un texte cité (loi, traité, directive), avec l'article. |
+| *(paraphrase)* | Propos rapporté avec d'autres mots que ceux de la personne, faute d'une citation exacte. |
+| *(traduction)* | Citation traduite par le livre depuis une autre langue. |
+
+**Les notes de source.** Un petit numéro après un chiffre ou une citation renvoie à sa source. Sur le site, la note s'ouvre quand on passe la souris sur ce numéro. Dans le PDF, les notes sont regroupées à la fin de chaque chapitre, et le numéro y renvoie d'un clic. Les pages qui résument n'ont pas de notes : « L'essentiel », les vues d'ensemble des partis, l'« En bref » des fiches, les grands enjeux et le livre en bref. Leurs chiffres renvoient aux chapitres, qui donnent les sources.
+
+**Les attributions.** Toute estimation ou opinion est attribuée : « selon la Cour des comptes… ». Le livre emploie des verbes neutres (« dit », « estime », « propose ») et pas, en son nom propre, de mots qui jugent (« ambitieux », « irréaliste », « massif »…). Les citations entre guillemets sont reproduites telles quelles.
+
+**Les unités** communes sont expliquées dans l'introduction ; celles qui sont propres à un thème (le kilowattheure pour l'énergie, par exemple), dans l'encadré « Repères » du chapitre.
+
+**Les sigles** sont développés à leur première apparition dans chaque chapitre, sauf UE (Union européenne), PIB (produit intérieur brut), TVA (taxe sur la valeur ajoutée), SMIC (salaire minimum interprofessionnel de croissance) et les sigles des partis. Tous figurent dans le glossaire, en annexe.

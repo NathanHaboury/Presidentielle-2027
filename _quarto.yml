@@ -1,0 +1,139 @@
+project:
+  type: book
+  output-dir: docs
+  render:
+    - index.qmd
+    - edition/livre/enjeux.qmd
+    - edition/livre/livre_en_bref.qmd
+    - edition/livre/mode_emploi.qmd
+    - institutions/institutions.md
+    - finances-publiques/finances_publiques.md
+    - pouvoir-achat/pouvoir_achat.md
+    - retraites-productivite/retraites_productivite.md
+    - travail-emploi/travail_emploi.md
+    - logement/logement.md
+    - education/remuneration_enseignants.md
+    - sante/sante_assurance_maladie.md
+    - securite-justice/securite_justice.md
+    - energie/energie_france_europe_allemagne.md
+    - climat-environnement/climat_environnement.md
+    - immigration/immigration.md
+    - defense-europe/defense_europe.md
+    - partis/programmes_partis_2027.md
+    - partis/lfi.md
+    - partis/ecologistes.md
+    - partis/ps_place_publique.md
+    - partis/renaissance.md
+    - partis/horizons.md
+    - partis/lr.md
+    - partis/rn.md
+    - partis/reconquete.md
+    - finances-publiques/encadre_totalenergies.md
+    - edition/glossaire.md
+
+book:
+  title: "Présidentielle 2027 : Comprendre avant de choisir"
+  subtitle: "Version de travail"
+  author: "Nathan Haboury"
+  date: "2026-10-17"
+  repo-url: https://github.com/NathanHaboury/Presidentielle-2027
+  output-file: presidentielle-2027
+  sidebar:
+    tools:
+      - icon: file-earmark-pdf
+        href: presidentielle-2027.pdf
+        text: Télécharger le PDF
+  chapters:
+    - index.qmd
+    - edition/livre/enjeux.qmd
+    - edition/livre/livre_en_bref.qmd
+    - edition/livre/mode_emploi.qmd
+    - part: "Le cadre"
+      chapters:
+        - institutions/institutions.md
+    - part: "Économie et finances"
+      chapters:
+        - finances-publiques/finances_publiques.md
+        - pouvoir-achat/pouvoir_achat.md
+        - retraites-productivite/retraites_productivite.md
+        - travail-emploi/travail_emploi.md
+        - logement/logement.md
+    - part: "Services publics"
+      chapters:
+        - education/remuneration_enseignants.md
+        - sante/sante_assurance_maladie.md
+        - securite-justice/securite_justice.md
+    - part: "Énergie et climat"
+      chapters:
+        - energie/energie_france_europe_allemagne.md
+        - climat-environnement/climat_environnement.md
+    - part: "La France dans le monde"
+      chapters:
+        - immigration/immigration.md
+        - defense-europe/defense_europe.md
+    - part: "Les partis"
+      chapters:
+        - partis/programmes_partis_2027.md
+        - partis/lfi.md
+        - partis/ecologistes.md
+        - partis/ps_place_publique.md
+        - partis/renaissance.md
+        - partis/horizons.md
+        - partis/lr.md
+        - partis/rn.md
+        - partis/reconquete.md
+  appendices:
+    - finances-publiques/encadre_totalenergies.md
+    - edition/glossaire.md
+
+lang: fr
+language:
+  title-block-author-single: "Auteur"
+  title-block-published: "Version du"
+filters:
+  - edition/livre/filtres/livre.lua
+  - edition/livre/filtres/notes.lua
+number-sections: false
+
+format:
+  html:
+    from: markdown+lists_without_preceding_blankline+autolink_bare_uris-blank_before_header-blank_before_blockquote
+    theme: cosmo
+    toc-depth: 3
+    # Largeur des colonnes du site : menu à gauche, texte, table des matières à droite.
+    grid:
+      sidebar-width: 280px
+      body-width: 1150px
+      margin-width: 260px
+      gutter-width: 2rem
+  typst:
+    from: markdown+lists_without_preceding_blankline+autolink_bare_uris-blank_before_header-blank_before_blockquote
+    papersize: a4
+    toc-depth: 1
+    template-partials:
+      - edition/livre/typst/typst-show.typ
+    include-in-header:
+      - text: |
+          #show table: set par(justify: false)
+          #show table: set text(size: 8pt)
+    include-before-body:
+      - text: |
+          // Les dossiers numérotent eux-mêmes leurs sections (1., 1.1…) :
+          // seuls les chapitres reçoivent un numéro automatique.
+          #set heading(numbering: (..nums) => {
+            let v = nums.pos()
+            if v.len() == 1 { numbering("1.", ..v) }
+          })
+          // En-tête de page : le titre du chapitre, sans numéro de section.
+          #set page(header: context {
+            let p = here().page()
+            let starts = query(heading.where(level: 1)).filter(h => h.location().page() == p)
+            if starts.len() > 0 { return none }
+            let before = query(heading.where(level: 1).before(here()))
+            if before.len() == 0 { return none }
+            set text(size: 8pt)
+            let t = before.last().body
+            if calc.even(p) { [#counter(page).display() #h(1fr) #t] } else { [#t #h(1fr) #counter(page).display()] }
+            v(-4pt)
+            line(length: 100%, stroke: 0.4pt)
+          })

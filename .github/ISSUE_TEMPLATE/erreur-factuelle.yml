@@ -1,0 +1,62 @@
+name: Erreur factuelle ou source
+description: Un chiffre, une date, une citation ou une source à corriger.
+title: "[Erreur] "
+labels: ["erreur factuelle"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de prendre le temps de signaler une erreur. Plus le signalement est précis, plus la correction est rapide.
+  - type: dropdown
+    id: chapitre
+    attributes:
+      label: Chapitre
+      options:
+        - Présentation ou introduction
+        - Institutions
+        - Finances publiques
+        - Pouvoir d'achat, salaires et inégalités
+        - Retraites et productivité
+        - Travail et emploi
+        - Logement
+        - Éducation
+        - Santé et assurance maladie
+        - Sécurité et justice
+        - Énergie
+        - Climat et environnement
+        - Immigration
+        - Défense et Europe
+        - Ce que proposent les partis
+        - Comparaisons internationales
+        - Annexe : TotalEnergies (étude de cas)
+        - Glossaire ou chiffres de référence
+        - Autre
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: Numéro ou titre de la section, par exemple « 1.3 » ou « Pour débattre ».
+    validations:
+      required: true
+  - type: textarea
+    id: texte-actuel
+    attributes:
+      label: Ce que dit le document
+      description: Copiez la phrase, le chiffre ou la ligne du tableau concernés.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Ce qui devrait être écrit
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Un lien vers la source, si possible primaire (institut statistique, texte de loi, rapport officiel, étude publiée). Précisez la date et la page.
+    validations:
+      required: true
