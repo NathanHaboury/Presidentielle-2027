@@ -1,6 +1,6 @@
 # Horizons
 
-*Fiche du 12 octobre 2026. Elle sera mise à jour à la date d'arrêt des données de l'édition 1, et revue après le choix éventuel d'un candidat commun du bloc central.*
+*Fiche du 12 octobre 2026, corrigée le 21 octobre 2026. Elle sera mise à jour à la date d'arrêt des données de l'édition 1, et revue après le choix éventuel d'un candidat commun du bloc central.*
 
 Horizons est le parti d'Édouard Philippe, ancien Premier ministre. Édouard Philippe est candidat déclaré depuis le 3 septembre 2024, sans procédure de désignation. Gabriel Attal (Renaissance) est aussi candidat dans le même « bloc central » : Édouard Philippe refuse une primaire et propose « un rassemblement de la droite et du centre ».
 
@@ -66,7 +66,7 @@ Pour la majorité, il propose « un rassemblement de la droite et du centre »[^
 |---|---|---|---|
 | Horizons (site de campagne) | Déficit public en fin de quinquennat | 2 % du PIB, contre plus de 5 %[^philippe-prospere] | Page non datée |
 | Horizons | « Pacte fiscal » avec les entreprises | 50 Md€ par an d'impôts de production en moins, contre 50 Md€ d'aides en moins[^philippe-prospere] ; 250 Md€ sur le quinquennat *(source secondaire)*[^publicsenat-pacte-philippe] | Novembre 2025 |
-| Horizons | Retraites : 65 ans et 45 années de cotisation | Gain de 30 Md€ par an, dont 10 Md€ pour les retraites *(source secondaire)*[^jdn-retraites-philippe] | Septembre 2026 |
+| Horizons | Retraites : 65 ans et 45 années de cotisation | Gain de 30 Md€ par an, dont 10 Md€ pour le système de retraite et 20 Md€ pour les finances publiques *(source secondaire)*[^jdn-retraites-philippe] | Septembre 2026 |
 | Édouard Philippe (France 2) | Emploi public ; partage de l'effort | 250 000 postes en moins sur cinq ans ; effort porté à 50 % sur les dépenses sociales et à 25 % sur les collectivités *(source secondaire)*[^sudradio-philippe-heure-verite] | 8 octobre 2026 |
 | Fondation IFRAP (libérale) | Comparateur des propositions | Reprend les montants annoncés, sans chiffrage propre[^ifrap-comparateur] | Octobre 2026 |
 
@@ -132,7 +132,7 @@ Aucune critique nommée venue du RN ou de LR sur ses mesures principales n'a ét
 [^ifrap-comparateur]: Fondation IFRAP (libérale), [comparateur des propositions pour la présidentielle 2027](https://www.ifrap.org/comparateurs/presidentielles-2027), consulté le 7 octobre 2026.
 [^publicsenat-pacte-philippe]: Public Sénat, [« pacte fiscal » d'É. Philippe : 250 milliards d'euros sur un quinquennat](https://www.publicsenat.fr/actualites/economie/entreprises-un-deal-a-250-milliards-deuros-sur-un-quinquennat-que-represente-la-proposition-dedouard-philippe), 6 novembre 2025 *(source secondaire)*.
 [^titrespresse-philippe-carburants]: Titrespresse, [Édouard Philippe et les carburants](https://www.titrespresse.com/21543322603/edouard-philippe-carburants), septembre 2026 *(source secondaire)*.
-[^jdn-retraites-philippe]: Journal du Net, [projet de réforme des retraites d'É. Philippe](https://www.journaldunet.com/business/action-publique/1555605-edouard-philippe-devoile-son-projet-de-reforme-des-retraites-pour-la-presidentielle-2027-prevoyant-un-depart-a-65-ans-et-45-annuites/), 2026 *(source secondaire)*.
+[^jdn-retraites-philippe]: Journal du Net, [projet de réforme des retraites d'É. Philippe](https://www.journaldunet.com/business/action-publique/1555605-edouard-philippe-devoile-son-projet-de-reforme-des-retraites-pour-la-presidentielle-2027-prevoyant-un-depart-a-65-ans-et-45-annuites/), 30 septembre 2026 *(source secondaire)*.
 [^cour-retraites-2025]: Cour des comptes, [« Situation financière et perspectives du système de retraites », communication au Premier ministre](https://www.ccomptes.fr/sites/default/files/2025-02/20250220-Situation-financiere-et-perspectives-du-systeme-de%20retraites_0.pdf), février 2025 ([copie sur vie-publique.fr](https://www.vie-publique.fr/files/rapport/pdf/297428.pdf)).
 [^lcp-philippe-chomage]: LCP, [« Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum »](https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum), août 2026 *(source secondaire)*.
 [^senat-488]: Sénat, [rapport n° 488 (2025-2026) sur la transposition de l'accord sur les ruptures conventionnelles](https://www.senat.fr/rap/l25-488/l25-488_mono.html), mars 2026.

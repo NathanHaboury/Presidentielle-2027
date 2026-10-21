@@ -269,7 +269,8 @@ def cout_horaire():
     # Gauche : Insee, « Coût horaire du travail dans l'Union européenne – données annuelles 2025 »
     #   (18 septembre 2026), d'après Eurostat ; secteur marchand non agricole hors services aux ménages,
     #   entreprises de 10 salariés ou plus. Belgique : 2024. Autriche : provisoire.
-    # Droite : Eurostat, communiqué du 31 mars 2026 (ensemble de l'économie, 2025) : part des coûts non
+    # Droite : Eurostat, communiqué du 31 mars 2026 (ensemble de l'économie hors sections A, O, T et U de
+    #   la NACE, soit hors agriculture et administration publique, 2025) : part des coûts non
     #   salariaux (cotisations patronales et taxes sur l'emploi, moins les subventions) dans le coût du travail.
     rows = [("Luxembourg", 56.2), ("Danemark", 53.3), ("Belgique (2024)", 48.0), ("Suède", 46.6),
             ("Autriche", 46.3), ("Pays-Bas", 46.2), ("Allemagne", 45.7), ("France", 44.7), ("Zone euro", 38.1),
@@ -284,11 +285,12 @@ def cout_horaire():
     ax1.set_title("Coût d'une heure de travail, en euros (2025)", fontsize=11)
     hbars(ax2, share, {"France"}, lambda v: f"{fr(v)} %", 0.5, special={"Union européenne": ORANGE})
     ax2.set_xlim(0, 38)
-    ax2.set_title("Part des cotisations patronales et taxes\nsur l'emploi dans ce coût, en %", fontsize=11)
+    ax2.set_title("Part des cotisations patronales et taxes sur\nl'emploi dans le coût du travail, en %\n"
+                  "(ensemble de l'économie)", fontsize=11)
     finish(fig, "06_cout_horaire.png",
            "Une heure de travail coûte plus cher en France que dans l'UE, et les cotisations y pèsent plus",
            "À gauche : entreprises de 10 salariés ou plus, hors agriculture et services aux ménages. À droite : "
-           "ensemble de l'économie.",
+           "ensemble de l'économie, hors agriculture et administration publique.",
            "Sources : Insee, d'après Eurostat (septembre 2026), à gauche ; Eurostat, communiqué du 31 mars 2026, "
            "à droite.")
 

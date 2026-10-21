@@ -1,6 +1,6 @@
 # Parti socialiste et Place publique (PS-Place publique)
 
-*Fiche du 12 octobre 2026. Elle sera mise à jour à la date d'arrêt des données de l'édition 1, et revue après la publication du programme de Raphaël Glucksmann et la décision de François Hollande.*
+*Fiche du 12 octobre 2026, corrigée le 21 octobre 2026. Elle sera mise à jour à la date d'arrêt des données de l'édition 1, et revue après la publication du programme de Raphaël Glucksmann et la décision de François Hollande.*
 
 Le Parti socialiste (PS) et Place publique présentent un candidat commun. Raphaël Glucksmann, cofondateur de Place publique, a été désigné le 11 octobre 2026 par une primaire organisée avec la Gauche républicaine et socialiste (GRS)[^publicsenat-primaire-resultats][^pp-primaire-modalites]. François Hollande n'y a pas participé ; une candidature de sa part serait rattachée à cette fiche.
 
@@ -17,7 +17,7 @@ Le Parti socialiste (PS) et Place publique présentent un candidat commun. Rapha
 
 | | |
 |---|---|
-| Candidat | Raphaël Glucksmann, désigné au premier tour de la primaire (11 octobre 2026) : ≈ 66 %, devant Olivier Faure (≈ 14,5 %), Ségolène Royal, Emmanuel Maurel et Jérôme Guedj ; 120 787 votants ; pas de second tour |
+| Candidat | Raphaël Glucksmann, désigné au premier tour de la primaire (11 octobre 2026) : ≈ 66 % des suffrages exprimés, devant Olivier Faure (≈ 14,5 %), Ségolène Royal, Emmanuel Maurel et Jérôme Guedj ; 120 787 votants ; pas de second tour |
 | Parcours | Cofondateur de Place publique (2018) ; député européen depuis 2019 |
 | Résultats passés | Présidentielle 2022 : Anne Hidalgo (PS), 1,75 % *(calcul)*. Européennes 2024 : liste PS-Place publique conduite par Raphaël Glucksmann, 13,83 %. Législatives 2024 : le PS dans l'Union de la gauche, 28,1 % au premier tour |
 | Élus | 68 députés (Socialistes et apparentés) ; 62 sénateurs (Socialiste, écologiste et républicain) ; 13 sièges de députés européens en 2024 |

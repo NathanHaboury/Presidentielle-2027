@@ -95,7 +95,7 @@ def delinquance_indices():
     # Niveaux 2025 publiés ; niveaux 2016-2024 recalculés à partir des évolutions annuelles du bilan
     # (figure 1, p. 7), sauf violences sexuelles 2016 (51 900, publié) et 2024 (Chiffres clés 2025).
     # Homicides : niveaux publiés (réponse à la question écrite n° 12954, JO du 5/12/2023, pour 2016-2022 ;
-    # bilans 2024 et 2025) ; 2023 recalculé (≈ 996). Calculs dans edition/recherche/securite-justice/
+    # bilans 2024 et 2025) ; 2023 recalculé (≈ 996). Calculs dans les notes de recherche (non publiées),
     # situation_delinquance.md, section 10.
     yrs = list(range(2016, 2026))
     series = [

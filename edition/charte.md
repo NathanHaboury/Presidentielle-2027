@@ -1,6 +1,6 @@
 # Charte éditoriale
 
-*Version 2, validée le 7 octobre 2026. Elle intègre les 17 ajustements issus du chapitre pilote Énergie (voir `edition/pilote/notes_pilote.md`), puis, le même jour, les notes de source testées sur le chapitre Finances publiques (section 4). Elle s'applique à tous les dossiers du dépôt et au document unifié qui les rassemblera.*
+*Version 2, validée le 7 octobre 2026, corrigée le 21 octobre 2026. Elle intègre les 17 ajustements issus du chapitre pilote Énergie (voir `edition/pilote/notes_pilote.md`), puis, le même jour, les notes de source testées sur le chapitre Finances publiques (section 4). Elle s'applique à tous les dossiers du dépôt et au document unifié qui les rassemblera. Les documents de travail cités ici (`edition/chiffres_reference.md`, `edition/pilote/`, `edition/recherche/`) restent dans le dépôt de travail ; le dépôt public ne les contient pas.*
 
 ## 1. Objectif et lecteur
 
@@ -22,7 +22,7 @@
 5. **Montrer l'incertitude.** Les conventions ≈, *(à vérifier)*, *(calcul)*, *(source secondaire)* et *(lecture du texte)* signalent les chiffres et les analyses fragiles. Chaque chapitre se termine par ses points incertains :
    - chaque *(à vérifier)* du texte y est repris ;
    - une citation dont la source reste introuvable est retirée, pas gardée avec *(à vérifier)*.
-6. **Dater les chiffres.** Chaque édition porte une **date d'arrêt des données** : « données arrêtées au … ». Chaque chiffre est le plus récent publié à cette date. Cette date n'est pas fixée à l'avance. Pendant le travail, les dossiers gardent les chiffres disponibles. Juste avant de publier, une passe de mise à jour actualise tous les chiffres qui bougent (liste dans `chiffres_reference.md`), puis fixe la date.
+6. **Dater les chiffres.** Chaque édition porte une **date d'arrêt des données** : « données arrêtées au … ». Chaque chiffre est le plus récent publié à cette date. Cette date n'est pas fixée à l'avance. Pendant le travail, les dossiers gardent les chiffres disponibles. Juste avant de publier, une passe de mise à jour actualise tous les chiffres qui bougent (liste dans le tableau des chiffres de référence, document de travail non publié), puis fixe la date.
 7. **Les lectures juridiques du document.** Quand le document lit lui-même un texte (loi, traité, directive) pour juger si une proposition est possible, il cite l'article visé et ajoute *(lecture du texte)*. Il le fait de la même façon pour toutes les propositions comparables.
 
 **Ordre de priorité des sources.**
@@ -42,7 +42,7 @@ Pour les positions des partis : le programme officiel en priorité, puis des dé
 | Sigles | Développés à la première apparition dans chaque chapitre : « Conseil d'orientation des retraites (COR) ». Exceptions, expliquées une fois dans le mode d'emploi : UE, PIB, TVA, SMIC et les sigles des partis. Tous figurent dans le glossaire commun. Les noms de médias et d'instituts de sondage (TF1, BFMTV, M6, RTL, LCI, Ipsos BVA) sont des marques : ils ne se développent pas. |
 | Termes techniques | Expliqués en une phrase à leur première apparition (« prélèvements obligatoires », « déficit structurel », « taux marginal »…). |
 | Chiffres | Arrondis à ce qui est utile ; virgule décimale ; euros courants ou constants précisés ; rendus concrets quand c'est possible (par habitant, par mois, en % du PIB). |
-| Chiffres partagés | Chaque chiffre de `chiffres_reference.md` a un **chapitre maison**, qui le détaille. Les autres chapitres le citent à l'identique, avec un renvoi. |
+| Chiffres partagés | Chaque chiffre du tableau des chiffres de référence (document de travail) a un **chapitre maison**, qui le détaille. Les autres chapitres le citent à l'identique, avec un renvoi au chapitre maison ou à la source, pas au numéro du tableau. |
 | Renvois | Chaque section peut se lire seule. Elle peut reprendre un chiffre d'une autre section ou d'un autre chapitre, avec un renvoi ; elle n'en répète pas l'explication. |
 | Verbes d'attribution | Neutres : « dit », « estime », « propose ». Pas de « prétend », « reconnaît », « avoue », « ironise », « dénonce », « tacle ». |
 | Mots qui jugent | Interdits dans la voix du document : « ambitieux », « irréaliste », « dangereux », « modeste » (pour juger une taille : « un effet modeste »), « massif », « bien plus », « jamais », « seulement », « ne… que ». On écrit le chiffre : « représente 30 % » plutôt que « ne pèse que 30 % ». Exceptions : les citations ; « ménages modestes », catégorie de revenus ; « ne… que » dans le titre d'un graphique qui énonce un constat chiffré. |
@@ -129,7 +129,7 @@ La colonne **Levier** indique ce qu'il faut pour appliquer la mesure. Elle utili
 
 **Le gouvernement.** Sa politique est décrite dans « La situation ». Dans un tableau, une ligne « Gouvernement » est permise comme contexte : elle est placée après les partis et ne remplace pas la ligne Renaissance.
 
-**Les partis retenus.** Les 8 partis dont le candidat atteint au moins 5 % dans au moins deux sondages de premier tour des trois derniers mois : LFI, Les Écologistes, PS-Place publique, Renaissance, Horizons, LR, RN, Reconquête. Les autres candidats sont regroupés dans une ligne « Autres ». La liste est revue à chaque édition.
+**Les partis retenus.** Les 8 partis dont au moins un candidat testé atteint 5 % dans au moins deux sondages de premier tour des trois derniers mois : LFI, Les Écologistes, PS-Place publique, Renaissance, Horizons, LR, RN, Reconquête. Une personnalité testée pour un parti compte pour ce parti et lui est rattachée : François Hollande et Olivier Faure à PS-Place publique, Bruno Le Maire à Renaissance. Les autres candidats, dont François Ruffin et David Lisnard, sont regroupés dans une ligne « Autres ». La liste est revue à chaque édition.
 
 **L'ordre des partis.** Tous les tableaux suivent le même ordre : celui dans lequel les groupes parlementaires siègent dans l'hémicycle de l'Assemblée nationale, de gauche à droite. C'est une référence extérieure, qui évite au document de classer lui-même les partis. L'ordre retenu est celui de la législature 2022-2024, vérifié sur les places des députés : **LFI, Les Écologistes, PS-Place publique, Renaissance, Horizons, LR, RN**, puis **Reconquête**, qui n'a pas de groupe, puis la ligne « Autres », puis, le cas échéant, le gouvernement. **L'introduction du document explique ce choix au lecteur**, et chaque tableau des partis le rappelle en note.
 
@@ -137,6 +137,7 @@ La colonne **Levier** indique ce qu'il faut pour appliquer la mesure. Elle utili
 
 - **Un exemple daté par affirmation** : qui l'a dit, quand, où. Sans exemple trouvé, l'affirmation est notée « idée répandue, sans auteur identifié » et n'est attribuée à aucun camp.
 - **L'équilibre** : chaque parti retenu a au moins une affirmation testée, dans le chapitre ou dans un chapitre lié. « À nuancer » reste le verdict quand les données le justifient. « Vrai » et « Plutôt vrai » sont utilisés de la même façon quand les faits le justifient.
+- **Les mots forts** : une affirmation peut contenir un mot fort ou une image, comme « explosion » ou « effondrement ». Si les données ne confirment pas ce mot, le verdict est au plus « À nuancer », même quand la tendance décrite est juste (règle du 21 octobre 2026).
 
 ### Les encadrés
 
@@ -152,7 +153,7 @@ Il suit l'ordre des partis. Longueur visée : ≈ 1 500 mots, ordre de grandeur 
 
 ### La Partie V : l'introduction et les fiches des partis
 
-La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`programmes_partis_2027.md`) et une fiche par parti retenu. Plan de travail détaillé : `edition/recherche/partis/00_plan.md`.
+La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`programmes_partis_2027.md`) et une fiche par parti retenu. Un plan de travail détaillé figure dans les notes de recherche, non publiées.
 
 **Le principe : une seule source par position.** Les fiches ne créent pas de contenu thématique. Chaque position, levier et obstacle est repris du chapitre du thème, avec la même note. Une position absente des chapitres n'entre dans une fiche qu'avec sa propre source primaire ou de presse ; elle est alors signalée au chapitre concerné.
 
@@ -185,7 +186,7 @@ La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`
 
 - Le titre énonce le constat ; le sous-titre donne la mesure et l'unité.
 - La source et les notes figurent sous le graphique.
-- Les barres partent de zéro.
+- Les barres partent de zéro. Une plage de valeurs (de la plus basse à la plus haute) se trace par un trait, avec au besoin un point pour la médiane, et non par une barre. Son axe peut alors commencer ailleurs qu'à zéro, si le sous-titre le dit.
 - La France est en bleu quand plusieurs pays sont comparés. Dans un graphique sur la France seule, le bleu désigne la série principale.
 - Un graphique et un tableau ne présentent jamais les mêmes chiffres.
 - 3 à 6 graphiques par chapitre en général. Au-delà, chacun doit montrer ce que le texte ne dit pas.
@@ -197,7 +198,7 @@ La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`
 
 | Question | Décision |
 |---|---|
-| **Partis retenus** | Les 8 partis de la section 4. Une éventuelle candidature de François Hollande serait rattachée à la colonne PS-Place publique. |
+| **Partis retenus** | Les 8 partis de la section 4. Une éventuelle candidature de François Hollande serait rattachée à la colonne PS-Place publique. *Précision du 21 octobre 2026 : Olivier Faure est aussi rattaché à PS-Place publique, et Bruno Le Maire à Renaissance.* |
 | **Ordre des partis** | L'ordre de l'hémicycle, expliqué dans le mode d'emploi. |
 | **Date d'arrêt des données** | Fixée au moment de publier (section 2, point 6). Édition 1 : publication visée début décembre 2026, après la primaire du PS (octobre) et le nouveau programme de LFI (novembre). Édition 2 : après la publication de la liste officielle des candidats (mi-mars 2027). |
 | **Longueur des chapitres** | Indicative (section 4). |
@@ -211,7 +212,7 @@ La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`
 |---|---|
 | **Relier le texte aux sources** | Les notes de source (section 4) deviennent la convention, après le test sur le chapitre Finances publiques. Dans le PDF du livre, elles sont regroupées en fin de chapitre plutôt qu'en bas de page. À appliquer aux chapitres déjà conformes (Énergie, Climat et environnement, encadré TotalEnergies, Santé), puis à chaque chapitre remis au gabarit. |
 
-**7 octobre 2026, après le pilote** (bilan dans `edition/pilote/notes_pilote.md`).
+**7 octobre 2026, après le pilote** (bilan dans les notes du pilote, non publiées).
 
 | Question | Décision |
 |---|---|
@@ -232,7 +233,7 @@ La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`
 | **RN** | L'Union des droites pour la République (UDR) d'Éric Ciotti est traitée dans la fiche RN, comme alliée. |
 | **Autres candidats** | Une section de l'introduction, une ligne par candidat. |
 | **Procédures** | Une information judiciaire visant le candidat est citée, avec la mention qu'il n'est pas mis en examen et la présomption d'innocence. |
-| **Seuil des 5 %** | « Dans au moins deux sondages » au lieu d'« au moins un » : François Ruffin (6 %) et David Lisnard (5,2 %) atteignent 5 % dans une seule hypothèse chacun. La règle ainsi précisée retient les mêmes 8 partis. L'auteur maintient la sélection des 8 partis (12 octobre 2026) : les petits partis qui dépassent 5 % dans un seul sondage ne sont pas retenus pour l'instant. |
+| **Seuil des 5 %** | « Dans au moins deux sondages » au lieu d'« au moins un » : François Ruffin (6 %) et David Lisnard (5,2 %) atteignent 5 % dans une seule hypothèse chacun. La règle ainsi précisée retient les mêmes 8 partis. L'auteur maintient la sélection des 8 partis (12 octobre 2026) : les petits partis qui dépassent 5 % dans un seul sondage ne sont pas retenus pour l'instant. *Précision du 21 octobre 2026 : la règle s'applique par parti ; il suffit qu'un de ses candidats testés atteigne 5 % dans au moins deux sondages. François Hollande (9 sondages) et Olivier Faure (3) sont rattachés à PS-Place publique, Bruno Le Maire (1 sondage, 6 %) à Renaissance. François Ruffin et David Lisnard restent dans « Autres ».* |
 
 **16 et 17 octobre 2026, ouverture du livre.** Une première version (présentation, 10 constats, chapitres en bref, « Comment lire ce livre ») a été écrite le 16 octobre puis abandonnée le 17 : les constats répétaient les premiers points de « L'essentiel », et les quatre blocs ne formaient pas un tout.
 
@@ -246,15 +247,27 @@ La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`
 | **Présentation de l'avancement** | Le tableau d'avancement est tenu dans le README racine. |
 | **Numéros des parties** | Le texte du livre ne cite pas les parties par leur numéro (le PDF les numérote de I à VI, la section 7 de 0 à V) : il écrit « la partie « Les partis » ». |
 
+**21 octobre 2026, après une relecture externe.**
+
+| Question | Décision (21 octobre 2026) |
+|---|---|
+| **Mots forts** | Un mot fort ou une image que les données ne confirment pas limite le verdict à « À nuancer » au plus (section 4, « Section 5 : pour débattre »). Règle écrite aussi dans le mode d'emploi. |
+| **Équilibre des verdicts** | Le mode d'emploi explique ce que les verdicts ne mesurent pas : le nombre d'affirmations par camp et la part de chaque verdict ne forment pas une note des partis. Deux ou trois affirmations datées de Jean-Luc Mélenchon et de Marine Tondelier seront ajoutées. |
+| **Seuil des 5 %** | Règle par parti, avec les rattachements (section 4, « Les partis retenus »). |
+| **Sujets non traités** | L'édition 1 ajoute la politique étrangère hors Ukraine (Défense et Europe), le grand âge (Santé) et les transports (Énergie). L'introduction liste les autres sujets que le livre ne traite pas encore. Les fiches gardent leurs 14 lignes. |
+| **Annexes** | Les chiffres de référence restent un document de travail, non publié : ils ne figurent plus dans les annexes (section 7). Les chapitres renvoient à la source ou au chapitre maison, pas au numéro du tableau. |
+| **Graphiques** | Une plage de valeurs se trace par un trait, pas par une barre ; son axe peut ne pas partir de zéro si le sous-titre le dit (section 5). |
+| **Dates** | Chaque chapitre ou fiche corrigé garde sa date et ajoute « , corrigée le 21 octobre 2026 ». |
+
 ## 7. Plan du document unifié
 
 | Partie | Chapitres |
 |---|---|
-| **Ouverture** | Introduction (pourquoi ce livre, contenu, méthode et sources, date des chiffres, par où commencer) ; les grands enjeux de 2027 ; le livre en bref ; mode d'emploi (plan d'un chapitre et des fiches, partis retenus et ordre, leviers, verdicts, signes, unités, sigles) |
+| **Ouverture** | Introduction (pourquoi ce livre, contenu, ce qu'il ne traite pas encore, méthode et sources, date des chiffres, par où commencer) ; les grands enjeux de 2027 ; le livre en bref ; mode d'emploi (plan d'un chapitre et des fiches, partis retenus et ordre, leviers, verdicts, signes, unités, sigles) |
 | **0. Le cadre** | Institutions : comment la France est gouvernée (majorité, Constitution, référendum, juges et droit européen, propositions des partis). Le calendrier de 2027, les candidats et les sondages sont dans l'introduction de la Partie V, section 1 |
 | **I. Économie et finances** | Finances publiques ; Pouvoir d'achat, salaires et inégalités ; Retraites et productivité ; Travail et emploi ; Logement |
 | **II. Services publics** | Éducation ; Santé et assurance maladie ; Sécurité et justice |
 | **III. Énergie et climat** | Énergie ; Climat et environnement |
 | **IV. La France dans le monde** | Immigration ; Défense et Europe |
 | **V. Les partis** | Introduction (calendrier, candidats, sondages, programmes, tableau croisé, promesses tenues, autres candidats), puis une fiche par parti, sur le même gabarit, qui renvoie aux chapitres |
-| **Annexes** | Études de cas (TotalEnergies, profits et impôts) ; glossaire ; chiffres de référence ; sources générales |
+| **Annexes** | Études de cas (TotalEnergies, profits et impôts) ; glossaire |

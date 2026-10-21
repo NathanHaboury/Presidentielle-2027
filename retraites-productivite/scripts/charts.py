@@ -1,6 +1,6 @@
 """Graphiques du chapitre « Retraites et productivité ».
 Toutes les données sont sourcées dans le chapitre (retraites_productivite.md)
-et dans les notes de recherche (edition/recherche/retraites-productivite/).
+et dans les notes de recherche (non publiées).
 """
 import numpy as np
 import matplotlib
@@ -200,7 +200,8 @@ def productivite():
     finish(fig, "03_productivite_horaire.png",
            "La France produit plus par heure que la moyenne de l'UE, mais reste sous sa tendance d'avant 2019",
            "Productivité horaire de l'ensemble de l'économie. Pointillés : France si la productivité avait "
-           "progressé de 0,7 % par an depuis 2019 (convention de l'Insee).",
+           "progressé de 0,7 % par an depuis 2019 (convention de l'Insee).\nEn 2025, la France est 4,9 % "
+           "sous cette tendance.",
            "Source : Eurostat, tesem160 (niveau, en standards de pouvoir d'achat) et nama_10_lp_ulc (évolution, "
            "rebasée 2019 = 100), octobre 2026.")
 

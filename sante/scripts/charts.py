@@ -110,7 +110,10 @@ def deficit():
     # Hauteur réduite : ce graphique figure dans « L'essentiel », qui doit tenir sur une page du PDF.
     fig, ax = plt.subplots(figsize=(12.5, 4.9))
     fig.subplots_adjust(left=0.08, right=0.97, top=0.85, bottom=0.16)
-    # Solde du régime général et du fonds de solidarité vieillesse (FSV), Md€.
+    # Solde des régimes obligatoires de base et du fonds de solidarité vieillesse (FSV), Md€ (périmètre du
+    # tableau du Sénat, avis n° 747 ; le régime général et le FSV seuls font −20,3 Md€ en 2025).
+    # Correction du 21 octobre 2026 : le titre disait « régime général et FSV ». Le périmètre de 2021-2022 (IFRAP)
+    # et de 2026-2027 (projet de loi) reste à vérifier.
     # 2021-2022 : IFRAP d'après les comptes officiels (source secondaire).
     # 2023-2025 : Sénat, avis n° 747 (juin 2026).
     # 2026 : prévision révisée du projet de loi de financement pour 2027 (n° 3211, 1er octobre 2026), article 1er
@@ -122,7 +125,7 @@ def deficit():
     mal = [None, None, None, -13.8, -15.9, None, None]
     x = np.arange(len(yrs))
     w = 0.36
-    b = ax.bar(x - w / 2, tot, w, color=ORANGE, label="Ensemble (régime général et fonds de solidarité vieillesse)")
+    b = ax.bar(x - w / 2, tot, w, color=ORANGE, label="Ensemble (régimes obligatoires de base et fonds de solidarité vieillesse)")
     for bar in b[-2:]:
         bar.set_hatch("///")
         bar.set_edgecolor(SURFACE)
@@ -145,7 +148,7 @@ def deficit():
     hgrid(ax)
     finish(fig, "02_deficit_secu.png",
            "Le déficit de la Sécurité sociale a doublé en deux ans ; le projet de budget vise 12,7 Md€ en 2027",
-           "Solde du régime général et du fonds de solidarité vieillesse, en milliards d'euros (hachures : prévision et objectif)",
+           "Solde des régimes obligatoires de base et du fonds de solidarité vieillesse, en milliards d'euros (hachures : prévision et objectif)",
            "Sources : Sénat, avis n° 747 (2023-2025) ; IFRAP, think tank libéral, d'après les comptes (2021-2022, à vérifier) ; "
            "projet de loi de financement pour 2027 (2026 ; 2027 via la presse).")
 

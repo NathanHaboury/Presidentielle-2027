@@ -1,6 +1,6 @@
 # Introduction
 
-*Version de travail du 17 octobre 2026. Les chiffres datent du 7 au 12 octobre 2026, selon les chapitres. Ils seront mis à jour à la date d'arrêt des données de l'édition 1, dont la publication est visée pour la fin de 2026.*
+*Version de travail du 17 octobre 2026, corrigée le 21 octobre 2026. Les chiffres datent du 7 au 12 octobre 2026, selon les chapitres, avec des corrections du 21 octobre 2026. Ils seront mis à jour à la date d'arrêt des données de l'édition 1, dont la publication est visée pour la fin de 2026.*
 
 ## Pourquoi ce livre
 
@@ -23,6 +23,14 @@ Treize chapitres thématiques forment le cœur du livre. Ils sont regroupés en 
 La partie « Les partis » vient ensuite. Son introduction donne le calendrier, les candidats, les sondages et l'état des programmes. Une fiche par parti résume ensuite ses positions sur quatorze thèmes et renvoie aux chapitres pour le détail.
 
 En annexe : une étude de cas sur les profits et les impôts de TotalEnergies, et un glossaire.
+
+## Ce que le livre ne traite pas encore
+
+Cette version traite déjà trois sujets ajoutés le 21 octobre 2026 : la politique étrangère hors Ukraine, dans Défense et Europe ; le grand âge et la perte d'autonomie, dans Santé ; les transports, dans Énergie.
+
+D'autres sujets restent hors du livre pour l'instant, ou n'y ont pas de section propre : la laïcité et le séparatisme, l'enseignement supérieur et la recherche, les violences faites aux femmes. C'est aussi le cas de l'intelligence artificielle et de l'emploi, des jeunes et des familles, de l'hydrogène, des réseaux électriques et du stockage de l'énergie.
+
+Un autre manque peut se signaler en [ouvrant une issue](https://github.com/NathanHaboury/Presidentielle-2027/issues/new/choose).
 
 ## Comment il est fait
 

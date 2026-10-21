@@ -43,7 +43,7 @@ Pour les quatorze thèmes, les fiches reprennent en règle générale les positi
 
 ## Les partis retenus
 
-Le livre suit les huit partis dont le candidat atteint au moins 5 % des intentions de vote dans au moins deux sondages de premier tour des trois derniers mois. Ils sont toujours présentés dans l'ordre où leurs groupes siégeaient à l'Assemblée nationale en 2022-2024, de gauche à droite ; Reconquête, qui n'y avait pas de groupe, vient en dernier. C'est une référence extérieure, pas un classement.
+Le livre suit les huit partis dont au moins un candidat testé atteint 5 % des intentions de vote dans au moins deux sondages de premier tour des trois derniers mois. Ils sont toujours présentés dans l'ordre où leurs groupes siégeaient à l'Assemblée nationale en 2022-2024, de gauche à droite ; Reconquête, qui n'y avait pas de groupe, vient en dernier. C'est une référence extérieure, pas un classement.
 
 | Parti | Nom complet |
 |---|---|
@@ -56,7 +56,7 @@ Le livre suit les huit partis dont le candidat atteint au moins 5 % des intentio
 | **RN** | Rassemblement national (anciennement Front national) |
 | **Reconquête** | Reconquête, le parti fondé par Éric Zemmour |
 
-**Les rattachements.** Une candidature de François Hollande serait rattachée à la fiche PS-Place publique. Les alliés du RN, l'Union des droites pour la République (UDR), sont présentés avec lui. Les autres candidats sont présentés dans l'introduction de la partie « Les partis » ; dans les chapitres, leurs propositions figurent dans une ligne « Autres », suivie, quand c'est utile, de la politique du gouvernement en place. La liste des partis retenus est revue à chaque édition.
+**Les rattachements.** Une personnalité testée dans les sondages pour un parti compte pour ce parti dans la règle des 5 %. Une candidature de François Hollande ou d'Olivier Faure serait rattachée à la fiche PS-Place publique, une candidature de Bruno Le Maire à la fiche Renaissance. François Ruffin et David Lisnard, dont les partis ne sont pas retenus, figurent parmi les autres candidats. Les alliés du RN, l'Union des droites pour la République (UDR), sont présentés avec lui. Les autres candidats sont présentés dans l'introduction de la partie « Les partis » ; dans les chapitres, leurs propositions figurent dans une ligne « Autres », suivie, quand c'est utile, de la politique du gouvernement en place. La liste des partis retenus est revue à chaque édition.
 
 Quand un parti n'a pas encore publié son programme pour 2027, le livre le dit et donne la date de ses positions.
 
@@ -89,6 +89,10 @@ La section « Pour débattre » de chaque chapitre teste des affirmations préci
 | **Plutôt faux** | L'essentiel de l'affirmation est contredit par les données, même si un élément est juste. |
 | **Faux** | Les données contredisent l'affirmation. |
 | **Non démontré** | Les données disponibles ne permettent ni de confirmer ni d'infirmer l'affirmation. C'est souvent le cas d'un chiffrage sans évaluation indépendante. |
+
+**Les mots forts.** Une affirmation peut contenir un mot fort ou une image, comme « explosion » ou « effondrement ». Si les données ne confirment pas ce mot, le verdict est au plus « À nuancer », même quand la tendance décrite est juste.
+
+**Ce que les verdicts ne mesurent pas.** Le livre choisit des affirmations entendues dans le débat, pas un nombre égal par parti. Le nombre d'affirmations et la part de chaque verdict ne forment donc pas une note des partis. Une déclaration de ministre est présentée avec sa fonction et son parti. Les ministres sont nombreux parmi les auteurs, parce que le gouvernement publie et commente les chiffres officiels. Une « idée répandue » teste une phrase souvent entendue, sans la prêter à un camp.
 
 ## Les signes et les notes
 

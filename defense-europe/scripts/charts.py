@@ -148,14 +148,18 @@ def effort_long():
 # 3. Dépenses de défense des alliés en 2025 (OTAN)
 # ===========================================================================
 def otan_2025():
-    # OTAN, « Defence Expenditure of NATO Countries (2014-2025) », tableau 3, estimations 2025 (données au 3 juin 2025).
-    # L'Allemagne n'a pas de valeur publiée pour 2025 dans ce document.
+    # OTAN, « Defence Expenditure of NATO Countries (2014-2025) », tableau 3, estimations 2025 (données au 3 juin 2025),
+    # pour tous les pays sauf trois lignes mises à jour le 21 octobre 2026 avec les estimations de l'OTAN
+    # du 7 juillet 2026, connues par la presse (le document de l'OTAN de 2026 n'a pas pu être lu) :
+    # - France 2,04 % et alliés européens et Canada 2,31 % (2025) : Viralmag, 8 juillet 2026 ;
+    # - Allemagne 2,22 % (2025) : Qatar Tribune, 8 juillet 2026 (absente du document de 2025).
+    # Les autres valeurs de 2025 ont pu être révisées dans le document de 2026 (points incertains du chapitre).
     rows = [("Pologne", 4.48), ("Lituanie", 4.00), ("Lettonie", 3.73), ("Estonie", 3.38), ("Norvège", 3.35),
             ("États-Unis", 3.22), ("Danemark", 3.22), ("Grèce", 2.85), ("Pays-Bas", 2.49), ("Royaume-Uni", 2.40),
-            ("Alliés européens et Canada", 2.27), ("France", 2.05), ("Italie", 2.01), ("Canada", 2.01),
-            ("Espagne", 2.00), ("Belgique", 2.00)]
+            ("Alliés européens et Canada", 2.31), ("Allemagne", 2.22), ("France", 2.04), ("Italie", 2.01),
+            ("Canada", 2.01), ("Espagne", 2.00), ("Belgique", 2.00)]
     rows = rows[::-1]
-    fig, ax = plt.subplots(figsize=(12.5, 6.2))
+    fig, ax = plt.subplots(figsize=(12.5, 6.5))
     fig.subplots_adjust(left=0.2, right=0.84, top=0.84, bottom=0.1)
     cols = [BLUE if n == "France" else (INK2 if n.startswith("Alliés") else BASE) for n, _ in rows]
     ax.barh(range(len(rows)), [val for _, val in rows], color=cols, height=0.66)
@@ -178,8 +182,8 @@ def otan_2025():
     finish(fig, "03_otan_2025.png",
            "En 2025, l'effort de défense de la France est sous la moyenne des alliés européens et du Canada",
            "Dépenses de défense en % du PIB, définition de l'OTAN (pensions comprises), estimations 2025",
-           "Source : OTAN, « Defence Expenditure of NATO Countries (2014-2025) », tableau 3 (données au 3 juin 2025). "
-           "L'Allemagne n'a pas de valeur publiée pour 2025 (2,00 % en 2024).")
+           "Source : OTAN, « Defence Expenditure of NATO Countries (2014-2025) », tableau 3 (données au 3 juin 2025).\n"
+           "France, Allemagne et moyenne des alliés : estimations de l'OTAN de juillet 2026, d'après la presse (Viralmag, Qatar Tribune).")
 
 
 # ===========================================================================

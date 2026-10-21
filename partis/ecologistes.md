@@ -1,8 +1,8 @@
 # Les Écologistes
 
-*Fiche du 12 octobre 2026. Elle sera mise à jour à la date d'arrêt des données de l'édition 1, et revue après le vote des adhérents du 10 au 13 décembre 2026.*
+*Fiche du 12 octobre 2026, corrigée le 21 octobre 2026. Elle sera mise à jour à la date d'arrêt des données de l'édition 1, et revue après le vote des adhérents du 10 au 13 décembre 2026.*
 
-Les Écologistes (ex-Europe Écologie Les Verts, EELV) n'ont pas encore désigné leur candidat. Marine Tondelier, secrétaire nationale, reste candidate jusqu'au référendum interne du 10 au 13 décembre 2026. Les adhérents choisiront entre sa candidature et le soutien à un candidat d'une autre force de gauche. Cette fiche porte donc sur le parti.
+Pour Les Écologistes (ex-Europe Écologie Les Verts, EELV), Marine Tondelier, secrétaire nationale, est candidate. Du 10 au 13 décembre 2026, un référendum interne décidera de maintenir sa candidature ou de soutenir un candidat d'une autre force de gauche. Cette fiche porte donc sur le parti.
 
 **Voir aussi :** l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (calendrier, sondages, tableau croisé) et les chapitres cités dans le tableau de la section 3.
 
@@ -69,6 +69,7 @@ Le dossier ne donne ni le total des recettes, ni l'effet sur le déficit, ni un 
 
 - **Libérale, sur les héritages.** Le 8 septembre 2026, Agnès Verdier-Molinié (Fondation pour la recherche sur les administrations et les politiques publiques, IFRAP) voit dans le concept de « grande transmission », que reprend le parti, « une manière détournée de taxer l'épargne des Français »[^ifrap-verdier-molinie]. Le dossier du parti, du 26 août, affirme que « 99% de la population doit pouvoir transmettre ce qu'elle a gagné au cours de sa vie »[^ecologistes-budget2027].
 - **Droite et centre, sur le référendum d'initiative citoyenne.** Le 4 février 2026, en commission, Élisabeth de Maistre (Droite républicaine) estime que ce référendum contourne la démocratie représentative : « il la contourne, l'affaiblit et la marginalise »[^an-cr-lois-2026-02-04]. Éric Martineau (Les Démocrates) craint « une procédure de contestation quasi systématique » ; Sophie Blanc (RN) annonce un vote contre[^an-cr-lois-2026-02-04]. Le groupe Écologiste et social écrit que « Les élu·es continuent de voter les lois »[^ecolo-groupe-ric].
+- **Institutionnelle, sur la taxe Zucman, que le parti défend.** En 2025, le Conseil d'analyse économique (CAE), rattaché au Premier ministre, estime qu'elle rapporterait moins de 7,5 Md€, en tenant compte des réactions des contribuables : « pour chaque euro prélevé, 54 centimes disparaissent »[^cae-focus-118]. Aucune réponse du parti à cette estimation n'a été trouvée.
 - Aucune autre critique nommée et datée du programme de juillet 2026 n'a été trouvée, en particulier venue de la gauche.
 
 ## 7. Expérience du pouvoir et procédures en cours
@@ -130,6 +131,7 @@ Le dossier ne donne ni le total des recettes, ni l'effet sur le déficit, ni un 
 [^ifrap-verdier-molinie]: Fondation IFRAP (libérale), A. Verdier-Molinié, [« Tout prendre : l'arme fiscale de ceux qui ne savent pas créer de richesses »](https://www.ifrap.org/budget-et-fiscalite/tout-prendre-larme-fiscale-de-ceux-qui-ne-savent-pas-creer-de-richesses), 8 septembre 2026.
 [^an-cr-lois-2026-02-04]: Assemblée nationale, [compte rendu n° 34 de la commission des lois](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/cion_lois/l17cion_lois2526034_compte-rendu.pdf), 4 février 2026.
 [^ecolo-groupe-ric]: Groupe Écologiste et social (Assemblée nationale), [« Référendum d'initiative citoyenne : redonner du souffle à notre démocratie »](https://ecologisteetsocial.fr/2026/01/14/referendum-dinitiative-citoyenne-redonner-du-souffle-a-notre-democratie/), 14 janvier 2026.
+[^cae-focus-118]: Conseil d'analyse économique, [communiqué de presse du *Focus* n° 118](https://cae-eco.fr/static/pdf/Communique_de_presse_F118_V2.pdf), 2025.
 [^maireinfo-gouvernement-2012]: Maire-info, [composition du nouveau gouvernement](https://www.maire-info.com/la-composition-du-nouveau-gouvernement-article2-14898), 21 mai 2012 *(source secondaire)*.
 [^politis-eelv-2014]: Politis, [« EELV cherche la ligne verte »](https://www.politis.fr/articles/2014/04/eelv-cherche-la-ligne-verte-26511/), 10 avril 2014 *(source secondaire)*.
 [^europe1-gouvernement-2016]: Europe 1, [« Nouveau gouvernement : bien placés, les écologistes »](https://www.europe1.fr/node/323086), 11 février 2016 *(source secondaire)*.

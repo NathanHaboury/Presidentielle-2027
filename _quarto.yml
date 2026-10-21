@@ -35,7 +35,7 @@ book:
   title: "Présidentielle 2027 : Comprendre avant de choisir"
   subtitle: "Version de travail"
   author: "Nathan Haboury"
-  date: "2026-10-17"
+  date: "2026-10-21"
   repo-url: https://github.com/NathanHaboury/Presidentielle-2027
   output-file: presidentielle-2027
   sidebar:

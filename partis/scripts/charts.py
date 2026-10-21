@@ -70,7 +70,7 @@ from collections import defaultdict
 
 DATA = Path(__file__).resolve().parent.parent / "data" / "sondages_2026.csv"
 # Sondages publiés du 12 juillet au 12 octobre 2026 : 16 notices de la Commission des sondages et le rapport
-# de Toluna Harris Interactive du 12 octobre 2026 (recherche : edition/recherche/partis/paysage.md).
+# de Toluna Harris Interactive du 12 octobre 2026 (notes de recherche, non publiées).
 
 
 def lire():
@@ -134,14 +134,20 @@ def second_tour():
     stats = []
     for lab, c in adv:
         v = [h["Le Pen"] for h in hyp.values() if c in h]
-        stats.append((lab, min(v), max(v), len(v)))
+        stats.append((lab, min(v), max(v), statistics.median(v), len(v)))
     stats = stats[::-1]
     fig, ax = plt.subplots(figsize=(12.5, 5.2))
-    fig.subplots_adjust(left=0.2, right=0.97, top=0.84, bottom=0.17)
-    for i, (lab, lo, hi, n) in enumerate(stats):
-        ax.barh(i, hi - lo, left=lo, height=0.5, color=BLUE)
-        ax.text(hi + 0.4, i, f"{fr(lo)} à {fr(hi)} %  ({n} duel{'s' if n > 1 else ''})", va="center", fontsize=9,
-                color=INK2)
+    fig.subplots_adjust(left=0.2, right=0.97, top=0.82, bottom=0.17)
+    # D7(c), 21 octobre 2026 : plages (trait arrondi) et médiane (point), comme la figure 01, sans barres.
+    for i, (lab, lo, hi, med, n) in enumerate(stats):
+        ax.axhline(i, color=GRID, linewidth=0.8, zorder=0)
+        ax.plot([lo, hi], [i, i], color=LIGHTBLUE, linewidth=8, solid_capstyle="round", zorder=2)
+        ax.scatter([med], [i], s=55, color=BLUE, zorder=3)
+        lib = f"{fr(lo)} à {fr(hi)} %  (médiane {fr(med)} ; {n} duel{'s' if n > 1 else ''})"
+        if hi > 65:  # étiquette à gauche de la plage, pour rester dans l'axe de 45 à 75 %
+            ax.text(lo - 0.5, i, lib, va="center", ha="right", fontsize=8.8, color=INK2)
+        else:
+            ax.text(hi + 0.5, i, lib, va="center", fontsize=8.8, color=INK2)
     ax.axvline(50, color=INK2, linewidth=1)
     ax.text(50.2, len(stats) - 0.45, "50 %", fontsize=8.5, color=INK2, va="bottom")
     ax.set_yticks(range(len(stats)), [f"face à {s[0]}" for s in stats], fontsize=9.6)
@@ -151,10 +157,10 @@ def second_tour():
     vgrid(ax)
     finish(fig, "02_duels_second_tour.png",
            "Marine Le Pen l'emporte dans chacun des 35 duels de second tour où elle a été testée",
-           "Plus bas et plus haut score de Marine Le Pen selon l'adversaire, dans 17 sondages publiés du 12 juillet au "
-           "12 octobre 2026.",
+           "Plus bas et plus haut score de Marine Le Pen selon l'adversaire, et médiane (point), dans 17 sondages publiés "
+           "du 12 juillet au 12 octobre 2026.\nL'axe va de 45 à 75 %, pour lire l'écart à 50 %.",
            "Sources : notices de la Commission des sondages ; Toluna Harris Interactive (rapport du 12 octobre 2026). "
-           "Calculs pour ce livre. L'axe commence à 45 % pour lire l'écart à 50 %.\nDonnées : partis/data/sondages_2026.csv.")
+           "Calculs pour ce livre.\nDonnées : partis/data/sondages_2026.csv.")
 
 
 if __name__ == "__main__":

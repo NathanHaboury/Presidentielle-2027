@@ -174,7 +174,7 @@ Une fiche par chapitre : quelques chiffres à retenir, les questions que le chap
 
 ### [Ce que proposent les partis](../../partis/programmes_partis_2027.md)
 
-**À savoir.** Dans 17 sondages publiés de juillet à octobre 2026, Marine Le Pen obtient 29,2 à 38 % au premier tour. Raphaël Glucksmann a gagné la primaire de la gauche sociale-démocrate le 11 octobre 2026 ; Les Écologistes votent en décembre et LFI publie son programme le 6 novembre. Au 12 octobre 2026, aucun programme pour 2027 n'a de chiffrage indépendant.
+**À savoir.** Dans 17 sondages publiés du 12 juillet au 12 octobre 2026, Marine Le Pen obtient 29,2 à 38 % au premier tour. Raphaël Glucksmann a gagné la primaire de la gauche sociale-démocrate le 11 octobre 2026. LFI publie son programme le 6 novembre ; en décembre, Les Écologistes décident de maintenir ou non la candidature de Marine Tondelier. Au 12 octobre 2026, aucun programme pour 2027 n'a de chiffrage indépendant.
 
 **Les fiches.** [La France insoumise (LFI)](../../partis/lfi.md) ; [Les Écologistes](../../partis/ecologistes.md) ; [PS-Place publique](../../partis/ps_place_publique.md) ; [Renaissance](../../partis/renaissance.md) ; [Horizons](../../partis/horizons.md) ; [Les Républicains (LR)](../../partis/lr.md) ; [Rassemblement national (RN)](../../partis/rn.md) ; [Reconquête](../../partis/reconquete.md).
 

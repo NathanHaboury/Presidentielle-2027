@@ -91,6 +91,7 @@ Exceptions : UE, PIB, TVA, SMIC et les sigles des partis sont expliqués une seu
 | **DR** | Droite républicaine : nom du groupe des députés LR à l'Assemblée nationale. | partis (figure) |
 | **DREES** | Direction de la recherche, des études, de l'évaluation et des statistiques : service statistique des ministères de la Santé et des Solidarités. | pouvoir-achat, retraites-productivite, sante |
 | **EDF** | Électricité de France : principal producteur d'électricité, détenu à 100 % par l'État depuis 2023. | energie |
+| **EDGAR** | Emissions Database for Global Atmospheric Research : base de données des émissions de gaz à effet de serre de tous les pays, tenue par le Centre commun de recherche de la Commission européenne. | climat-environnement |
 | **EDIP** | European Defence Industry Programme (programme pour l'industrie européenne de défense) : programme de l'UE adopté en 2025 pour soutenir la production d'armes en Europe. | defense-europe |
 | **EEG** | Erneuerbare-Energien-Gesetz : loi allemande sur les énergies renouvelables ; l'EEG-Umlage était la surtaxe sur les factures qui les finançait jusqu'en 2022. | energie |
 | **Ehpad** | Établissement d'hébergement pour personnes âgées dépendantes : maison de retraite médicalisée. | sante |

@@ -2,7 +2,7 @@
 
 Les données sont dans ce script, avec leur source en commentaire. Elles sont
 détaillées dans le chapitre (climat-environnement/climat_environnement.md) et
-dans les notes de recherche (edition/recherche/climat/climat_*.md).
+dans les notes de recherche, non publiées.
 Lancer : python3 climat-environnement/scripts/charts.py
 """
 import matplotlib
@@ -269,7 +269,7 @@ def enaf():
 # ===========================================================================
 # Source : Eurostat, sdg_13_10, src_crf=TOTX4_MEMO (hors terres et forêts, hors
 # transports internationaux), t CO2e par habitant, mis à jour le 22 avril 2026.
-# Relevé dans edition/recherche/climat/climat_suede_danemark.md, tableau (a).
+# Relevé dans les notes de recherche sur la Suède et le Danemark (non publiées), tableau (a).
 NORDIC_YEARS = list(range(1990, 2025))
 NORDIC = {
     "France": [9.4, 9.8, 9.6, 9.2, 9.0, 9.1, 9.3, 9.2, 9.4, 9.2, 9.1, 9.1, 8.9, 8.9, 8.9, 8.8, 8.6, 8.4,

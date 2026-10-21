@@ -6,8 +6,8 @@ Le livre ne recommande aucun vote et ne juge aucun programme dans son ensemble. 
 
 **[Lire le livre en ligne](https://nathanhaboury.github.io/Presidentielle-2027/)** · **[Télécharger le PDF](https://nathanhaboury.github.io/Presidentielle-2027/presidentielle-2027.pdf)**
 
-> **Version de travail du 17 octobre 2026.**
-> - Les chiffres datent du 7 au 12 octobre 2026, selon les chapitres. La première édition, avec des chiffres arrêtés à une même date, est visée pour la fin de 2026.
+> **Version de travail du 21 octobre 2026.**
+> - Les chiffres datent du 7 au 12 octobre 2026, selon les chapitres, avec des corrections du 21 octobre 2026 après une relecture externe. La première édition, avec des chiffres arrêtés à une même date, est visée pour la fin de 2026.
 > - Ce qui n'est pas vérifié est signalé : *(à vérifier)* dans le texte, et la section « Points incertains » à la fin de chaque chapitre.
 > - La recherche et la rédaction sont faites avec l'aide d'une intelligence artificielle (Claude, d'Anthropic), avec relecture et contrôle des sources.
 > - Le livre peut contenir des erreurs : merci de les [signaler](#signaler-une-erreur).
