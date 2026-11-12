@@ -1,6 +1,6 @@
 # Présidentielle 2027 : ce que proposent les partis
 
-*Version de travail du 12 octobre 2026, corrigée le 21 octobre 2026. Les chiffres seront mis à jour à la date d'arrêt des données de l'édition 1. Chaque fiche indique dans sa ligne de version ce qui entraînera sa révision : programme, désignation ou décision de justice.*
+*Version de travail du 12 octobre 2026, corrigée le 21 octobre 2026, mise à jour le 12 novembre 2026. Les chiffres seront mis à jour à la date d'arrêt des données de l'édition 1. Chaque fiche indique dans sa ligne de version ce qui entraînera sa révision : programme, désignation ou décision de justice.*
 
 Cette partie présente les huit partis dont au moins un candidat testé atteint 5 % des intentions de vote dans au moins deux sondages de premier tour des trois derniers mois. L'introduction donne le calendrier, les candidats, les sondages et l'état des programmes. Elle résume ensuite les propositions dans un tableau croisé, puis rappelle ce que deviennent les promesses électorales. Chaque parti a ensuite sa fiche, sur le même plan. Les positions sont reprises des chapitres thématiques, qui donnent le détail, les chiffrages et les critiques.
 
@@ -44,7 +44,7 @@ Cette partie présente les huit partis dont au moins un candidat testé atteint 
 1. **Deux tours, huit partis.** Le premier tour a lieu le 18 avril 2027, le second le 2 mai. Ce livre suit les huit partis dont au moins un candidat testé atteint 5 % dans au moins deux sondages récents.
 2. **Marine Le Pen en tête.** Dans 17 sondages publiés de juillet à octobre 2026, elle obtient 29,2 à 38 % au premier tour. Elle l'emporte dans chacun des 35 duels de second tour où elle est testée. Jean-Luc Mélenchon et Édouard Philippe se disputent la deuxième place.
 3. **Des candidatures encore ouvertes.** Raphaël Glucksmann a gagné la primaire de la gauche sociale-démocrate le 11 octobre 2026, avec 66 %. Les Écologistes votent en décembre. Le bloc central n'a pas de candidat commun. La Cour de cassation doit encore juger le pourvoi de Marine Le Pen.
-4. **Peu de programmes complets.** La plupart des partis ont publié des documents partiels : contre-budgets, plans, sites de campagne. LFI publie son programme le 6 novembre. Aucun chiffrage indépendant d'un programme de 2027 n'a été trouvé.
+4. **Peu de programmes complets.** La plupart des partis ont publié des documents partiels : contre-budgets, plans, sites de campagne. LFI a publié son programme le 6 novembre 2026, sans montant total ; son chiffrage est attendu début 2027. Aucun chiffrage indépendant d'un programme de 2027 n'a été trouvé.
 5. **Gouverner sans majorité.** L'Assemblée élue en 2024 n'a pas de majorité absolue ; le président élu pourra la dissoudre. Plusieurs candidats prévoient des référendums ou des ordonnances.
 6. **Des promesses souvent tenues, en partie.** Dans 12 pays étudiés, 59 % des promesses des partis au gouvernement ont été tenues au moins en partie. En France, un projet de recherche mesure plus de 60 % depuis 1995.
 
@@ -65,7 +65,7 @@ Cette partie présente les huit partis dont au moins un candidat testé atteint 
 | Date | Étape |
 |---|---|
 | 9 au 11 octobre 2026 | Primaire de la gauche sociale-démocrate (Parti socialiste, Place publique, Gauche républicaine et socialiste) : Raphaël Glucksmann est désigné dès le premier tour, avec 66,17 % |
-| 6 novembre 2026 | Nouvelle édition du programme de LFI, présentée le 7 novembre au Bourget |
+| 6 novembre 2026 | Parution du programme de LFI pour 2027, *L'Avenir en commun*, dont la présentation était annoncée le 7 novembre au Bourget |
 | 10 au 13 décembre 2026 | Vote des adhérents des Écologistes : candidature de Marine Tondelier ou soutien à un candidat d'une autre force de gauche |
 | Fin 2026 ou début 2027 | « Rassemblement » annoncé par Gabriel Attal et Édouard Philippe ; décision attendue de François Hollande |
 | ≈ 26 janvier 2027 (estimation du ministère de l'Intérieur) | Décret de convocation des électeurs ; les parrainages s'ouvrent le lendemain |
@@ -76,7 +76,7 @@ Cette partie présente les huit partis dont au moins un candidat testé atteint 
 | **Dimanche 2 mai 2027** | **Second tour** (samedi 1er mai dans les mêmes territoires) |
 | Après le 2 mai 2027 | Législatives anticipées si le président élu dissout l'Assemblée nationale (section 1.5) |
 
-*Sources : compte rendu du Conseil des ministres du 1er juillet 2026*[^cm-2026-07-01-calendrier]*. Date estimée du décret et fin des parrainages : Maire-info*[^maireinfo-presidentielle-2027]*. Publication de la liste : Weka*[^weka-parrainages-2027]*. Primaire : Public Sénat*[^publicsenat-primaire-resultats]*. LFI, Écologistes et bloc central : La Chaîne parlementaire (LCP)*[^lcp-lfi-programme-2026][^lcp-ecologistes-decembre][^lcp-bloc-central-2026]*. Cour de cassation : Le Club des juristes*[^cdj-le-pen-cassation]*.*
+*Sources : compte rendu du Conseil des ministres du 1er juillet 2026*[^cm-2026-07-01-calendrier]*. Date estimée du décret et fin des parrainages : Maire-info*[^maireinfo-presidentielle-2027]*. Publication de la liste : Weka*[^weka-parrainages-2027]*. Primaire : Public Sénat*[^publicsenat-primaire-resultats]*. LFI : La France insoumise*[^aec27-intro] *et La Chaîne parlementaire (LCP)*[^lcp-lfi-programme-2026]*. Écologistes et bloc central : LCP*[^lcp-ecologistes-decembre][^lcp-bloc-central-2026]*. Cour de cassation : Le Club des juristes*[^cdj-le-pen-cassation]*.*
 
 **Les dates officielles.** Le gouvernement a fixé les deux tours le 1er juillet 2026, après une consultation des partis[^cm-2026-07-01-calendrier]. Le décret de convocation n'était pas publié au 12 octobre 2026. Le premier tour tombe pendant les vacances de printemps des trois zones *(source secondaire)*[^lcp-dates-2027].
 
@@ -151,7 +151,7 @@ Chacun des huit candidats retenus atteint 5 % dans au moins quatre sondages de l
 
 | Parti | Documents publiés | Publication attendue |
 |---|---|---|
-| LFI | *L'Avenir en commun*, édition 2025 ; contre-budget 2026 (octobre 2025) | Nouvelle édition le 6 novembre 2026 |
+| LFI | *L'Avenir en commun*, programme pour 2027 (6 novembre 2026) ; document sur les comptes publics (octobre 2026) ; contre-budget 2026 (octobre 2025) | Chiffrage complet du programme attendu début 2027 |
 | Les Écologistes | Programme de juillet 2026 | Choix du candidat du 10 au 13 décembre 2026 |
 | PS-Place publique | Projet du PS de 144 pages (22 avril 2026) ; contre-budget 2027 du groupe socialiste (16 septembre 2026) ; « Notre vision pour la France », de Place publique | Programme du candidat désigné le 11 octobre : pas de date trouvée |
 | Renaissance | Site de campagne de Gabriel Attal ; plan pour les finances publiques (juillet 2026) | Pas de date trouvée |
@@ -160,7 +160,7 @@ Chacun des huit candidats retenus atteint 5 % dans au moins quatre sondages de l
 | RN | Programme des législatives (juin 2024) ; contre-budget 2026 ; plan budgétaire présenté le 6 octobre 2026 | Présentations par thème |
 | Reconquête | Pas de programme pour 2027 | Déclaration formelle d'Éric Zemmour annoncée pour l'automne |
 
-*Partis dans l'ordre de l'hémicycle. Sources : LFI*[^lfi-aec-2025]*, L'insoumission*[^insoumission-contre-budget] *et LCP*[^lcp-lfi-programme-2026] *; Les Écologistes*[^ecologistes-programme] *; LCP pour le projet*[^lcp-projet-ps-2026] *et le contre-budget du PS*[^lcp-contre-budget-ps] *; Place publique*[^pp-vision] *; site de G. Attal*[^attal-site] *et Journal du dimanche*[^jdd-attal] *; site d'É. Philippe*[^philippe-prospere] *; Public Sénat pour LR*[^publicsenat-lr-fete-finie] *; RN*[^rn-programme-2024][^rn-contre-budget-2026] *et Europe 1*[^europe1-rn-plan] *; Public Sénat pour Reconquête*[^publicsenat-zemmour-2026]*.*
+*Partis dans l'ordre de l'hémicycle. Sources : LFI*[^aec27-intro][^lfi-comptes-publics-2026]*, L'insoumission*[^insoumission-contre-budget] *et Public Sénat*[^publicsenat-aec-2027] *; Les Écologistes*[^ecologistes-programme] *; LCP pour le projet*[^lcp-projet-ps-2026] *et le contre-budget du PS*[^lcp-contre-budget-ps] *; Place publique*[^pp-vision] *; site de G. Attal*[^attal-site] *et Journal du dimanche*[^jdd-attal] *; site d'É. Philippe*[^philippe-prospere] *; Public Sénat pour LR*[^publicsenat-lr-fete-finie] *; RN*[^rn-programme-2024][^rn-contre-budget-2026] *et Europe 1*[^europe1-rn-plan] *; Public Sénat pour Reconquête*[^publicsenat-zemmour-2026]*.*
 
 Un programme « publié » désigne ici un document du parti ou du candidat, daté et accessible. Les positions qui viennent de déclarations sont reprises dans les chapitres avec leur date. Les fiches des partis détaillent ces documents.
 
@@ -211,7 +211,7 @@ Ces trois tableaux résument, en quelques mots, la position de chaque parti sur 
 
 | Parti | Déficit et dépenses | Impôts | Salaires et pouvoir d'achat | Retraites |
 |---|---|---|---|---|
-| **LFI** | Contre-budget 2026 : 168 Md€ de dépenses nouvelles ; déficit sous 3 % « au bout de cinq ans » | 183 Md€ de recettes nouvelles : taxe Zucman (2 % par an sur les patrimoines de plus de 100 M€), impôt sur la fortune « climatique »… | SMIC à 1 600 € net ; blocage des prix de première nécessité | 60 ans et 40 annuités ; abrogation de la réforme de 2023 |
+| **LFI** | Aucun montant total dans le programme de 2027 ; contre-budget 2026 : 168 Md€ de dépenses nouvelles, déficit sous 3 % « au bout de cinq ans » | Impôt sur le revenu à 14 tranches ; impôt sur la fortune rétabli ; taxe Zucman (2 % sur les patrimoines de plus de 100 M€) ; héritage plafonné à 12 M€ | SMIC à 1 700 € net ; blocage des prix de première nécessité | 60 ans et 40 annuités ; abrogation de la réforme de 2023 |
 | **Les Écologistes** | Pas d'objectif chiffré ; « renégocier » la trajectoire de baisse des déficits | +10 points d'impôt sur les héritages au-delà de 4 M€ ; taxe Zucman ; impôt sur la fortune selon l'empreinte carbone | SMIC à 2 000 € brut ; blocage des prix en cas d'inflation « anormale » | 60 ans après un début avant 20 ans ou un métier pénible, 62 ans pour les autres |
 | **PS-Place publique** | Contre-budget 2027 du groupe PS : 22 Md€ de dépenses nouvelles, 17,5 Md€ d'économies | ≈ 39,5 Md€ de recettes nouvelles : taxe Zucman, contribution sociale généralisée (CSG) sur les grandes successions, taxe sur les géants du numérique | SMIC à 1 700 € net ; CSG réduite au niveau du SMIC | Abrogation de la réforme de 2023 ; 62 ans |
 | **Renaissance** | 120 à 150 Md€ d'économies ; déficit sous 3 % avant 2032, nul en 2037 ; 100 000 postes d'État en moins | Pas de hausse d'impôts | Cotisations salariales réduites ; « année blanche » sur les prestations sociales en 2028, sauf les petites retraites | Plus d'âge légal : décote et surcote ; un pilier de capitalisation |
@@ -226,7 +226,7 @@ Ces trois tableaux résument, en quelques mots, la position de chaque parti sur 
 
 | Parti | Institutions | Immigration | Sécurité et justice | Énergie | Europe et défense |
 |---|---|---|---|---|---|
-| **LFI** | Assemblée constituante convoquée par référendum ; fin du 49.3 (adoption d'une loi sans vote, sauf censure) ; proportionnelle | Régularisations ; « droit du sol intégral » ; vote des étrangers aux élections locales | Police de proximité ; brigades anticriminalité démantelées | Sortie du nucléaire ; 100 % renouvelables (2024) | Désobéir aux règles européennes « incompatibles » ; sortie du commandement intégré de l'OTAN, puis de l'OTAN |
+| **LFI** | Assemblée constituante convoquée par référendum ; fin du 49.3 (adoption d'une loi sans vote, sauf censure) ; proportionnelle | Pacte européen sur la migration et l'asile refusé ; « droit du sol intégral » ; vote des étrangers aux élections locales | Police de proximité ; brigades anticriminalité démantelées | 100 % renouvelables au plus tard en 2060 ; arrêt du programme de nouveaux réacteurs (EPR2) | Désobéir aux « règles bloquantes » de l'UE ; sortie du commandement intégré de l'OTAN, puis de l'OTAN |
 | **Les Écologistes** | Nouvelle Constitution ; référendum d'initiative citoyenne « délibératif » | Voies légales d'immigration ; droit du sol quelle que soit la situation des parents | 9 000 magistrats et 10 000 greffiers en dix ans ; cannabis légalisé et encadré | Sortie du nucléaire en ≈ 20 ans | « Saut fédéral » européen ; commandement militaire européen intégré ; armes à longue portée pour l'Ukraine |
 | **PS-Place publique** | Proportionnelle ; 49.3 réservé aux lois de finances ; censure « constructive » | Titre de séjour avec un contrat de travail ; vote des étrangers aux élections locales | Police de proximité ; office contre le blanchiment | Nucléaire et renouvelables ; électricité hors de la « logique de marché » | « Europe fédérale » ; saisie des avoirs russes ; contre l'accord avec le Mercosur |
 | **Renaissance** | Référendum sur une règle d'or budgétaire en début de quinquennat | Immigration à points ; quotas votés tous les deux ans | Juge de l'application des peines et remises automatiques de peine supprimés | Nucléaire et renouvelables | « États-Unis d'Europe » à 8 ou 10 pays ; premier référendum européen |
@@ -241,7 +241,7 @@ Ces trois tableaux résument, en quelques mots, la position de chaque parti sur 
 
 | Parti | Éducation | Santé | Logement | Climat et environnement |
 |---|---|---|---|---|
-| **LFI** | 160 000 enseignants recrutés ; rattrapage du gel du point d'indice | Installation des médecins régulée ; « 100 % Sécu » | 400 000 logements abordables par an ; loyers gelés en zone tendue | −65 % d'émissions en 2030 par rapport à 1990 (2022) ; « règle verte » dans la Constitution |
+| **LFI** | Rattrapage du gel du point d'indice ; scolarité obligatoire jusqu'à 18 ans | « 100 % Sécu » ; fin des dépassements d'honoraires | 200 000 logements publics par an ; seuil de logements sociaux porté à 30 % | −65 % d'émissions d'ici 2033 ; « règle verte » dans la Constitution |
 | **Les Écologistes** | Enseignants : +15 % en cinq ans en plus de l'inflation ; 19 élèves par classe | 2 000 centres de santé d'ici 2030 | Encadrement des loyers généralisé ; 500 000 rénovations performantes par an | Neutralité carbone en 2050 ; sortie des pesticides de synthèse ; 7 Md€ par an pour l'adaptation |
 | **PS-Place publique** | 19 élèves au plus par classe en primaire ; enseignants : +10 % à +25 % | 3 Md€ pour l'hôpital public ; mutuelle publique gratuite pour les 18-25 ans | « Bouclier logement » (Olivier Faure) : pas plus de 30 % des revenus pour se loger dans le parc privé | −90 % d'émissions en 2040 ; fonds de sécurité climatique de 5 Md€ |
 | **Renaissance** | « Choc des savoirs » rétabli ; moins de 20 élèves par classe ; enseignants : +200 € nets par mois | « Année blanche » sur les prestations sociales en 2028 | Règle de « zéro artificialisation nette » simplifiée ; logements intermédiaires comptés dans le quota de logements sociaux | Baisse des émissions portée à 5 % par an d'ici 2030 |
@@ -327,6 +327,7 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 
 - **Le calendrier.** Le décret de convocation n'est pas publié. La date du décret de convocation (≈ 26 janvier 2027), qui ouvre les parrainages le lendemain, est une estimation du ministère de l'Intérieur rapportée par la presse. La date limite de la liste officielle (26 mars 2027) est calculée à partir de la règle rapportée par la presse ; le décret de 2001 n'a pas été relu. Le compte rendu du Conseil des ministres du 1er juillet 2026 contient deux dates erronées (« début d'année 2026 » pour le décret, consultation des partis « le 29 juillet 2026 »).
 - **Les candidatures.** Le vote des adhérents de Renaissance sur la candidature de Gabriel Attal n'a pas été trouvé. La participation au vote des adhérents du PCF (3 au 6 septembre 2026) n'a pas été trouvée. La primaire unitaire prévue le 11 octobre 2026 par Les Écologistes, L'Après et Debout ! n'était plus d'actualité « sous sa forme initiale » en septembre 2026 *(source secondaire)*[^lcp-ecologistes-decembre] ; ce qui la remplace n'a pas été établi. Les statuts tirés de la liste du *Journal du dimanche* datent du 2 juillet 2026.
+- **Le programme de LFI.** Paru le 6 novembre 2026, il ne donne aucun montant total ; son chiffrage complet est attendu début 2027 *(source secondaire)*[^publicsenat-aec-2027]. Des mesures citées avant sa parution n'y sont pas reprises (fiche LFI, section 8).
 - **La cassation.** La date de l'arrêt de la Cour de cassation sur le pourvoi de Marine Le Pen n'est pas fixée ; l'échéance « d'ici début avril 2027 » a été annoncée par la Cour elle-même, selon Le Club des juristes.
 - **Les sondages.**
   - Neuf notices de la Commission des sondages n'ont pas pu être ouvertes. D'après leurs intitulés, elles portent sur des opinions et non sur des intentions de vote ; l'une d'elles (Cluster17 pour *Le Point*, 10 septembre) reste à vérifier.
@@ -382,7 +383,6 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 [^cds-opinionway-2026-09]: OpinionWay pour *Le Journal du dimanche*, [notice n° 10252 déposée à la Commission des sondages](http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf), terrain du 2 au 3 septembre 2026.
 [^cds-ipsos-2026-09]: Ipsos BVA pour le Cevipof, *Le Monde*, la Fondation Jean-Jaurès et l'Institut Montaigne, [Enquête électorale française, vague 3, notice n° 10262](http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10262-pres-enquete-electorale-ipsos-bva-le-monde-13-septembre.pdf), terrain du 3 au 9 septembre 2026.
 [^cds-ifop-2026-09]: Ifop-Fiducial pour LCI, *Le Figaro* et Sud Radio, [baromètre de l'élection présidentielle, vague 6, notice n° 10284](http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-v6-ifop-30-septembre.pdf), terrain du 25 au 29 septembre 2026.
-[^lfi-aec-2025]: La France insoumise, [*L'Avenir en commun*, édition mise à jour](https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf), 2025.
 [^insoumission-contre-budget]: L'insoumission, [contre-budget de LFI pour 2026](https://linsoumission.fr/2025/10/23/contre-budget-lfi-2026/), 23 octobre 2025 *(source secondaire)*.
 [^ecologistes-programme]: Les Écologistes, [programme](https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf), juillet 2026.
 [^lcp-projet-ps-2026]: LCP, [« Smic, retraites, immigration : le PS présente un projet de 144 pages pour préparer 2027 »](https://lcp.fr/actualites/smic-retraites-immigration-le-ps-presente-un-projet-de-144-pages-pour-preparer-2027), 22 avril 2026 *(source secondaire)*.
@@ -444,3 +444,6 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 [^interieur-lg2012]: Ministère de l'Intérieur, [résultats des élections législatives de 2012, France entière](https://www.archives-resultats-elections.interieur.gouv.fr/resultats/LG2012/FE.php).
 [^interieur-lg2017]: Ministère de l'Intérieur, [résultats des élections législatives de 2017, France entière](https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives-2017/FE.php).
 [^interieur-lg2022]: Ministère de l'Intérieur, [résultats des élections législatives de 2022, France entière](https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives-2022/FE.php).
+[^aec27-intro]: La France insoumise, [*L'Avenir en commun*, programme pour 2027, introduction](https://melenchon2027.fr/programme/livre/introduction), 6 novembre 2026.
+[^lfi-comptes-publics-2026]: La France insoumise, [« Comment nous allons remettre de l'ordre dans les comptes publics »](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf), octobre 2026.
+[^publicsenat-aec-2027]: Public Sénat, [« Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme »](https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme), 6 novembre 2026 *(source secondaire)*.

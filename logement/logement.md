@@ -1,6 +1,6 @@
 # Logement
 
-*Version de travail du 10 octobre 2026, corrigée le 21 octobre 2026. Les chiffres seront mis à jour à la date d'arrêt des données de l'édition 1.*
+*Version de travail du 10 octobre 2026, corrigée le 21 octobre 2026, mise à jour le 12 novembre 2026. Les chiffres seront mis à jour à la date d'arrêt des données de l'édition 1.*
 
 Ce chapitre décrit le parc de logements, la baisse de la construction depuis 2022, le crédit, les prix et les loyers, l'accès à la propriété, le logement social, les logements mal isolés et le mal-logement. Il présente ensuite ce que dépense l'État, ce que proposent les partis et ce que montrent les évaluations des politiques déjà menées.
 
@@ -38,8 +38,8 @@ Ce chapitre décrit le parc de logements, la baisse de la construction depuis 20
 
 **Les grandes options en débat.**
 - **Construire** : des logements publics (LFI, Les Écologistes) ou des investisseurs privés et des règles allégées (Renaissance, Horizons, LR, RN).
-- **Loyers** : encadrement étendu, voire gel (LFI, Les Écologistes), maintenu (PS-Place publique) ou supprimé (LR).
-- **Passoires** : calendrier maintenu (Les Écologistes), assoupli (gouvernement) ou supprimé (LR, RN).
+- **Loyers** : encadrement étendu (Les Écologistes), voire gel (LFI, proposition de 2025), maintenu (PS-Place publique) ou supprimé (LR).
+- **Passoires** : calendrier maintenu (Les Écologistes) ou appliqué « réellement » (LFI), assoupli (gouvernement) ou supprimé (LR, RN).
 - **Accès au logement social** : priorité aux Français (RN), aides retirées aux non-Européens (Reconquête, 2022), maires renforcés (LR, gouvernement).
 - **Quota de logements sociaux des communes** : porté à 30 % (LFI, Les Écologistes), adapté (Renaissance, LR) ou supprimé (RN, Reconquête).
 
@@ -281,7 +281,7 @@ Selon le SDES, c'est 1,5 % du PIB. Pour 69,1 millions d'habitants, cela fait ≈
 **Le constat partagé.** Les mises en chantier ont baissé d'un tiers de 2022 à 2024 (section 1.2), et 2,9 millions de ménages attendent un logement social (section 1.7). Les besoins estimés vont de ≈ 180 000 à plus de 500 000 logements par an, selon ce qui est compté.
 
 **Pour une construction portée par l'État et les organismes HLM.**
-- LFI veut « Atteindre 400 000 nouveaux logements abordables par an dans les 5 prochaines années, dont 200 000 logements publics »[^lfi-plan-btp-logement]. L'USH estime le besoin à 198 000 logements sociaux par an *(source secondaire)*[^bdt-ush-besoins-2023].
+- LFI veut « Produire 200 000 logements publics par an et 30 000 logements jeunes pendant 5 ans »[^aec27-p5c3]. Son plan de septembre 2026 vise « 400 000 nouveaux logements abordables par an dans les 5 prochaines années, dont 200 000 logements publics »[^lfi-plan-btp-logement]. L'USH estime le besoin à 198 000 logements sociaux par an *(source secondaire)*[^bdt-ush-besoins-2023].
 - L'argument : le logement social répond à la demande des ménages modestes, que le marché privé loge mal. Selon la Cour des comptes, 60 % des demandeurs relèvent des loyers les plus bas, qui forment 7 % du parc[^cour-rpa-2026-hlm].
 - L'objection : la capacité à construire. Pour 200 000 logements publics par an, l'Institut Montaigne (libéral) relevait en 2022 que la France produit « en moyenne seulement 65 000 logements sociaux par an »[^montaigne-melenchon-logements-2022]. En 2025, 102 022 logements sociaux ont été agréés, dont 62 894 hors prêt locatif social (PLS), aux loyers les plus élevés du parc social *(calcul)*[^dreal-pdl-bilan-2025].
 
@@ -295,7 +295,7 @@ Selon le SDES, c'est 1,5 % du PIB. Pour 69,1 millions d'habitants, cela fait ≈
 ### Question 2. Encadrer ou geler les loyers, ou supprimer l'encadrement ?
 
 **Pour encadrer, ou aller plus loin.**
-- LFI propose de « geler les loyers des baux en cours dans les zones tendues sur une période de 4 ans » et de généraliser l'encadrement[^an-ppl-2225]. Les Écologistes veulent sa « généralisation, l'amélioration et la pérennisation »[^ecologistes-programme].
+- Le programme de LFI pour 2027 prévoit de « Geler les loyers le temps de déployer un encadrement des loyers partout sur le territoire »[^aec27-p5c3]. Les Écologistes veulent sa « généralisation, l'amélioration et la pérennisation »[^ecologistes-programme].
 - L'argument : à Paris, l'encadrement a réduit les loyers d'≈ 5 %, sans effet durable mesuré sur l'offre, selon l'Atelier parisien d'urbanisme (Apur)[^apur-288].
 
 **Pour supprimer l'encadrement.**
@@ -307,7 +307,7 @@ Selon le SDES, c'est 1,5 % du PIB. Pour 69,1 millions d'habitants, cela fait ≈
 ### Question 3. Les passoires thermiques : garder le calendrier, l'assouplir ou le supprimer ?
 
 **Pour garder le calendrier.**
-- Les Écologistes veulent « Maintenir l'interdiction de la remise en location des logements classés F en 2028 et E en 2034 »[^ecologistes-programme].
+- Les Écologistes veulent « Maintenir l'interdiction de la remise en location des logements classés F en 2028 et E en 2034 »[^ecologistes-programme]. LFI veut « interdire réellement la location des passoires thermiques »[^aec27-p1c3].
 - L'argument : les occupants ont froid et paient cher leur énergie. 35 % des foyers ont eu froid chez eux au moins 24 heures pendant l'hiver 2024-2025[^mne-barometre-2025]. Le Collectif des associations pour le logement juge qu'un assouplissement « peut envoyer un signal contreproductif envers les propriétaires »[^cal-pjl-logement].
 
 **Pour l'assouplir.**
@@ -328,7 +328,7 @@ Selon le SDES, c'est 1,5 % du PIB. Pour 69,1 millions d'habitants, cela fait ≈
 - Les obstacles juridiques sont présentés en section 3.
 
 **La loi SRU.**
-- LFI veut porter le quota à 30 %[^lfi-plan-btp-logement], Les Écologistes à 30 % d'ici 2035 dans les communes les plus tendues[^ecologistes-programme].
+- LFI veut « Rehausser le seuil de logements sociaux à 30 % dans les villes »[^aec27-p5c3], Les Écologistes à 30 % d'ici 2035 dans les communes les plus tendues[^ecologistes-programme].
 - Gabriel Attal (Renaissance) veut compter les logements intermédiaires, aux loyers entre le social et le privé, dans le quota *(source secondaire)*[^afp-linfodurable-batimat]. LR veut « Adapter la loi SRU à la réalité du terrain »[^lr-propositions].
 - Le RN et Reconquête veulent l'abroger. Pour Jacques Baudrier (Parti communiste français, PCF), adjoint au logement à Paris, ce « serait un recul gravissime » *(source secondaire)*[^sudradio-levee-boucliers].
 - Ce que montrent les évaluations : la loi a fait construire des logements sociaux, mais a peu changé la répartition des ménages selon leurs revenus (section 4.6).
@@ -337,13 +337,13 @@ Selon le SDES, c'est 1,5 % du PIB. Pour 69,1 millions d'habitants, cela fait ≈
 
 ## 3. Ce que proposent les partis
 
-*Les partis sont présentés dans l'ordre où leurs groupes siègent à l'Assemblée nationale, de gauche à droite ; Reconquête, qui n'a pas de groupe, vient en dernier. Les positions sont celles connues au 10 octobre 2026, complétées le 12 octobre. LFI publie la nouvelle version de son programme le 6 novembre 2026 *(source secondaire)*[^lcp-lfi-programme-2026]. Raphaël Glucksmann a été désigné candidat commun du PS et de Place publique le 11 octobre 2026, dès le premier tour de la primaire *(source secondaire)*[^publicsenat-primaire-resultats]. Ni Gabriel Attal ni Édouard Philippe n'ont de page consacrée au logement sur leur site de campagne au 10 octobre 2026[^attal-programme][^philippe-prospere].*
+*Les partis sont présentés dans l'ordre où leurs groupes siègent à l'Assemblée nationale, de gauche à droite ; Reconquête, qui n'a pas de groupe, vient en dernier. Les positions sont celles connues au 10 octobre 2026, complétées le 12 octobre ; celles de LFI au 12 novembre 2026. LFI a publié son programme le 6 novembre 2026[^aec27-intro]. Raphaël Glucksmann a été désigné candidat commun du PS et de Place publique le 11 octobre 2026, dès le premier tour de la primaire *(source secondaire)*[^publicsenat-primaire-resultats]. Ni Gabriel Attal ni Édouard Philippe n'ont de page consacrée au logement sur leur site de campagne au 10 octobre 2026[^attal-programme][^philippe-prospere].*
 
 ### Vue d'ensemble
 
 | Parti | Construction | Loyers | Logement social et SRU | Passoires et rénovation | Accès et priorité |
 |---|---|---|---|---|---|
-| **LFI** | 400 000 abordables par an, dont 200 000 publics | Gel 4 ans en zone tendue ; encadrement partout | Quota SRU à 30 % | 700 000 isolations par an | Réquisitions ; meublés touristiques limités à 60 jours |
+| **LFI** | 200 000 publics par an ; 30 000 logements jeunes | Gel 4 ans ; encadrement partout (proposition de 2025) | Quota SRU à 30 % | 700 000 rénovations par an ; interdire « réellement » de louer les passoires | Expulsions sans relogement interdites ; meublés touristiques à 60 jours |
 | **Les Écologistes** | Relance des HLM, sans chiffre | Encadrement généralisé et durable | 30 % d'ici 2035 en zone tendue | 500 000 rénovations par an ; calendrier maintenu | Réquisitions ; garantie des loyers pour tous |
 | **PS-Place publique** | Prix du foncier régulé | « Bouclier » : 30 % des revenus au plus | Non précisé | Prêt à taux zéro pour rénover | Contre le gel des APL |
 | **Renaissance** | ZAN simplifié | Non précisé | Logements intermédiaires dans le quota | Loi de programmation de la rénovation | Non précisé |
@@ -355,7 +355,7 @@ Selon le SDES, c'est 1,5 % du PIB. Pour 69,1 millions d'habitants, cela fait ≈
 **Ce qui rapproche et ce qui sépare.**
 - **Simplifier les règles de construction** est proposé du centre à la droite : Renaissance, Horizons, LR et RN. La gauche met en avant la construction publique et le prix du foncier.
 - **Les loyers** séparent la gauche, qui veut étendre l'encadrement, de LR, qui veut le supprimer. Le RN et Renaissance n'ont pas de position publiée trouvée.
-- **Les passoires** : Les Écologistes défendent explicitement le calendrier actuel, sur lequel LFI ne s'est pas prononcée ; LR et le RN veulent supprimer les interdictions ; le gouvernement veut les assouplir.
+- **Les passoires** : Les Écologistes défendent explicitement le calendrier actuel ; LFI veut « interdire réellement la location des passoires thermiques »[^aec27-p1c3] ; LR et le RN veulent supprimer les interdictions ; le gouvernement veut les assouplir.
 - **L'accès au logement social** : le RN veut réserver les logements sociaux et les aides au logement aux Français. Reconquête voulait en 2022 retirer les aides au logement aux non-Européens. LR proposait en 2024 une durée de résidence pour ces aides *(source secondaire)*[^publicsenat-rip-lr-2024][^cc-2024-6-rip]. En juillet 2026, Bruno Retailleau demande « cinq ans de travail effectif » *(source secondaire)*[^planet-retailleau].
 
 ### Les obstacles communs
@@ -384,9 +384,9 @@ Ils s'appliquent à toutes les propositions du même type ; le tableau standard 
 
 | Parti | Propositions | Levier | Obstacles et coût |
 |---|---|---|---|
-| **LFI** | « Atteindre 400 000 nouveaux logements abordables par an dans les 5 prochaines années, dont 200 000 logements publics », dont 140 000 « très sociaux » ; « Refaire l'isolation d'au moins 700 000 logements par an »[^lfi-plan-btp-logement] | Budget ; Collectivités | 12 Md€ par an d'investissement de l'État selon LFI, plus ≈ 36 Md€ par an d'un « pôle public bancaire » *(calcul sur le tableau du plan)*[^lfi-plan-btp-logement]. Pour 200 000 logements publics par an : ≈ 2,1 Md€ par an pour les finances publiques (fourchette de 1,9 à 2,3 Md€) et 22 à 25,5 Md€ de financement net, selon l'Institut Montaigne (libéral, 2022, coûts de 2019)[^montaigne-melenchon-logements-2022]. Capacité du secteur à construire (question 1). |
-| | Proposition de loi du groupe LFI (décembre 2025) : gel des loyers des baux en cours en zone tendue pendant 4 ans ; encadrement sur tout le territoire ; fin du complément de loyer[^an-ppl-2225] | Loi | Écart avec les éléments retenus par la décision de 2014 (obstacles communs)[^cc-2014-691]. Non chiffré. |
-| | Quota SRU à 30 % ; « Utiliser la loi de réquisition des logements vides » ; taxe progressive sur la vacance ; meublés touristiques limités à 60 jours par an[^lfi-plan-btp-logement] ; APL +10 % (programme de 2024)[^nfp-programme] | Loi ; Décret ; Budget | Réquisitions rares depuis 1945 (obstacles communs)[^an-rapport-2426]. APL +10 % : 1,54 Md€ par an selon l'Institut Montaigne (2024)[^montaigne-nfp-apl]. |
+| **LFI** | « Produire 200 000 logements publics par an et 30 000 logements jeunes pendant 5 ans »[^aec27-p5c3] ; rénovation « d'au moins 700 000 logements par an » ; « interdire réellement la location des passoires thermiques »[^aec27-p1c3]. Plan « BTP-logement » de septembre 2026 : « Atteindre 400 000 nouveaux logements abordables par an dans les 5 prochaines années, dont 200 000 logements publics », dont 140 000 « très sociaux »[^lfi-plan-btp-logement] | Budget ; Collectivités ; Loi | 12 Md€ par an d'investissement de l'État selon LFI, plus ≈ 36 Md€ par an d'un « pôle public bancaire » *(calcul sur le tableau du plan)*[^lfi-plan-btp-logement]. Pour 200 000 logements publics par an : ≈ 2,1 Md€ par an pour les finances publiques (fourchette de 1,9 à 2,3 Md€) et 22 à 25,5 Md€ de financement net, selon l'Institut Montaigne (libéral, 2022, coûts de 2019)[^montaigne-melenchon-logements-2022]. Capacité du secteur à construire (question 1). |
+| | « Geler les loyers le temps de déployer un encadrement des loyers partout sur le territoire »[^aec27-p5c3]. Proposition de loi du groupe LFI (décembre 2025) : gel en zone tendue pendant 4 ans ; fin du complément de loyer[^an-ppl-2225] | Loi | Écart avec les éléments retenus par la décision de 2014 (obstacles communs)[^cc-2014-691]. Non chiffré. |
+| | « Rehausser le seuil de logements sociaux à 30 % dans les villes » ; « limitant les locations de meublés touristiques de type Airbnb à 60 jours par an »[^aec27-p5c3]. « Interdire les expulsions locatives sans relogement public et abroger la loi dite « Kasbarian » » ; « un plafond de 5 logements transmissibles par héritage »[^aec27-p5c3]. « Revaloriser les aides pour le logement (APL) de 10 % »[^aec27-p2c2]. Plan de septembre 2026 : « Utiliser la loi de réquisition des logements vides » ; taxe progressive sur la vacance[^lfi-plan-btp-logement] | Loi ; Décret ; Budget | Réquisitions rares depuis 1945 (obstacles communs)[^an-rapport-2426]. APL +10 % : 1,54 Md€ par an selon l'Institut Montaigne, pour le programme de 2024[^montaigne-nfp-apl]. Relogement public avant expulsion et plafond de 5 logements transmissibles : non chiffrés, modalités non précisées dans le programme. |
 | **Les Écologistes** | Encadrement des loyers généralisé et durable ; garantie des loyers pour tous ; quota SRU à 30 % d'ici 2035 dans les communes tendues ; fin de la réduction de loyer de solidarité ; réquisitions et surtaxe sur la vacance[^ecologistes-programme] | Loi ; Budget ; Collectivités | Même question constitutionnelle pour la généralisation, et réquisitions rares (obstacles communs). Fin de la RLS : ≈ 0,9 Md€ par an au niveau de 2026 *(calcul)*[^anil-rls-2026]. Le reste n'est pas chiffré. |
 | | « 500 000 rénovations performantes par an via MaPrimeRénov' » ; « Maintenir l'interdiction de la remise en location des logements classés F en 2028 et E en 2034 », avec une exception possible pour les petits propriétaires contre une baisse de loyer de 30 %[^ecologistes-programme] | Budget ; Loi | 1,4 Md€ en 2027 pour la rénovation selon le parti[^ecologistes-budget2027]. 120 305 rénovations d'ampleur ont été aidées en 2025 (section 1.8). |
 | **PS-Place publique** | Olivier Faure, congrès HLM de Bordeaux (22-24 septembre 2026) : « bouclier logement », pour qu'aucun ménage du parc privé ne consacre plus de 30 % de ses revenus au logement *(paraphrase, source secondaire)* ; encadrement maintenu ; prix du foncier régulé[^seloger-congres-hlm-ps] | Loi ; Budget | Mécanisme et coût non publiés. S'il plafonne les loyers selon le revenu du locataire, même question de droit de propriété que l'encadrement. |
@@ -407,7 +407,9 @@ Ils s'appliquent à toutes les propositions du même type ; le tableau standard 
 - *Sans réponse* :
   - le montage du « pôle public bancaire » et son effet sur la dette publique ;
   - le coût des logements tirés du parc existant, « plus de 35 % » des 400 000 selon le plan[^lfi-plan-btp-logement] ;
-  - le coût d'un gel des loyers pour les bailleurs, et le calendrier du quota SRU à 30 %.
+  - le calendrier du quota SRU à 30 %, et la durée du gel des loyers ;
+  - le coût du relogement public avant toute expulsion, et le fonctionnement du plafond de 5 logements transmissibles ;
+  - le coût total du programme, dont le chiffrage est attendu « au début de l'année 2027 » *(source secondaire)*[^publicsenat-aec-2027].
 - *Critiques* :
   - Libérale : l'Institut Montaigne doute de « la capacité du secteur du bâtiment et des pouvoirs publics à absorber un tel rythme de construction » (2022)[^montaigne-melenchon-logements-2022].
   - Aucune critique de ce plan par un autre parti n'a été trouvée.
@@ -593,10 +595,11 @@ Ils s'appliquent à toutes les propositions du même type ; le tableau standard 
 
 ## 6. Points incertains
 
-- **Programmes encore incomplets.** LFI publie son programme le 6 novembre 2026, le PS et Place publique ont désigné Raphaël Glucksmann le 11 octobre, et Les Écologistes votent du 10 au 13 décembre. N'ont pas été trouvés :
+- **Programmes encore incomplets.** LFI a publié son programme le 6 novembre 2026 ; son chiffrage est attendu « au début de l'année 2027 » *(source secondaire)*[^publicsenat-aec-2027]. Le PS et Place publique ont désigné Raphaël Glucksmann le 11 octobre, et Les Écologistes votent du 10 au 13 décembre. N'ont pas été trouvés :
   - un document du RN sur son « grand chantier » du logement, et le coût du prêt « 100 % rénov » ;
   - le document détaillé du programme logement de LR, et la source du taux d'amortissement de 4 % que l'ancienne version de ce chapitre lui prêtait ;
-  - des propositions logement de Raphaël Glucksmann, de Reconquête en 2026 et de l'UDR.
+  - des propositions logement de Raphaël Glucksmann, de Reconquête en 2026 et de l'UDR ;
+  - dans le programme de LFI pour 2027, les réquisitions et l'objectif de 400 000 logements abordables de son plan de septembre 2026 ; ce point n'a pas été vérifié sur le texte complet.
 - **Projet de loi Relance logement** : la date de l'examen en séance à l'Assemblée n'est pas connue. Le chiffre de 650 000 à 700 000 logements maintenus sur le marché, attribué au ministre par la presse, n'a pas été retrouvé dans une source directe.
 - **Encadrement des loyers** : le vote du Sénat en séance sur sa prolongation (prévu le 21 octobre 2026), puis la suite du texte avant le 24 novembre 2026. Le rapport de la Cour des comptes du 14 octobre 2026 est connu par une dépêche de l'Agence France-Presse ; il n'a pas été lu. Les sections du rapport Chapelle-Fack sur l'offre locative n'ont pas pu être lues ; l'IPP donne 600 M€ de transferts, le rapport ≈ 700 M€.
 - **Logement social** : aucune série officielle et lisible des logements financés depuis 2010 ; le bilan SRU 2023-2025 est attendu. La source statistique des 15 % d'étrangers parmi les locataires HLM, et les taux d'attribution selon la nationalité publiés par l'USH, n'ont pas été trouvés. Ces taux sont cités d'après un site financier, qui reprend une chaîne d'information économique ; une nouvelle recherche, le 21 octobre 2026, n'a pas trouvé de publication de l'USH.
@@ -755,7 +758,7 @@ Ils s'appliquent à toutes les propositions du même type ; le tableau standard 
 - Sud Radio, d'après l'AFP, [« Le Pen veut mettre la priorité nationale au centre d'un grand chantier sur le logement »](https://www.sudradio.fr/societe/le-pen-veut-mettre-la-priorite-nationale-au-centre-dun-grand-chantier-sur-le-logement), 13 septembre 2026 *(source secondaire)*
 - Public Sénat, [« La première mesure sociale sera de garantir à tous les Français d'être prioritaires chez eux », défend Laurent Jacobelli](https://www.publicsenat.fr/actualites/politique/la-premiere-mesure-sociale-sera-de-garantir-a-tous-les-francais-detre-prioritaires-chez-eux-defend-laurent-jacobelli), 14 septembre 2026 *(source secondaire)*
 - L'info durable, d'après l'AFP, [« Attal, Le Pen et Mélenchon interpelés sur la crise du logement et la "grande souffrance" du bâtiment »](https://www.linfodurable.fr/attal-le-pen-et-melenchon-interpeles-sur-la-crise-du-logement-et-la-grande-souffrance-du-batiment), 28 septembre 2026 *(source secondaire)*
-- LCP, [« Présidentielle : le programme remanié de Jean-Luc Mélenchon »](https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera), 23 septembre 2026 *(source secondaire)*
+- La France insoumise, [*L'Avenir en commun*, programme pour 2027](https://melenchon2027.fr/programme/livre/introduction), 6 novembre 2026
 - Gabriel Attal, site de campagne, [page « Programme »](https://attalpresident.fr/programme), consultée le 10 octobre 2026
 - Nouveau Front populaire, [programme de 2024, republié par la campagne de J.-L. Mélenchon](https://melenchon2027.fr/wp-content/uploads/2026/04/PROGRAMME-FRONT-POPULAIRE.pdf), avril 2026
 - Institut Montaigne (libéral), [« Revaloriser les APL de 10 % » (Nouveau Front populaire)](https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/revaloriser-les-apl-de-10), législatives 2024
@@ -896,7 +899,6 @@ Les chapitres [Pouvoir d'achat](../pouvoir-achat/pouvoir_achat.md), [Énergie](.
 [^sudradio-le-pen-logement]: Sud Radio, d'après l'AFP, [« Le Pen veut mettre la priorité nationale au centre d'un grand chantier sur le logement »](https://www.sudradio.fr/societe/le-pen-veut-mettre-la-priorite-nationale-au-centre-dun-grand-chantier-sur-le-logement), 13 septembre 2026 *(source secondaire)*.
 [^publicsenat-jacobelli]: Public Sénat, [« La première mesure sociale sera de garantir à tous les Français d'être prioritaires chez eux », défend Laurent Jacobelli](https://www.publicsenat.fr/actualites/politique/la-premiere-mesure-sociale-sera-de-garantir-a-tous-les-francais-detre-prioritaires-chez-eux-defend-laurent-jacobelli), 14 septembre 2026 *(source secondaire)*.
 [^afp-linfodurable-batimat]: L'info durable, d'après l'AFP, [« Attal, Le Pen et Mélenchon interpelés sur la crise du logement et la "grande souffrance" du bâtiment »](https://www.linfodurable.fr/attal-le-pen-et-melenchon-interpeles-sur-la-crise-du-logement-et-la-grande-souffrance-du-batiment), 28 septembre 2026 *(source secondaire)*.
-[^lcp-lfi-programme-2026]: LCP, [« Présidentielle : le programme remanié de Jean-Luc Mélenchon »](https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera), 23 septembre 2026 *(source secondaire)*.
 [^attal-programme]: Gabriel Attal, site de campagne, [page « Programme »](https://attalpresident.fr/programme), consultée le 10 octobre 2026.
 [^cc-2014-691]: Conseil constitutionnel, [décision n° 2014-691 DC, loi pour l'accès au logement et un urbanisme rénové](https://www.conseil-constitutionnel.fr/decision/2014/2014691DC.htm), 20 mars 2014.
 [^an-rapport-2426]: Assemblée nationale, D. Simonnet, [rapport n° 2426 sur la proposition de loi visant à permettre aux maires de loger les habitants en mobilisant les logements vacants](https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b2426_rapport-fond.pdf), 4 février 2026.
@@ -905,7 +907,6 @@ Les chapitres [Pouvoir d'achat](../pouvoir-achat/pouvoir_achat.md), [Énergie](.
 [^eurlex-492-2011]: EUR-Lex, [règlement (UE) n° 492/2011 relatif à la libre circulation des travailleurs à l'intérieur de l'Union](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32011R0492), 5 avril 2011.
 [^ch-institutions]: Chapitre [Institutions : comment la France est gouvernée](../institutions/institutions.md), qui donne les sources d'origine.
 [^ce-epbd]: Commission européenne, [« Energy Performance of Buildings Directive »](https://energy.ec.europa.eu/topics/energy-efficiency/energy-performance-buildings-directive_en), consulté le 10 octobre 2026.
-[^nfp-programme]: Nouveau Front populaire, [programme de 2024, republié par la campagne de J.-L. Mélenchon](https://melenchon2027.fr/wp-content/uploads/2026/04/PROGRAMME-FRONT-POPULAIRE.pdf), avril 2026.
 [^montaigne-nfp-apl]: Institut Montaigne (libéral), [« Revaloriser les APL de 10 % » (Nouveau Front populaire)](https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/revaloriser-les-apl-de-10), législatives 2024.
 [^ecologistes-budget2027]: Les Écologistes, [dossier de presse « Budget 2027 : la grande transmission doit financer la grande transition »](https://lesecologistes.fr/document/3uFsOCRc1JbiqUtDqkoLVd/dossierpresse-budget2027.pdf), 26 août 2026.
 [^seloger-congres-hlm-ps]: SeLoger, [congrès HLM et propositions d'O. Faure et F. Hollande](https://edito.seloger.com/node/23779), 28 septembre 2026, d'après l'AFP *(source secondaire)*.
@@ -955,3 +956,8 @@ Les chapitres [Pouvoir d'achat](../pouvoir-achat/pouvoir_achat.md), [Énergie](.
 [^planet-retailleau]: Planet, [« Présidentielle 2027 : Bruno Retailleau durcit sa ligne et prône la fin du droit du sol »](https://www.planet.fr/politique-presidentielle-2027-bruno-retailleau-durcit-sa-ligne-et-prone-la-fin-du-droit-du-sol.2997878.29334.html), 1er juillet 2026 *(source secondaire)*.
 [^fpl-reml-2025-chiffres]: Fondation Abbé Pierre (aujourd'hui Fondation pour le logement des défavorisés), [*L'état du mal-logement en France 2025*, cahier 4 « Les chiffres du mal-logement »](https://www.fondationpourlelogement.fr/wp-content/uploads/import/sites/default/files/2025-01/REML2025_CAHIER_4-Les_chiffres_du_mal_logement.pdf), janvier 2025.
 [^batiweb-mal-logement-2026]: Batiweb, [« Plus de 4 millions de mal-logés en France, selon la Fondation pour le logement »](https://www.batiweb.com/actualites/etude/plus-de-4-millions-de-mal-loges-en-france-selon-la-fondation-pour-le-logement-48166), 3 février 2026 *(source secondaire)*.
+[^aec27-p5c3]: La France insoumise, [*L'Avenir en commun*, programme pour 2027, partie « Fonder la 6e République », chapitre 3](https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3), 6 novembre 2026.
+[^aec27-p1c3]: La France insoumise, [*L'Avenir en commun*, programme pour 2027, partie « Pour une bifurcation écologique et sociale », chapitre 3](https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3), 6 novembre 2026.
+[^aec27-intro]: La France insoumise, [*L'Avenir en commun*, programme pour 2027, introduction](https://melenchon2027.fr/programme/livre/introduction), 6 novembre 2026.
+[^aec27-p2c2]: La France insoumise, [*L'Avenir en commun*, programme pour 2027, partie « Une économie au service des besoins », chapitre 2](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2), 6 novembre 2026.
+[^publicsenat-aec-2027]: Public Sénat, [« Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme »](https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme), 6 novembre 2026 *(source secondaire)*.

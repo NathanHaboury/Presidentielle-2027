@@ -1,6 +1,6 @@
 # Étude de cas : TotalEnergies, profits et impôts
 
-*Version de travail du 11 octobre 2026. Annexe liée au chapitre [Finances publiques](finances_publiques.md), qui la résume en section 4.7. Les chiffres seront mis à jour à la date d'arrêt des données de l'édition 1.*
+*Version de travail du 11 octobre 2026, mise à jour le 12 novembre 2026. Annexe liée au chapitre [Finances publiques](finances_publiques.md), qui la résume en section 4.7. Les chiffres seront mis à jour à la date d'arrêt des données de l'édition 1.*
 
 TotalEnergies est au cœur de trois débats : les « superprofits », les prix à la pompe et l'impôt payé par les multinationales. Cette étude de cas rassemble les chiffres sur ses profits et ses impôts. Les chiffres viennent d'abord des publications de l'entreprise (comptes annuels, rapport de transparence fiscale, déclaration pays par pays), puis de ses critiques, toujours citées comme telles.
 
@@ -138,7 +138,7 @@ TotalEnergies est au cœur de trois débats : les « superprofits », les prix �
 
 | Parti | Position |
 |---|---|
-| LFI | Prix des carburants bloqué à 1,70 € le litre ; plafonnement légal des marges[^publicsenat-melenchon-carburants] |
+| LFI | Prix des carburants bloqué à 1,70 € le litre ; plafonnement légal des marges (septembre 2026)[^publicsenat-melenchon-carburants]. Programme de 2027 : « Établir une taxe sur les superprofits de toutes les grandes entreprises » ; « Bloquer et encadrer les prix des produits de première nécessité (alimentation, énergie, carburant) »[^aec27-p2c2] |
 | Les Écologistes | Contribution de 66 % sur les surprofits des groupes pétroliers et gaziers (proposition de loi n° 2675 d'Eva Sas, 14 avril 2026)[^an-ppl-2675][^publicsenat-ppl-superprofits] ; taxe de 33 % sur le chiffre d'affaires supplémentaire réalisé en France en 2026 et 2027 par rapport à 2025, avec 2,8 Md€ attendus selon eux (contre-budget du 30 septembre 2026)[^afp-contre-budget-ecologistes] ; « action spécifique » de l'État au capital de TotalEnergies, qui lui permettrait de s'opposer à certains transferts de capital (Yannick Jadot, Sénat)[^senat-ppl-jadot] |
 | PS | Taxe de 20, 30 ou 40 % sur les superprofits des entreprises de plus de 750 M€ de chiffre d'affaires (≈ 2 Md€ attendus)[^publicsenat-ppl-superprofits] |
 | LR | Supprimer le dispositif des certificats d'économies d'énergie, ce qui ferait baisser les carburants de 15 à 17 centimes le litre selon eux (Bruno Retailleau et David Lisnard)[^afp-cee] |
@@ -253,3 +253,4 @@ Au 11 octobre 2026, aucune taxe spécifique sur les superprofits n'a été adopt
 [^te-resultats-2024]: TotalEnergies, [résultats du quatrième trimestre et de l'année 2024 (Business Wire, en anglais)](https://www.businesswire.com/news/home/20250204066463/en/TotalEnergies-SE-Fourth-Quarter-and-Full-Year-2024-Results), février 2025.
 [^senat-ce-totalenergies-2024]: Sénat, commission d'enquête sur TotalEnergies, R. Karoutchi (président) et Y. Jadot (rapporteur), [synthèse du rapport n° 692 (2023-2024)](https://www.senat.fr/rap/r23-692-1/r23-692-1-syn.pdf), 12 juin 2024.
 [^clcv-marges]: CLCV (association de consommateurs), [hausse des prix des carburants : les raffineurs sont les grands gagnants](https://www.clcv.org/articles/hausse-des-prix-des-carburants-les-raffineurs-sont-les-grands-gagnants), 9 avril 2026, mis à jour le 21 avril 2026.
+[^aec27-p2c2]: La France insoumise, [*L'Avenir en commun*, programme pour 2027, partie « Une économie au service des besoins », chapitre 2](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2), 6 novembre 2026.
