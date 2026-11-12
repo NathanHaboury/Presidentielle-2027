@@ -4,7 +4,7 @@
 
 Le Parti socialiste (PS) et Place publique présentent un candidat commun. Raphaël Glucksmann, cofondateur de Place publique, a été désigné le 11 octobre 2026 par une primaire organisée avec la Gauche républicaine et socialiste (GRS)[^publicsenat-primaire-resultats][^pp-primaire-modalites]. François Hollande n'y a pas participé ; une candidature de sa part serait rattachée à cette fiche.
 
-**Voir aussi :** l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (calendrier, sondages, tableau croisé) et les chapitres cités dans le tableau de la section 3.
+**Voir aussi :** la partie [« Qui se présente »](qui_se_presente.md) (calendrier, candidats), l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (programmes, tableau croisé) et les chapitres cités dans le tableau de la section 3.
 
 ## En bref
 

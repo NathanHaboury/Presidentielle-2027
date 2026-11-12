@@ -4,7 +4,7 @@
 
 Reconquête présente son président, Éric Zemmour. Il a annoncé sa candidature le 17 septembre 2026 ; la déclaration formelle était attendue à l'automne, probablement en octobre *(paraphrase, source secondaire)*[^lcp-zemmour-candidature][^publicsenat-zemmour-2026]. Le parti n'a pas d'allié déclaré au 12 octobre 2026. Sarah Knafo, députée européenne, porte ses propositions sur les finances publiques *(source secondaire)*[^publicsenat-knafo-2026].
 
-**Voir aussi :** l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (calendrier, sondages, tableau croisé) et les chapitres cités dans le tableau de la section 3.
+**Voir aussi :** la partie [« Qui se présente »](qui_se_presente.md) (calendrier, candidats), l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (programmes, tableau croisé) et les chapitres cités dans le tableau de la section 3.
 
 ## En bref
 

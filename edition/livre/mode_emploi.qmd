@@ -58,6 +58,8 @@ Le livre suit les huit partis dont au moins un candidat testé atteint 5 % des i
 
 **Les rattachements.** Une personnalité testée dans les sondages pour un parti compte pour ce parti dans la règle des 5 %. Une candidature de François Hollande ou d'Olivier Faure serait rattachée à la fiche PS-Place publique, une candidature de Bruno Le Maire à la fiche Renaissance. François Ruffin et David Lisnard, dont les partis ne sont pas retenus, figurent parmi les autres candidats. Les alliés du RN, l'Union des droites pour la République (UDR), sont présentés avec lui. Les autres candidats sont présentés dans l'introduction de la partie « Les partis » ; dans les chapitres, leurs propositions figurent dans une ligne « Autres », suivie, quand c'est utile, de la politique du gouvernement en place. La liste des partis retenus est revue à chaque édition.
 
+**Une règle appliquée une fois par édition.** Les sondages servent seulement à choisir les partis suivis ; le livre ne les commente pas, car ils changent vite. La règle a été appliquée aux sondages publiés jusqu'au 12 octobre 2026 ; elle le sera de nouveau à la date d'arrêt des données. Le détail est dans la partie [« Qui se présente »](../../partis/qui_se_presente.md), section 5.
+
 Quand un parti n'a pas encore publié son programme pour 2027, le livre le dit et donne la date de ses positions.
 
 ## La colonne « Levier »

@@ -4,7 +4,7 @@
 
 Renaissance est le parti du président Emmanuel Macron, élu en 2017 et réélu en 2022, qui ne peut pas se représenter[^lcp-attal-candidature]. Gabriel Attal, secrétaire général du parti, est candidat déclaré depuis le 22 mai 2026, avec le soutien du conseil national de Renaissance[^publicsenat-attal-candidature][^publicsenat-riester-attal]. Le bloc central compte un autre candidat, Édouard Philippe (Horizons) ; aucun mode de désignation d'un candidat commun n'est arrêté[^publicsenat-comite-liaison][^publicsenat-main-tendue].
 
-**Voir aussi :** l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (calendrier, sondages, tableau croisé) et les chapitres cités dans le tableau de la section 3.
+**Voir aussi :** la partie [« Qui se présente »](qui_se_presente.md) (calendrier, candidats), l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (programmes, tableau croisé) et les chapitres cités dans le tableau de la section 3.
 
 ## En bref
 

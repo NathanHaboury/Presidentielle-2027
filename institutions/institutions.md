@@ -5,7 +5,7 @@
 Ce chapitre explique qui décide en France : le président, le gouvernement, le Parlement et les juges. Il décrit ce qui a changé depuis que l'Assemblée nationale n'a plus de majorité absolue, puis ce que les partis veulent modifier : la Constitution, le mode de scrutin, le référendum, la place des juges. L'organisation des collectivités locales n'y est pas détaillée.
 
 **Voir aussi :**
-- [Présidentielle 2027 : ce que proposent les partis](../partis/programmes_partis_2027.md), pour le calendrier de 2027, les candidats, les sondages et les programmes complets ;
+- [Qui se présente](../partis/qui_se_presente.md), pour le calendrier de 2027 et les candidats, et [Présidentielle 2027 : ce que proposent les partis](../partis/programmes_partis_2027.md), pour les programmes complets ;
 - [Immigration](../immigration/immigration.md), pour le contenu des propositions sur le droit du sol, la « priorité nationale » et l'asile ; ce chapitre-ci décrit la voie juridique pour les adopter ;
 - [Finances publiques](../finances-publiques/finances_publiques.md), pour le budget 2027 : ce chapitre-ci décrit la procédure budgétaire (49.3, loi spéciale) ;
 - [Défense et Europe](../defense-europe/defense_europe.md), sections 1.7 et 1.8, pour l'Union européenne comme politique et la contribution de la France à son budget ;

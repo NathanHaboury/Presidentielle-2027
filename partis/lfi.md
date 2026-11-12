@@ -4,7 +4,7 @@
 
 La France insoumise (LFI) présente Jean-Luc Mélenchon, candidat déclaré depuis le 3 mai 2026, sans allié national annoncé au 12 octobre 2026. Son programme pour 2027, *L'Avenir en commun*, est paru dans une nouvelle édition le 6 novembre 2026. Cette fiche s'appuie désormais sur ce programme. Quand il ne traite pas un sujet, elle le complète par des documents de 2024 et de 2025 : édition de 2025, programme du Nouveau Front populaire, déclarations.
 
-**Voir aussi :** l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (calendrier, sondages, tableau croisé) et les chapitres cités dans le tableau de la section 3.
+**Voir aussi :** la partie [« Qui se présente »](qui_se_presente.md) (calendrier, candidats), l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (programmes, tableau croisé) et les chapitres cités dans le tableau de la section 3.
 
 ## En bref
 

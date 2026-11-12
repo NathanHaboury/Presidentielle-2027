@@ -6,6 +6,7 @@ project:
     - edition/livre/enjeux.qmd
     - edition/livre/livre_en_bref.qmd
     - edition/livre/mode_emploi.qmd
+    - partis/qui_se_presente.md
     - institutions/institutions.md
     - finances-publiques/finances_publiques.md
     - pouvoir-achat/pouvoir_achat.md
@@ -48,6 +49,9 @@ book:
     - edition/livre/enjeux.qmd
     - edition/livre/livre_en_bref.qmd
     - edition/livre/mode_emploi.qmd
+    - part: "Qui se présente"
+      chapters:
+        - partis/qui_se_presente.md
     - part: "Le cadre"
       chapters:
         - institutions/institutions.md

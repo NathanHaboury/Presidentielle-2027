@@ -4,7 +4,7 @@
 
 Horizons est le parti d'Édouard Philippe, ancien Premier ministre. Édouard Philippe est candidat déclaré depuis le 3 septembre 2024, sans procédure de désignation. Gabriel Attal (Renaissance) est aussi candidat dans le même « bloc central » : Édouard Philippe refuse une primaire et propose « un rassemblement de la droite et du centre ».
 
-**Voir aussi :** l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (calendrier, sondages, tableau croisé) et les chapitres cités dans le tableau de la section 3.
+**Voir aussi :** la partie [« Qui se présente »](qui_se_presente.md) (calendrier, candidats), l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (programmes, tableau croisé) et les chapitres cités dans le tableau de la section 3.
 
 ## En bref
 

@@ -2,7 +2,7 @@
 
 *Version de travail du 12 octobre 2026, corrigée le 21 octobre 2026, mise à jour le 12 novembre 2026. Les chiffres seront mis à jour à la date d'arrêt des données de l'édition 1. Chaque fiche indique dans sa ligne de version ce qui entraînera sa révision : programme, désignation ou décision de justice.*
 
-Cette partie présente les huit partis dont au moins un candidat testé atteint 5 % des intentions de vote dans au moins deux sondages de premier tour des trois derniers mois. L'introduction donne le calendrier, les candidats, les sondages et l'état des programmes. Elle résume ensuite les propositions dans un tableau croisé, puis rappelle ce que deviennent les promesses électorales. Chaque parti a ensuite sa fiche, sur le même plan. Les positions sont reprises des chapitres thématiques, qui donnent le détail, les chiffrages et les critiques.
+Cette partie présente les huit partis suivis par ce livre. Le calendrier, les candidats, la règle de choix des partis et la place des sondages sont dans la partie [« Qui se présente »](qui_se_presente.md), au début du livre. Cette introduction donne l'état des programmes et les organismes qui les chiffrent. Elle résume ensuite les propositions dans un tableau croisé, puis rappelle ce que deviennent les promesses électorales. Chaque parti a ensuite sa fiche, sur le même plan. Les positions sont reprises des chapitres thématiques, qui donnent le détail, les chiffrages et les critiques.
 
 **Les fiches des partis :**
 - [La France insoumise (LFI)](lfi.md) : Jean-Luc Mélenchon ;
@@ -27,11 +27,6 @@ Cette partie présente les huit partis dont au moins un candidat testé atteint 
 - **Les procédures judiciaires** listées visent le candidat et sont en cours. Les condamnations définitives sont citées quand elles touchent l'éligibilité. Toute personne est présumée innocente tant qu'elle n'a pas été définitivement condamnée.
 
 > **Repères.**
-> - **Premier et second tour.** Un candidat est élu au premier tour s'il obtient la majorité absolue des suffrages exprimés. Sinon, les deux candidats arrivés en tête s'affrontent au second tour, deux semaines plus tard.
-> - **Parrainages.** Pour être candidat, il faut 500 signatures d'élus (maires, parlementaires, conseillers départementaux et régionaux…), venant d'au moins 30 départements ou collectivités d'outre-mer, sans dépasser un dixième dans l'un d'eux. Le Conseil constitutionnel arrête la liste des candidats.
-> - **Intention de vote, hypothèse.** Un sondage demande pour qui la personne voterait si l'élection avait lieu maintenant. Il le demande pour une **hypothèse**, c'est-à-dire une liste de candidats choisie par l'institut.
-> - **Marge d'erreur.** C'est l'écart possible, dû au hasard de l'échantillon, entre le score mesuré et le score dans toute la population. Pour 1 000 personnes, elle va de ± 1,4 à ± 3,1 points selon le score.
-> - **Primaire.** Vote organisé par un ou plusieurs partis pour choisir leur candidat. Elle est « ouverte » quand des non-adhérents peuvent voter.
 > - **Programme « publié ».** Document du parti ou du candidat, daté et accessible. Une déclaration n'est pas un programme.
 > - **Chiffrage.** Estimation du coût ou du rendement d'une mesure, par le parti lui-même ou par un organisme extérieur.
 
@@ -39,14 +34,11 @@ Cette partie présente les huit partis dont au moins un candidat testé atteint 
 
 ## L'essentiel
 
-![Marine Le Pen est en tête dans les 79 hypothèses de premier tour testées en trois mois](figures/01_intentions_premier_tour.png)
-
-1. **Deux tours, huit partis.** Le premier tour a lieu le 18 avril 2027, le second le 2 mai. Ce livre suit les huit partis dont au moins un candidat testé atteint 5 % dans au moins deux sondages récents.
-2. **Marine Le Pen en tête.** Dans 17 sondages publiés de juillet à octobre 2026, elle obtient 29,2 à 38 % au premier tour. Elle l'emporte dans chacun des 35 duels de second tour où elle est testée. Jean-Luc Mélenchon et Édouard Philippe se disputent la deuxième place.
-3. **Des candidatures encore ouvertes.** Raphaël Glucksmann a gagné la primaire de la gauche sociale-démocrate le 11 octobre 2026, avec 66 %. Les Écologistes votent en décembre. Le bloc central n'a pas de candidat commun. La Cour de cassation doit encore juger le pourvoi de Marine Le Pen.
-4. **Peu de programmes complets.** La plupart des partis ont publié des documents partiels : contre-budgets, plans, sites de campagne. LFI a publié son programme le 6 novembre 2026, sans montant total ; son chiffrage est attendu début 2027. Aucun chiffrage indépendant d'un programme de 2027 n'a été trouvé.
-5. **Gouverner sans majorité.** L'Assemblée élue en 2024 n'a pas de majorité absolue ; le président élu pourra la dissoudre. Plusieurs candidats prévoient des référendums ou des ordonnances.
-6. **Des promesses souvent tenues, en partie.** Dans 12 pays étudiés, 59 % des promesses des partis au gouvernement ont été tenues au moins en partie. En France, un projet de recherche mesure plus de 60 % depuis 1995.
+1. **Deux tours, huit partis.** Le premier tour a lieu le 18 avril 2027, le second le 2 mai. Le calendrier, les candidats et la règle de choix des huit partis sont dans la partie « Qui se présente », au début du livre.
+2. **Des candidatures encore ouvertes.** Raphaël Glucksmann a gagné la primaire de la gauche sociale-démocrate le 11 octobre 2026, avec 66 %. Les Écologistes votent en décembre. Le bloc central n'a pas de candidat commun. La Cour de cassation doit encore juger le pourvoi de Marine Le Pen.
+3. **Peu de programmes complets.** La plupart des partis ont publié des documents partiels : contre-budgets, plans, sites de campagne. LFI a publié son programme le 6 novembre 2026, sans montant total ; son chiffrage est attendu début 2027. Aucun chiffrage indépendant d'un programme de 2027 n'a été trouvé.
+4. **Gouverner sans majorité.** L'Assemblée élue en 2024 n'a pas de majorité absolue ; le président élu pourra la dissoudre. Plusieurs candidats prévoient des référendums ou des ordonnances.
+5. **Des promesses souvent tenues, en partie.** Dans 12 pays étudiés, 59 % des promesses des partis au gouvernement ont été tenues au moins en partie. En France, un projet de recherche mesure plus de 60 % depuis 1995.
 
 **Les grandes lignes de partage.**
 - **Budget** : de nouvelles dépenses financées par les plus aisés (LFI, Les Écologistes, PS-Place publique), ou des économies sur les dépenses (Renaissance, Horizons, LR, RN, Reconquête).
@@ -58,96 +50,9 @@ Cette partie présente les huit partis dont au moins un candidat testé atteint 
 
 ---
 
-## 1. Le paysage
+## 1. Programmes et chiffrages
 
-### 1.1 Le calendrier
-
-| Date | Étape |
-|---|---|
-| 9 au 11 octobre 2026 | Primaire de la gauche sociale-démocrate (Parti socialiste, Place publique, Gauche républicaine et socialiste) : Raphaël Glucksmann est désigné dès le premier tour, avec 66,17 % |
-| 6 novembre 2026 | Parution du programme de LFI pour 2027, *L'Avenir en commun*, dont la présentation était annoncée le 7 novembre au Bourget |
-| 10 au 13 décembre 2026 | Vote des adhérents des Écologistes : candidature de Marine Tondelier ou soutien à un candidat d'une autre force de gauche |
-| Fin 2026 ou début 2027 | « Rassemblement » annoncé par Gabriel Attal et Édouard Philippe ; décision attendue de François Hollande |
-| ≈ 26 janvier 2027 (estimation du ministère de l'Intérieur) | Décret de convocation des électeurs ; les parrainages s'ouvrent le lendemain |
-| 12 mars 2027 | Fin du dépôt des 500 parrainages (sixième vendredi avant le premier tour) |
-| 26 mars 2027 au plus tard *(date calculée)* | Liste officielle des candidats, arrêtée par le Conseil constitutionnel (quatrième vendredi avant le premier tour) |
-| D'ici début avril 2027 (annonce de la Cour de cassation) | Décision possible de la Cour de cassation sur le pourvoi de Marine Le Pen |
-| **Dimanche 18 avril 2027** | **Premier tour** (samedi 17 avril dans sept territoires d'outre-mer) |
-| **Dimanche 2 mai 2027** | **Second tour** (samedi 1er mai dans les mêmes territoires) |
-| Après le 2 mai 2027 | Législatives anticipées si le président élu dissout l'Assemblée nationale (section 1.5) |
-
-*Sources : compte rendu du Conseil des ministres du 1er juillet 2026*[^cm-2026-07-01-calendrier]*. Date estimée du décret et fin des parrainages : Maire-info*[^maireinfo-presidentielle-2027]*. Publication de la liste : Weka*[^weka-parrainages-2027]*. Primaire : Public Sénat*[^publicsenat-primaire-resultats]*. LFI : La France insoumise*[^aec27-intro] *et La Chaîne parlementaire (LCP)*[^lcp-lfi-programme-2026]*. Écologistes et bloc central : LCP*[^lcp-ecologistes-decembre][^lcp-bloc-central-2026]*. Cour de cassation : Le Club des juristes*[^cdj-le-pen-cassation]*.*
-
-**Les dates officielles.** Le gouvernement a fixé les deux tours le 1er juillet 2026, après une consultation des partis[^cm-2026-07-01-calendrier]. Le décret de convocation n'était pas publié au 12 octobre 2026. Le premier tour tombe pendant les vacances de printemps des trois zones *(source secondaire)*[^lcp-dates-2027].
-
-**Les désignations.**
-- **La gauche sociale-démocrate** a voté du 9 au 11 octobre 2026, avec une prolongation d'un jour après une attaque informatique *(source secondaire)*[^afp-primaire-2026]. Raphaël Glucksmann (Place publique) obtient 79 613 voix (120 787 votants), soit 66,17 % des suffrages exprimés *(source secondaire)*[^sudradio-glucksmann-designe]. Suivent Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %) *(source secondaire)*[^publicsenat-primaire-resultats].
-- **Les Écologistes** ont désigné Marine Tondelier en décembre 2025, avec 86 % des exprimés, pour une primaire de la gauche, abandonnée depuis sous sa forme initiale *(source secondaire)*[^brut-tondelier-primaire]. Ils choisiront du 10 au 13 décembre 2026 entre une candidature de Marine Tondelier et le soutien à un candidat d'une autre force de gauche *(source secondaire)*[^lcp-ecologistes-decembre].
-- **LR** a désigné Bruno Retailleau par un vote des adhérents, avec 73,8 % ; le résultat a été publié le 19 avril 2026 *(source secondaire)*[^publicsenat-retailleau-designe].
-- **Le centre et la droite** n'ont pas fixé de procédure commune. Un « comité de liaison » réunit Renaissance, Horizons, le Mouvement démocrate (MoDem) et l'Union des démocrates et indépendants (UDI). David Lisnard (Nouvelle Énergie) demande « une grande primaire ouverte à tous » *(source secondaire)*[^lcp-bloc-central-2026]. Xavier Bertrand n'en voit pas la nécessité *(source secondaire)*[^lcp-bertrand-2026].
-
-### 1.2 Les candidats
-
-| Parti | Candidat | Statut au 12 octobre 2026 | Désignation |
-|---|---|---|---|
-| LFI | Jean-Luc Mélenchon | Déclaré | Annonce le 3 mai 2026, au journal de 20 heures de TF1 |
-| Les Écologistes | Marine Tondelier | Candidate jusqu'au vote des adhérents | Vote du 10 au 13 décembre 2026, qui peut conduire à un ralliement |
-| PS-Place publique | Raphaël Glucksmann | Désigné | Primaire ouverte du 9 au 11 octobre 2026 (66,17 %) |
-| Renaissance | Gabriel Attal | Déclaré | Annonce le 22 mai 2026 ; motion du conseil national du 12 mai (91 %) ; vote des adhérents annoncé, résultat non trouvé |
-| Horizons | Édouard Philippe | Déclaré | Annonce le 3 septembre 2024, dans un entretien au *Point* |
-| LR | Bruno Retailleau | Désigné | Vote des adhérents, résultat publié le 19 avril 2026 (73,8 %) |
-| RN | Marine Le Pen | Déclarée | Annonce le 7 juillet 2026, le soir de l'arrêt d'appel ; pourvoi en cassation en cours |
-| Reconquête | Éric Zemmour | Déclaré | Annonce le 17 septembre 2026 sur BFMTV ; déclaration formelle annoncée pour l'automne |
-
-*Partis dans l'ordre de l'hémicycle. Sources : LCP pour J.-L. Mélenchon*[^lcp-candidature-melenchon]*, G. Attal*[^lcp-attal-candidature]*, M. Le Pen*[^lcp-le-pen-eligible] *et É. Zemmour*[^lcp-zemmour-candidature] *; Agence France-Presse (AFP) pour le conseil national de Renaissance*[^afp-renaissance-attal] *; Public Sénat pour R. Glucksmann*[^publicsenat-primaire-resultats]*, É. Philippe*[^publicsenat-philippe-2024]*, B. Retailleau*[^publicsenat-retailleau-designe] *et la date de la déclaration formelle d'É. Zemmour*[^publicsenat-zemmour-2026] *; LCP pour M. Tondelier*[^lcp-ecologistes-decembre]*. Toutes ces sources sont des sources secondaires.*
-
-**La situation judiciaire de Marine Le Pen.** Le 7 juillet 2026, la cour d'appel de Paris l'a condamnée à 45 mois d'inéligibilité, dont 30 avec sursis. La cour a tenu compte de l'inéligibilité exécutée depuis le 31 mars 2025 *(source secondaire)*[^lcp-le-pen-eligible]. Marine Le Pen s'est pourvue en cassation. Selon Le Club des juristes, la Cour de cassation a annoncé qu'elle pourrait statuer « d'ici début avril 2027 », un calendrier « susceptible d'évoluer »[^cdj-le-pen-cassation]. Le parquet général ne s'est pas pourvu[^cdj-parquet-2026]. Le détail est dans la [fiche RN](rn.md).
-
-### 1.3 Les sondages
-
-**Dix-sept sondages en trois mois.** Du 12 juillet au 12 octobre 2026, sept instituts ont publié 17 sondages d'intentions de vote. Ils testent 79 hypothèses de premier tour et 36 duels de second tour, dont 35 avec Marine Le Pen[^commission-sondages-2027][^toluna-v7-2026]. Tous ont été réalisés avant la désignation de Raphaël Glucksmann. Le premier sondage publié ensuite (OpinionWay pour *Les Echos* et Radio Classique, 13-14 octobre, 1 043 personnes) lui donne 15 %, autant qu'à Jean-Luc Mélenchon et Édouard Philippe *(source secondaire)*[^afp-opinionway-1410]. Il obtient 16 % quand Gabriel Attal remplace Édouard Philippe ; Marine Le Pen a au moins 35 % dans chaque scénario[^afp-opinionway-1410]. Ce sondage n'entre pas dans les calculs ci-dessous, faute de notice publiée.
-
-| Institut | Commanditaire | Terrain | Personnes interrogées |
-|---|---|---|---|
-| Cluster17 | *Le Grand Continent* | 22-24 juillet | 1 506 |
-| Toluna Harris Interactive | M6, RTL | 18-19 août | 2 114 |
-| Ifop-Fiducial | LCI, *Le Figaro*, Sud Radio | 24-25 août | 1 800 |
-| Elabe | BFMTV, *La Tribune Dimanche* | 26-28 août | 1 501 |
-| Ipsos BVA | *Le Parisien* | 31 août-2 septembre | 1 500 inscrits |
-| Cluster17 | *Le Point* | 31 août-1er septembre | 1 711 |
-| OpinionWay | *Le Journal du dimanche* | 2-3 septembre | 1 003 |
-| OpinionWay | Sébastien Bonnal (candidat) | 2-4 septembre | 1 034 |
-| OpinionWay | *Les Echos*, Radio Classique | 8-9 septembre | 948 inscrits |
-| Toluna Harris Interactive | M6, RTL | 8-10 septembre | 2 358 |
-| OpinionWay | CNews | 9-10 septembre | 1 001 |
-| Ipsos BVA | Centre de recherches politiques de Sciences Po (Cevipof), *Le Monde*, Fondation Jean-Jaurès, Institut Montaigne | 3-9 septembre | 13 060 inscrits |
-| Cluster17 | *Politico* | 15-16 septembre | 2 045 |
-| YouGov | *Le HuffPost* | 17-21 septembre | 1 103 |
-| Toluna Harris Interactive | M6, RTL | 22-24 septembre | 2 334 |
-| Ifop-Fiducial | LCI, *Le Figaro*, Sud Radio | 25-29 septembre | 1 527 |
-| Toluna Harris Interactive | M6, RTL | 5-8 octobre | 2 348 |
-
-*Sources : notices déposées à la Commission des sondages*[^commission-sondages-2027] *; rapport de Toluna Harris Interactive pour le sondage du 12 octobre*[^toluna-v7-2026]*. Les données complètes, hypothèse par hypothèse, sont dans le fichier des sondages de l'édition.*
-
-**Ce que disent ces sondages** *(calcul sur les 79 hypothèses)*[^commission-sondages-2027][^toluna-v7-2026].
-- **Marine Le Pen est en tête dans toutes les hypothèses**, avec 29,2 à 38 %. Son avance sur le deuxième va de 10,6 à 21 points.
-- **La deuxième place se joue entre Jean-Luc Mélenchon et Édouard Philippe.** Jean-Luc Mélenchon obtient 14 à 19,8 %. Édouard Philippe obtient 10 à 16,5 % quand Gabriel Attal est aussi candidat, et 13 à 24 % quand Gabriel Attal n'est pas candidat.
-- **Gabriel Attal** obtient 5 à 9 % quand Édouard Philippe est aussi candidat, 12 à 17 % sans lui.
-- **Les autres candidats des huit partis** : Raphaël Glucksmann 5 à 18 % ; Bruno Retailleau 5 à 12 % ; Marine Tondelier 2 à 7 % ; Éric Zemmour 2 à 6 %.
-- **Au second tour**, Marine Le Pen l'emporte dans les 35 duels testés contre elle, avec 51,8 à 69,5 %. Face à Édouard Philippe, elle obtient 51,8 à 57 % ; face à Jean-Luc Mélenchon, 60,8 à 69,5 %.
-
-![Marine Le Pen l'emporte dans chacun des 35 duels de second tour où elle a été testée](figures/02_duels_second_tour.png)
-
-Chacun des huit candidats retenus atteint 5 % dans au moins quatre sondages de la période *(calcul)*. Les plus proches du seuil sont Marine Tondelier (7 % au plus, chez YouGov) et Éric Zemmour (6 % au plus, chez YouGov et Toluna Harris Interactive)[^cds-yougov-2026-09][^cds-harris-2026-09]. Deux candidats d'autres partis atteignent 5 % dans une seule hypothèse : François Ruffin (Debout !, 6 % chez Elabe) et David Lisnard (Nouvelle Énergie, 5,2 % chez Cluster17). Trois personnalités testées pour un parti retenu atteignent aussi 5 % : François Hollande (9 sondages) et Olivier Faure (3) pour PS-Place publique, Bruno Le Maire (1, chez Ifop-Fiducial) pour Renaissance *(calcul)*[^commission-sondages-2027]. Le livre retient les partis dont au moins un candidat testé atteint 5 % dans au moins deux sondages ; la liste est revue à chaque édition.
-
-**Ce que les sondages ne disent pas.**
-- **Une marge d'erreur.** Pour 1 000 personnes, les instituts l'estiment de ± 1,4 à ± 3,1 points selon le score[^cds-yougov-2026-09]. Elle atteint ± 3,8 points sur les 680 personnes certaines d'aller voter d'un sondage OpinionWay[^cds-opinionway-2026-09]. Ipsos BVA rappelle que ce calcul vaut strictement pour un tirage au hasard et reste approché pour un échantillon construit par quotas[^cds-ipsos-2026-09].
-- **Une deuxième place incertaine.** Dans 52 hypothèses sur 79, l'écart entre le deuxième et le troisième est de 3 points ou moins *(calcul)*. Il reste souvent à l'intérieur de la marge d'erreur, surtout dans les sondages de 1 000 à 2 000 personnes.
-- **Des hypothèses, pas des candidatures.** Chaque institut choisit les candidats testés : Gabriel Attal, Édouard Philippe ou les deux, Raphaël Glucksmann ou François Hollande, parfois Bruno Le Maire ou Dominique de Villepin. La liste officielle des candidats sera connue en mars 2027.
-- **Les indécis.** Fin septembre, 26 à 33 % des inscrits interrogés par l'Ifop ne se prononcent pas au premier tour, selon l'hypothèse[^cds-ifop-2026-09]. Les instituts ne mesurent pas les indécis de la même façon. Les chiffres ne se comparent donc pas d'un institut à l'autre.
-- **Une photographie.** Selon la notice de YouGov, les intentions de vote mesurent un rapport de force à un instant donné et ne prédisent pas le scrutin *(paraphrase)*[^cds-yougov-2026-09]. L'expérience de 2022 est rappelée en section 5.
-
-### 1.4 Où en sont les programmes
+### 1.1 Où en sont les programmes
 
 | Parti | Documents publiés | Publication attendue |
 |---|---|---|
@@ -164,15 +69,7 @@ Chacun des huit candidats retenus atteint 5 % dans au moins quatre sondages de l
 
 Un programme « publié » désigne ici un document du parti ou du candidat, daté et accessible. Les positions qui viennent de déclarations sont reprises dans les chapitres avec leur date. Les fiches des partis détaillent ces documents.
 
-### 1.5 Gouverner ensuite
-
-- **Aucune majorité à l'Assemblée.** En octobre 2026, la gauche compte 193 sièges, le centre 162, le RN et ses alliés 138, la Droite républicaine (LR) 47, pour une majorité absolue de 289 *(calcul)*[^an-effectifs].
-- **Une dissolution possible dès le début du mandat.** Le délai d'un an qui suivait les législatives de 2024 a pris fin en juillet 2025 (article 12) *(lecture du texte)*[^an-constitution]. Les élections auraient lieu 20 à 40 jours après la dissolution.
-- **Sans dissolution**, l'Assemblée élue en 2024 siège jusqu'en 2029.
-- **Une cohabitation est possible** si les législatives donnent la majorité aux opposants du président.
-- Le chapitre [Institutions](../institutions/institutions.md) détaille ces règles, le référendum et la révision de la Constitution[^ch-institutions].
-
-### 1.6 Qui chiffre les programmes
+### 1.2 Qui chiffre les programmes
 
 Les chapitres citent des organismes qui chiffrent des mesures. Le tableau donne leur statut, leur financement et leur orientation, dans leurs mots, puis la mention utilisée dans ce livre.
 
@@ -277,27 +174,27 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 
 ## 4. Les autres candidats
 
-| Candidat | Parti | Statut au 12 octobre 2026 | Sondages (premier tour) |
-|---|---|---|---|
-| Fabien Roussel | Parti communiste français (PCF) | Proposé par la conférence nationale en juillet, approuvé par les adhérents à 72 % (vote du 3 au 6 septembre 2026) | 1 à 4,5 % |
-| Nathalie Arthaud | Lutte ouvrière | Déclarée le 8 décembre 2025 | Moins de 1 à 2 % |
-| François Hollande | PS, hors primaire | « Si je dois me déclarer, ce sera en décembre » (29 mai 2026) ; pas de déclaration au 21 octobre 2026 | 4 à 12 % (15 hypothèses) |
-| François Ruffin | Debout ! | Candidat à la présidentielle ; la primaire unitaire de la gauche n'est plus d'actualité sous sa forme initiale (section 6) | 2 à 6 % (4 hypothèses) |
-| Karim Bouamrane | PS | Déclaré le 9 juin 2026 | 1 % au plus |
-| Dominique de Villepin | La France humaniste | Envisage une candidature | 2 à 4 % |
-| Bruno Le Maire | Renaissance (selon YouGov) | Réponse annoncée pour octobre 2026 | 3 à 6 % (2 hypothèses) |
-| David Lisnard | Nouvelle Énergie | Déclaré le 31 mars 2026 ; demande une primaire | 2 à 5,2 % |
-| Xavier Bertrand | LR, président des Hauts-de-France | « Je le serai » (27 août 2026) ; déclaration formelle attendue en fin d'année | 1 % (1 hypothèse) |
-| Nicolas Dupont-Aignan | Debout la France | Déclaré | 1 à 4 % |
-| François Asselineau | Union populaire républicaine | Déclaré le 21 mars 2026 | Non testé |
-| Florian Philippot | — | Déclaré le 9 mars 2026, sous réserve de la décision de Philippe de Villiers, qui disait en décembre 2025 chercher « cet homme ou cette femme » ; aucune candidature de sa part trouvée au 21 octobre 2026 | Non testé |
-| Bernard Cazeneuve | La Convention | « Ma volonté à être candidat est pleine et entière » (19 mai 2026) ; pas de déclaration formelle trouvée | Non testé |
-| Sébastien Bonnal | Sans étiquette connue | Candidat déclaré, selon la notice d'un sondage qu'il a commandé | Moins de 1 % (1 hypothèse) |
-| Anasse Kazib | Révolution permanente | Déclaré le 1er juin 2026 | Non testé |
+| Candidat | Parti | Statut au 12 octobre 2026 |
+|---|---|---|
+| Fabien Roussel | Parti communiste français (PCF) | Proposé par la conférence nationale en juillet, approuvé par les adhérents à 72 % (vote du 3 au 6 septembre 2026) |
+| Nathalie Arthaud | Lutte ouvrière | Déclarée le 8 décembre 2025 |
+| François Hollande | PS, hors primaire | « Si je dois me déclarer, ce sera en décembre » (29 mai 2026) ; pas de déclaration au 21 octobre 2026 |
+| François Ruffin | Debout ! | Candidat à la présidentielle ; la primaire unitaire de la gauche n'est plus d'actualité sous sa forme initiale (partie « Qui se présente », section 6) |
+| Karim Bouamrane | PS | Déclaré le 9 juin 2026 |
+| Dominique de Villepin | La France humaniste | Envisage une candidature |
+| Bruno Le Maire | Renaissance (selon YouGov) | Réponse annoncée pour octobre 2026 |
+| David Lisnard | Nouvelle Énergie | Déclaré le 31 mars 2026 ; demande une primaire |
+| Xavier Bertrand | LR, président des Hauts-de-France | « Je le serai » (27 août 2026) ; déclaration formelle attendue en fin d'année |
+| Nicolas Dupont-Aignan | Debout la France | Déclaré |
+| François Asselineau | Union populaire républicaine | Déclaré le 21 mars 2026 |
+| Florian Philippot | — | Déclaré le 9 mars 2026, sous réserve de la décision de Philippe de Villiers, qui disait en décembre 2025 chercher « cet homme ou cette femme » ; aucune candidature de sa part trouvée au 21 octobre 2026 |
+| Bernard Cazeneuve | La Convention | « Ma volonté à être candidat est pleine et entière » (19 mai 2026) ; pas de déclaration formelle trouvée |
+| Sébastien Bonnal | Sans étiquette connue | Candidat déclaré, selon la notice d'un sondage qu'il a commandé |
+| Anasse Kazib | Révolution permanente | Déclaré le 1er juin 2026 |
 
 *Sources : Journal du dimanche, liste des candidats déclarés ou pressentis au 2 juillet 2026 (source secondaire)*[^jdd-candidats-2026] *; LCP pour F. Roussel*[^lcp-roussel-candidat] *; YouGov pour l'étiquette de B. Le Maire*[^cds-yougov-2026-09] *; L'Express, Public Sénat et LCP pour F. Hollande*[^lexpress-glucksmann-hollande][^publicsenat-primaire-resultats][^lcp-hollande-decembre] *; LCP pour B. Cazeneuve*[^lcp-cazeneuve-candidat] *; Europe 1 pour P. de Villiers*[^europe1-villiers-2025] *; LCP pour X. Bertrand*[^lcp-bertrand-2026] *et D. Lisnard*[^lcp-bloc-central-2026] *; statut de S. Bonnal et sondages : notices de la Commission des sondages* *(calcul)*[^commission-sondages-2027]*.*
 
-- **Les candidats battus à la primaire** du 11 octobre (Olivier Faure, Ségolène Royal, Jérôme Guedj, Emmanuel Maurel) obtenaient 1 à 5,5 % dans les hypothèses où ils étaient testés *(calcul)*[^commission-sondages-2027].
+- **Les candidats battus à la primaire** du 11 octobre (Olivier Faure, Ségolène Royal, Jérôme Guedj, Emmanuel Maurel) ne sont pas candidats au 12 octobre 2026.
 - **Aucune candidature du Nouveau Parti anticapitaliste (NPA)** n'a été trouvée au 12 octobre 2026.
 - Les propositions de ces candidats, quand elles existent, figurent dans la ligne « Autres » des chapitres.
 
@@ -309,32 +206,19 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 
 | Affirmation (qui, quand) | Verdict | Ce que disent les données |
 |---|---|---|
-| « Il n'y a plus de favori », en dehors de Marine Le Pen et de Jean-Luc Mélenchon, qui ont « une dynamique » (Gabriel Attal, Renaissance, LCI, 25 août 2026, *source secondaire*)[^lcp-bloc-central-2026] | **À nuancer** | Marine Le Pen est en tête dans les 79 hypothèses testées de juillet à octobre 2026, avec 10,6 à 21 points d'avance. La deuxième place est disputée : Jean-Luc Mélenchon est seul deuxième dans 46 hypothèses, Édouard Philippe dans 24 et Raphaël Glucksmann dans 1 ; 8 hypothèses donnent une égalité pour la deuxième place ; l'écart avec le troisième est de 3 points ou moins dans 52 cas *(calcul)*[^commission-sondages-2027]. |
 | « Sans candidat désigné démocratiquement, la droite et le centre ne seront pas en mesure de l'emporter » (David Lisnard, Nouvelle Énergie, *Le Monde*, 25 août 2026, *source secondaire*)[^lcp-bloc-central-2026] | **Non démontré** | Aucun sondage ne mesure l'effet d'une primaire en 2027. Les précédents ne montrent pas ce lien. François Fillon, désigné par une primaire ouverte avec 66,5 %, a fini troisième en 2017 avec 20,01 % *(calcul)*[^le360-fillon-2016][^wiki-presidentielle-2017][^cc-2017-169-pdr]. Valérie Pécresse, désignée par les adhérents de LR, a obtenu 4,78 % en 2022 *(calcul)*[^rtbf-pecresse-2021][^cc-2022-195-pdr]. Emmanuel Macron, qui n'avait participé à aucune des primaires de 2016-2017, est arrivé en tête en 2017[^wiki-presidentielle-2017][^cc-2017-169-pdr]. |
-| Un second tour entre Marine Le Pen et Jean-Luc Mélenchon « serait la certitude d'une victoire de la candidate d'extrême droite » (Jérôme Guedj, PS, débat de la primaire, 23 septembre 2026, *source secondaire*)[^publicsenat-primaire-debat] | **À nuancer** | Les dix duels testés de juillet à octobre 2026 donnent 60,8 à 69,5 % à Marine Le Pen, soit au moins 21,6 points d'écart *(calcul)*[^commission-sondages-2027]. Mais des sondages à six mois ne donnent pas une « certitude » : en 2022, deux candidats ont fini le premier tour 6 à 15 points loin de leurs intentions de vote d'octobre 2021 (ligne suivante). |
-| « Les sondages, à six mois, ne disent rien du résultat » (idée répandue) | **À nuancer** | En octobre 2021, dans les hypothèses avec Éric Zemmour, les sondages donnaient 23 à 29 % à Emmanuel Macron, 15 à 20 % à Marine Le Pen, 13 à 18 % à Éric Zemmour et 7 à 11 % à Jean-Luc Mélenchon *(source secondaire)*[^wiki-sondages-2022]. Le 10 avril 2022, ils ont obtenu 27,85 %, 23,15 %, 7,07 % et 21,95 %[^cc-2022-195-pdr]. Le candidat en tête l'est resté. Jean-Luc Mélenchon a gagné 11 à 15 points ; Éric Zemmour en a perdu 6 à 11 *(calcul)*. |
 | « Il n'y a plus de scénario où je ne pourrai pas me présenter en 2027 » (Marine Le Pen, RN, 7 juillet 2026, *source secondaire*)[^lcp-le-pen-eligible] | **À nuancer** | L'arrêt d'appel du 7 juillet 2026 tient compte de l'inéligibilité exécutée depuis mars 2025 ; la cour cite « la liberté des candidatures »[^lcp-le-pen-eligible]. Le parquet général ne s'est pas pourvu[^cdj-parquet-2026]. Mais des juristes débattent de l'effet du pourvoi : selon certains, il ferait revivre l'inéligibilité prononcée en première instance *(source secondaire)*[^publicsenat-pourvoi-juristes]. Pour la magistrate Valérie-Odile Dervieux, « il n'existe aucune certitude jurisprudentielle »[^actujuridique-dervieux-2026]. Selon l'avocat Alexis Bavitot, c'est le Conseil constitutionnel, qui arrête la liste des candidats, qui jugera son éligibilité *(paraphrase, source secondaire)*[^publicsenat-pourvoi-juristes]. Une incertitude demeure tant que l'arrêt n'est pas définitif : la Cour de cassation pourrait statuer « d'ici début avril 2027 », peut-être après la fin des parrainages, le 12 mars 2027[^cdj-le-pen-cassation][^maireinfo-presidentielle-2027]. |
-| « Le RN a déjà gagné » (idée répandue) | **Non démontré** | Marine Le Pen est en tête dans toutes les hypothèses de premier tour et gagne les 35 duels testés[^commission-sondages-2027]. Mais les candidatures ne sont pas fixées (Les Écologistes, bloc central, François Hollande), et les sondages d'octobre 2021 se sont écartés du résultat de 2022 (ligne « Les sondages, à six mois… »). |
-| « Le président élu aura une majorité pour appliquer son programme » (idée répandue) | **À nuancer** | De 2002 à 2017, les législatives qui ont suivi la présidentielle ont donné la majorité absolue au camp du président[^an-legislatures][^interieur-lg2012][^interieur-lg2017]. En 2022, il a obtenu 245 sièges, 44 de moins que la majorité *(calcul)*[^interieur-lg2022]. L'Assemblée élue en 2024 n'a pas de majorité ; le président élu pourra la dissoudre (section 1.5)[^an-effectifs]. |
+| « Le président élu aura une majorité pour appliquer son programme » (idée répandue) | **À nuancer** | De 2002 à 2017, les législatives qui ont suivi la présidentielle ont donné la majorité absolue au camp du président[^an-legislatures][^interieur-lg2012][^interieur-lg2017]. En 2022, il a obtenu 245 sièges, 44 de moins que la majorité *(calcul)*[^interieur-lg2022]. L'Assemblée élue en 2024 n'a pas de majorité ; le président élu pourra la dissoudre (partie « Qui se présente », section 4)[^an-effectifs]. |
 | « Les promesses électorales ne sont jamais tenues » (idée répandue) | **Faux** | Dans 12 pays, 59 % des promesses des partis au gouvernement ont été tenues au moins en partie[^thomson-2017]. En France, le taux dépasse 60 % depuis 1995 selon un projet de recherche public[^anr-partipol]. Une « forte minorité » n'est pas tenue[^guinaudeau-persico-2018] (section 3). |
-| « Aucun programme n'est chiffré » (idée répandue) | **À nuancer** | Plusieurs partis ont publié leurs propres chiffrages : contre-budgets de LFI et du PS, plan du RN du 6 octobre 2026, plan de Gabriel Attal de juillet 2026 (section 1.4). Aucun chiffrage indépendant d'un programme de 2027 n'a été trouvé au 12 octobre 2026[^ifrap-comparateur]. |
+| « Aucun programme n'est chiffré » (idée répandue) | **À nuancer** | Plusieurs partis ont publié leurs propres chiffrages : contre-budgets de LFI et du PS, plan du RN du 6 octobre 2026, plan de Gabriel Attal de juillet 2026 (section 1.1). Aucun chiffrage indépendant d'un programme de 2027 n'a été trouvé au 12 octobre 2026[^ifrap-comparateur]. |
 
-*Couverture : Renaissance, PS-Place publique et le RN ont une affirmation attribuée ci-dessus, ainsi que Nouvelle Énergie. LFI, Les Écologistes, Horizons, LR et Reconquête ont des affirmations testées dans les chapitres thématiques et dans le chapitre [Institutions](../institutions/institutions.md).*
+*Couverture : le RN et Nouvelle Énergie ont une affirmation attribuée ci-dessus. Les huit partis ont des affirmations testées dans les chapitres thématiques et dans le chapitre [Institutions](../institutions/institutions.md). Les affirmations qui reposaient sur des sondages ont été retirées le 12 novembre 2026 (partie « Qui se présente », section 5).*
 
 ---
 
 ## 6. Points incertains
 
-- **Le calendrier.** Le décret de convocation n'est pas publié. La date du décret de convocation (≈ 26 janvier 2027), qui ouvre les parrainages le lendemain, est une estimation du ministère de l'Intérieur rapportée par la presse. La date limite de la liste officielle (26 mars 2027) est calculée à partir de la règle rapportée par la presse ; le décret de 2001 n'a pas été relu. Le compte rendu du Conseil des ministres du 1er juillet 2026 contient deux dates erronées (« début d'année 2026 » pour le décret, consultation des partis « le 29 juillet 2026 »).
-- **Les candidatures.** Le vote des adhérents de Renaissance sur la candidature de Gabriel Attal n'a pas été trouvé. La participation au vote des adhérents du PCF (3 au 6 septembre 2026) n'a pas été trouvée. La primaire unitaire prévue le 11 octobre 2026 par Les Écologistes, L'Après et Debout ! n'était plus d'actualité « sous sa forme initiale » en septembre 2026 *(source secondaire)*[^lcp-ecologistes-decembre] ; ce qui la remplace n'a pas été établi. Les statuts tirés de la liste du *Journal du dimanche* datent du 2 juillet 2026.
 - **Le programme de LFI.** Paru le 6 novembre 2026, il ne donne aucun montant total ; son chiffrage complet est attendu début 2027 *(source secondaire)*[^publicsenat-aec-2027]. Des mesures citées avant sa parution n'y sont pas reprises (fiche LFI, section 8).
-- **La cassation.** La date de l'arrêt de la Cour de cassation sur le pourvoi de Marine Le Pen n'est pas fixée ; l'échéance « d'ici début avril 2027 » a été annoncée par la Cour elle-même, selon Le Club des juristes.
-- **Les sondages.**
-  - Neuf notices de la Commission des sondages n'ont pas pu être ouvertes. D'après leurs intitulés, elles portent sur des opinions et non sur des intentions de vote ; l'une d'elles (Cluster17 pour *Le Point*, 10 septembre) reste à vérifier.
-  - Dans un sondage OpinionWay (10 septembre), la notice inverse les noms de Marine Le Pen et d'Éric Zemmour dans une hypothèse ; les chiffres ont été corrigés par cohérence avec les autres hypothèses *(à vérifier)*.
-  - Les comparaisons avec 2022 reposent sur une compilation de Wikipédia.
-  - La presse ne précise pas la base des 66,17 % de Raphaël Glucksmann à la primaire. Les cinq scores font 100 %, et 79 613 voix font 65,9 % des votants : ce sont donc des suffrages exprimés *(calcul)*.
-  - Le sondage OpinionWay des 13 et 14 octobre 2026 est connu par une dépêche de l'AFP ; sa notice n'a pas été trouvée au 21 octobre 2026.
 - **Les orientations des organismes.** L'orientation « souvent classé keynésien » de l'OFCE, employée par plusieurs chapitres, n'a pas de source trouvée ; un chapitre écrit « centre gauche ». Les sites de l'Institut Montaigne, de la Fondation Jean-Jaurès, de la Fondation Copernic et du HCFP n'ont pas pu être lus : leurs descriptions viennent d'autres pages.
 - **Les sources de Wikipédia.** Les primaires de 2017, le financement de la Fondation Copernic et la mission du HCFP restent appuyés sur Wikipédia. La loi organique de 2012 et les résultats publiés par les organisateurs des primaires n'ont pas été relus.
 - **Les autres candidats.** La candidature de Philippe de Villiers a été cherchée dans la presse ; aucune source ne la confirme ni ne l'écarte au 21 octobre 2026. Le statut de Sébastien Bonnal vient de la notice du sondage qu'il a commandé, sans autre source trouvée.
@@ -345,7 +229,7 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 ## Sources
 
 - **Calendrier et candidatures** : [compte rendu du Conseil des ministres du 1er juillet 2026](https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-01-07-2026) · [Le Club des juristes, le pourvoi de Marine Le Pen](https://www.leclubdesjuristes.com/justice/marine-le-pen-qui-maitrise-le-calendrier-devant-la-cour-de-cassation-16888/) · [Constitution](https://www.assemblee-nationale.fr/dyn/17/divers/texte_reference/01_constitution.pdf) · [Assemblée nationale, effectifs des groupes](https://www2.assemblee-nationale.fr/instances/liste/groupes_politiques/effectif).
-- **Sondages** : [notices de la Commission des sondages, « 2027 - Présidentielle »](https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/2027-Presidentielle) · [Toluna Harris Interactive, baromètre du 12 octobre 2026](https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf). Données hypothèse par hypothèse : fichier `partis/data/sondages_2026.csv` ; graphiques : `partis/scripts/charts.py`.
+- **Sondages** (règle de choix des partis, partie « Qui se présente ») : [notices de la Commission des sondages, « 2027 - Présidentielle »](https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/2027-Presidentielle) · [Toluna Harris Interactive, baromètre du 12 octobre 2026](https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf). Données hypothèse par hypothèse : fichier `partis/data/sondages_2026.csv` ; graphiques : `partis/scripts/charts.py`.
 - **Organismes de chiffrage** : [Institut Montaigne (data.gouv.fr)](https://www.data.gouv.fr/organizations/institut-montaigne-2/information) · [Fondation IFRAP](https://www.ifrap.org/qui-sommes-nous) · [OFCE, statuts](https://www.ofce.fr/ofce/statuts.html) · [IPP](https://www.ipp.eu/en/press-release-pse-and-crest-join-forces-to-develop-the-ipp/) · [Terra Nova](https://tnova.fr/qui-sommes-nous/) · [Fondapol](https://www.fondapol.org/la-fondation/) · [Institut Rousseau](https://institut-rousseau.fr/assets/pdf/rapport-activite/rapport-activite-2025.pdf) · [Institut La Boétie](https://institutlaboetie.fr/qui-sommes-nous/) · [Sénat, subventions de 2025](https://www.senat.fr/questions/base/2025/qSEQ250605197.html) · [HCFP, avis sur le budget 2027](https://www.hcfp.fr/liste-avis/avis-ndeg2026-5-lois-de-finances-2027).
 - **Chiffrages passés** : [Institut Montaigne, Nouveau Front populaire (2024)](https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/synthese) et [RN (2024)](https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese) · [Fondation IFRAP, Nouveau Front populaire (2024)](https://www.ifrap.org/budget-et-fiscalite/le-vrai-cout-du-programme-du-nouveau-front-populaire) · [Fondation IFRAP, comparateur 2027](https://www.ifrap.org/comparateurs/presidentielles-2027).
 - **Promesses électorales** : [Thomson et al., 2017](https://strathprints.strath.ac.uk/59403/1/Thomson_etal_AJPS_2016_The_fulfillment_of_parties_election_pledges.pdf) · [Agence nationale de la recherche, projet Partipol](https://anr.fr/Project-ANR-13-JSH1-0002) · [Guinaudeau et Persico, 2018](https://shs.cairn.info/article/RFSP_682_0215/pdf?lang=fr) · [Brouard et al., 2018](https://journals.sagepub.com/doi/10.1177/0032321717745433).
@@ -353,36 +237,16 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 - **Presse** *(sources secondaires)* : La Chaîne parlementaire, Public Sénat, Agence France-Presse, *Journal du dimanche*, Maire-info, Weka, *L'Express* ; le détail est dans les notes.
 - Les sources des positions résumées en section 2 sont celles des fiches des partis et des chapitres thématiques.
 
-[^cm-2026-07-01-calendrier]: Gouvernement, [compte rendu du Conseil des ministres du 1er juillet 2026, communication « Le calendrier électoral 2027 »](https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-01-07-2026), 1er juillet 2026.
 [^maireinfo-presidentielle-2027]: Maire-info (Association des maires de France), F. Lemarc, [« Présidentielle : un choix de dates qui ne sera pas sans difficulté pour les maires »](https://www.maire-info.com/%C3%A3%C2%89lection-pr%C3%A3%C2%A9sidentielle/presidentielle-un-choix-de-dates-qui-ne-sera-pas-sans-difficulte-pour-les-maires-article-30951), 3 juillet 2026 *(source secondaire)*.
-[^weka-parrainages-2027]: Weka, D. Volut, [« Parrainages des candidats à l'élection présidentielle 2027 : quel rôle pour les élus ? »](https://www.weka.fr/actualite/elus/article_juridique/parrainages-des-candidats-a-l-election-presidentielle-2027-quel-role-pour-les-elus-216318/), 2 juillet 2026 *(source secondaire)*.
 [^publicsenat-primaire-resultats]: Public Sénat, F. Vignal, [« Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 % »](https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66), 11 octobre 2026, mis à jour le même jour à 23 h 46 *(source secondaire)*.
-[^lcp-lfi-programme-2026]: LCP, [« Présidentielle : le programme remanié de Jean-Luc Mélenchon »](https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera), 23 septembre 2026 *(source secondaire)*.
-[^lcp-ecologistes-decembre]: LCP, [« Candidature à la présidentielle : pas de choix définitif des Écologistes avant la mi-décembre »](https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi), 21 septembre 2026 *(source secondaire)*.
 [^lcp-bloc-central-2026]: LCP, A.-C. Dusseaulx, [« Présidentielle 2027 : pourquoi, dans le bloc central et à droite, certains s'inquiètent du duel Philippe-Attal »](https://lcp.fr/actualites/presidentielle-2027-pourquoi-dans-le-bloc-central-et-a-droite-certains-s-inquietent-du), 25 août 2026 *(source secondaire)*.
 [^cdj-le-pen-cassation]: Le Club des juristes, [« Marine Le Pen : qui maîtrise le calendrier devant la Cour de cassation ? »](https://www.leclubdesjuristes.com/justice/marine-le-pen-qui-maitrise-le-calendrier-devant-la-cour-de-cassation-16888/), 9 juillet 2026.
-[^lcp-dates-2027]: LCP, A.-C. Dusseaulx, [dates du premier et du second tour de la présidentielle de 2027](https://lcp.fr/actualites/presidentielle-2027-les-dates-du-premier-et-du-second-tour-fixees-438582), 30 juin 2026 *(source secondaire)*.
-[^afp-primaire-2026]: AFP, via Orange Actu, [« Primaire de la gauche : Glucksmann espère l'emporter dès le premier tour »](https://actu.orange.fr/france/primaire-de-la-gauche-glucksmann-espere-l-emporter-des-le-premier-tour-CNT000002sCbJx.html), 11 octobre 2026 *(source secondaire)*.
-[^sudradio-glucksmann-designe]: Sud Radio, d'après l'AFP, [« Présidentielle: Glucksmann désigné dès le premier tour comme le candidat de la gauche sociale-démocrate »](https://www.sudradio.fr/societe/presidentielle-glucksmann-designe-des-le-premier-tour-comme-le-candidat-de-la-gauche-sociale-democrate), 11 octobre 2026 *(source secondaire)*.
-[^brut-tondelier-primaire]: Brut, [« Sans surprise, Marine Tondelier représentera les Écologistes à la primaire de la gauche »](https://www.brut.media/fr/articles/sans-surprise-marine-tondelier-representera-les-ecologistes-a-la-primaire-de-la-gauche), date affichée : 14 septembre 2026 (vote interne de décembre 2025) *(source secondaire)*.
-[^publicsenat-retailleau-designe]: Public Sénat, [« Présidentielle : Bruno Retailleau désigné candidat par les adhérents LR »](https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr), 19 avril 2026 *(source secondaire)*.
 [^lcp-bertrand-2026]: LCP, [« 2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle »](https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election), 27 août 2026 *(source secondaire)*.
-[^lcp-candidature-melenchon]: LCP, A.-C. Dusseaulx, [« Présidentielle : Jean-Luc Mélenchon officialise sa candidature pour 2027 »](https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851), 3 mai 2026 *(source secondaire)*.
-[^lcp-attal-candidature]: LCP, [« Présidentielle 2027 : Gabriel Attal officialise sa candidature »](https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721), 22 mai 2026 *(source secondaire)*.
 [^lcp-le-pen-eligible]: LCP, [Marine Le Pen candidate à la présidentielle : pourquoi elle pense pouvoir le faire](https://lcp.fr/actualites/marine-le-pen-candidate-a-l-election-presidentielle-pourquoi-elle-pense-pouvoir-faire), 7 juillet 2026 *(source secondaire)*.
-[^lcp-zemmour-candidature]: LCP, [« Présidentielle 2027 : Éric Zemmour officialise sa candidature »](https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871), 17 septembre 2026 *(source secondaire)*.
-[^afp-renaissance-attal]: AFP, via Orange Actu, [« Présidentielle 2027 : Renaissance pousse Gabriel Attal vers une candidature à l'Élysée »](https://actu.orange.fr/politique/presidentielle-2027-renaissance-pousse-gabriel-attal-vers-une-candidature-a-l-elysee-magic-CNT000002pkMzh.html), 13 mai 2026 *(source secondaire)*.
-[^publicsenat-philippe-2024]: Public Sénat, [Édouard Philippe candidat à la présidentielle](https://www.publicsenat.fr/actualites/politique/edouard-philippe-candidat-a-la-presidentielle-il-a-rompu-tres-officiellement-avec-emmanuel-macron), 4 septembre 2024 *(source secondaire)*.
 [^publicsenat-zemmour-2026]: Public Sénat, E. Bador-Fritche, [« Éric Zemmour officialise sa candidature à la présidentielle 2027 »](https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027), 18 septembre 2026 *(source secondaire)*.
 [^cdj-parquet-2026]: Le Club des juristes, [« Affaire des assistants parlementaires du FN : le parquet renonce à un pourvoi en cassation »](https://www.leclubdesjuristes.com/en-bref/affaire-des-assistants-parlementaires-du-fn-le-parquet-renonce-a-un-pourvoi-en-cassation-16990/), 16 juillet 2026.
 [^commission-sondages-2027]: Commission des sondages, [notices des sondages sur l'élection présidentielle de 2027](https://www.commission-des-sondages.fr/notices/medias/fichiers/bytag/14/2027-Presidentielle), notices publiées du 12 juillet au 12 octobre 2026, consultées le 12 octobre 2026.
-[^toluna-v7-2026]: Toluna Harris Interactive pour M6 et RTL, [intentions de vote à l'élection présidentielle, vague 7](https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf), 12 octobre 2026.
-[^afp-opinionway-1410]: La Gazette France, d'après l'AFP, [sondage OpinionWay pour *Les Echos* et Radio Classique des 13 et 14 octobre 2026](https://www.lagazettefrance.fr/article/presidentielle-glucksmann-au-coude-a-coude-avec-melenchon-et-philippe-dans-un-nouveau-sondage), 15 octobre 2026 *(source secondaire)*.
 [^cds-yougov-2026-09]: YouGov pour *Le HuffPost*, [notice n° 10270 déposée à la Commission des sondages](http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf), terrain du 17 au 21 septembre 2026.
-[^cds-harris-2026-09]: Toluna Harris Interactive pour M6 et RTL, [notice n° 10277 déposée à la Commission des sondages](http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10277-pres-toluna-harris-interactive-rtl-28-septembre.pdf), terrain du 22 au 24 septembre 2026.
-[^cds-opinionway-2026-09]: OpinionWay pour *Le Journal du dimanche*, [notice n° 10252 déposée à la Commission des sondages](http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf), terrain du 2 au 3 septembre 2026.
-[^cds-ipsos-2026-09]: Ipsos BVA pour le Cevipof, *Le Monde*, la Fondation Jean-Jaurès et l'Institut Montaigne, [Enquête électorale française, vague 3, notice n° 10262](http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10262-pres-enquete-electorale-ipsos-bva-le-monde-13-septembre.pdf), terrain du 3 au 9 septembre 2026.
-[^cds-ifop-2026-09]: Ifop-Fiducial pour LCI, *Le Figaro* et Sud Radio, [baromètre de l'élection présidentielle, vague 6, notice n° 10284](http://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-v6-ifop-30-septembre.pdf), terrain du 25 au 29 septembre 2026.
 [^insoumission-contre-budget]: L'insoumission, [contre-budget de LFI pour 2026](https://linsoumission.fr/2025/10/23/contre-budget-lfi-2026/), 23 octobre 2025 *(source secondaire)*.
 [^ecologistes-programme]: Les Écologistes, [programme](https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf), juillet 2026.
 [^lcp-projet-ps-2026]: LCP, [« Smic, retraites, immigration : le PS présente un projet de 144 pages pour préparer 2027 »](https://lcp.fr/actualites/smic-retraites-immigration-le-ps-presente-un-projet-de-144-pages-pour-preparer-2027), 22 avril 2026 *(source secondaire)*.
@@ -396,8 +260,6 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 [^rn-contre-budget-2026]: Rassemblement national, [contre-budget 2026](https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf), 2025.
 [^europe1-rn-plan]: Europe 1, [promesse de M. Le Pen de 140 milliards d'euros d'économies nettes d'ici 2032](https://www.europe1.fr/politique/budget-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-pour-eviter-a-la-france-le-defaut-de-paiement-1126400), 6 octobre 2026 *(source secondaire)*.
 [^an-effectifs]: Assemblée nationale, [effectif des groupes politiques, XVIIe législature](https://www2.assemblee-nationale.fr/instances/liste/groupes_politiques/effectif), consulté le 9 octobre 2026.
-[^an-constitution]: Assemblée nationale, [Constitution du 4 octobre 1958, texte en vigueur](https://www.assemblee-nationale.fr/dyn/17/divers/texte_reference/01_constitution.pdf), version postérieure au 8 mars 2024.
-[^ch-institutions]: Chapitre [Institutions : comment la France est gouvernée](../institutions/institutions.md), qui donne les sources d'origine.
 [^datagouv-montaigne]: data.gouv.fr, [fiche de l'organisation Institut Montaigne](https://www.data.gouv.fr/organizations/institut-montaigne-2/information), consultée le 12 octobre 2026.
 [^ifrap-qui-sommes-nous]: Fondation IFRAP (libérale), [« Qui sommes-nous »](https://www.ifrap.org/qui-sommes-nous), consulté le 12 octobre 2026.
 [^ofce-statuts]: OFCE, [statuts et budget](https://www.ofce.fr/ofce/statuts.html), consulté le 12 octobre 2026.
@@ -436,8 +298,6 @@ Ces études comptent les promesses une à une. Elles ne disent pas si les promes
 [^cc-2017-169-pdr]: Conseil constitutionnel, [décision n° 2017-169 PDR, résultats du premier tour de l'élection présidentielle](https://www.conseil-constitutionnel.fr/decision/2017/2017169PDR.htm), 26 avril 2017.
 [^rtbf-pecresse-2021]: RTBF, [« Élection présidentielle française : Valérie Pécresse candidate des Républicains »](https://www.rtbf.be/article/election-presidentielle-francaise-valerie-pecresse-candidate-des-republicains-10891568), 4 décembre 2021 *(source secondaire)*.
 [^cc-2022-195-pdr]: Conseil constitutionnel, [décision n° 2022-195 PDR, résultats du premier tour de l'élection présidentielle](https://www.conseil-constitutionnel.fr/decision/2022/2022195PDR.htm), 13 avril 2022.
-[^publicsenat-primaire-debat]: Public Sénat, [« Primaire de la gauche : échanges tendus sur les alliances avec LFI, Gaza, l'Ukraine… que retenir du premier débat entre les candidats ? »](https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-echanges-tendus-sur-les-alliances-avec-lfi-gaza-ukraine-que-retenir-du-1er-debat-entre-les-candidats), 24 septembre 2026 *(source secondaire)*.
-[^wiki-sondages-2022]: Wikipédia, [« Opinion polling for the 2022 French presidential election » (en anglais)](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election), sondages d'octobre 2021, consulté le 12 octobre 2026 *(source secondaire)*.
 [^publicsenat-pourvoi-juristes]: Public Sénat, S. Barbarit, [« Condamnation de Marine Le Pen : malgré son pourvoi en cassation, est-elle toujours inéligible comme l'affirment plusieurs juristes ? »](https://www.publicsenat.fr/actualites/politique/condamnation-de-marine-le-pen-malgre-son-pourvoi-en-cassation-est-elle-toujours-ineligible-comme-laffirment-plusieurs-juristes), 8 juillet 2026 *(source secondaire)*.
 [^actujuridique-dervieux-2026]: Actu-Juridique, V.-O. Dervieux, [« Situation judiciaire de Marine Le Pen : beaucoup de questions et autant d'incertitudes »](https://www.actu-juridique.fr/procedure-penale/situation-judiciaire-de-marine-le-pen-beaucoup-de-questions-et-autant-dincertitudes/), 10 juillet 2026, modifié le 13 juillet 2026.
 [^an-legislatures]: Assemblée nationale, [les législatures de la Ve République](https://www.assemblee-nationale.fr/histoire/leg5repnew.asp), consulté le 9 octobre 2026.

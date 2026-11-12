@@ -24,6 +24,7 @@ DOCS = [
     ("finances-publiques", "finances_publiques.md", "Finances publiques"),
     ("finances-publiques", "encadre_totalenergies.md", "Étude de cas : TotalEnergies, profits et impôts"),
     ("education", "remuneration_enseignants.md", "Éducation"),
+    ("partis", "qui_se_presente.md", "Qui se présente"),
     ("partis", "programmes_partis_2027.md", "Présidentielle 2027 : ce que proposent les partis"),
     ("partis", "lfi.md", "Fiche : La France insoumise (LFI)"),
     ("partis", "ecologistes.md", "Fiche : Les Écologistes"),

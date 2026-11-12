@@ -4,7 +4,7 @@
 
 Les Républicains (LR) sont présidés depuis mai 2025 par Bruno Retailleau, leur candidat. Déclaré le 12 février 2026, il a été désigné par un vote des adhérents le 19 avril 2026, plutôt que par une primaire. LR n'a pas d'allié déclaré pour la présidentielle ; à droite, David Lisnard est candidat et Xavier Bertrand dit qu'il le sera.
 
-**Voir aussi :** l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (calendrier, sondages, tableau croisé) et les chapitres cités dans le tableau de la section 3.
+**Voir aussi :** la partie [« Qui se présente »](qui_se_presente.md) (calendrier, candidats), l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (programmes, tableau croisé) et les chapitres cités dans le tableau de la section 3.
 
 ## En bref
 

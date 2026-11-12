@@ -27,6 +27,7 @@ Chaque chapitre se lit seul, en ligne, en Markdown ici, ou en PDF.
 
 | Partie | Chapitre | Texte | PDF |
 |---|---|---|---|
+| Qui se présente | Calendrier, candidats, mesures phares des huit partis, sondages | [Markdown](partis/qui_se_presente.md) | [PDF](partis/qui_se_presente.pdf) |
 | Le cadre | Institutions : comment la France est gouvernée | [Markdown](institutions/institutions.md) | [PDF](institutions/institutions.pdf) |
 | Économie et finances | Finances publiques : dépenses, recettes, déficit, dette | [Markdown](finances-publiques/finances_publiques.md) | [PDF](finances-publiques/finances_publiques.pdf) |
 |  | Pouvoir d'achat, salaires et inégalités | [Markdown](pouvoir-achat/pouvoir_achat.md) | [PDF](pouvoir-achat/pouvoir_achat.pdf) |
@@ -40,7 +41,7 @@ Chaque chapitre se lit seul, en ligne, en Markdown ici, ou en PDF.
 |  | Climat et environnement | [Markdown](climat-environnement/climat_environnement.md) | [PDF](climat-environnement/climat_environnement.pdf) |
 | La France dans le monde | Immigration : chiffres, coût, délinquance, comparaisons européennes | [Markdown](immigration/immigration.md) | [PDF](immigration/immigration.pdf) |
 |  | Défense et Europe | [Markdown](defense-europe/defense_europe.md) | [PDF](defense-europe/defense_europe.pdf) |
-| Les partis | Présidentielle 2027 : ce que proposent les partis (introduction) | [Markdown](partis/programmes_partis_2027.md) | [PDF](partis/programmes_partis_2027.pdf) |
+| Les partis | Présidentielle 2027 : ce que proposent les partis (introduction : programmes, tableau croisé, promesses) | [Markdown](partis/programmes_partis_2027.md) | [PDF](partis/programmes_partis_2027.pdf) |
 |  | Fiches des partis | [LFI](partis/lfi.md) · [Les Écologistes](partis/ecologistes.md) · [PS-Place publique](partis/ps_place_publique.md) · [Renaissance](partis/renaissance.md) · [Horizons](partis/horizons.md) · [LR](partis/lr.md) · [RN](partis/rn.md) · [Reconquête](partis/reconquete.md) | [LFI](partis/lfi.pdf) · [Les Écologistes](partis/ecologistes.pdf) · [PS-Place publique](partis/ps_place_publique.pdf) · [Renaissance](partis/renaissance.pdf) · [Horizons](partis/horizons.pdf) · [LR](partis/lr.pdf) · [RN](partis/rn.pdf) · [Reconquête](partis/reconquete.pdf) |
 | Annexes | Étude de cas : TotalEnergies, profits et impôts | [Markdown](finances-publiques/encadre_totalenergies.md) | [PDF](finances-publiques/encadre_totalenergies.pdf) |
 |  | Glossaire commun | [Markdown](edition/glossaire.md) | — |

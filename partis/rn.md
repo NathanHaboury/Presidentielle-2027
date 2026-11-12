@@ -4,7 +4,7 @@
 
 Le Rassemblement national (RN) présente Marine Le Pen, déclarée candidate le 7 juillet 2026, le soir de sa condamnation en appel[^lalibre-le-pen-candidate]. Elle est éligible ; son pourvoi en cassation est pendant (section 7). Jordan Bardella, président du RN, est présenté comme son Premier ministre[^latele-bardella]. L'Union des droites pour la République (UDR) d'Éric Ciotti est son alliée[^gazette-ciotti].
 
-**Voir aussi :** l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (calendrier, sondages, tableau croisé) et les chapitres cités dans le tableau de la section 3.
+**Voir aussi :** la partie [« Qui se présente »](qui_se_presente.md) (calendrier, candidats), l'[introduction de la partie « Les partis »](programmes_partis_2027.md) (programmes, tableau croisé) et les chapitres cités dans le tableau de la section 3.
 
 ## En bref
 

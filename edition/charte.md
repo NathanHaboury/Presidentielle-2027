@@ -157,7 +157,7 @@ La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`
 
 **Le principe : une seule source par position.** Les fiches ne créent pas de contenu thématique. Chaque position, levier et obstacle est repris du chapitre du thème, avec la même note. Une position absente des chapitres n'entre dans une fiche qu'avec sa propre source primaire ou de presse ; elle est alors signalée au chapitre concerné.
 
-**L'introduction** suit le gabarit d'un chapitre, avec deux différences : la section 2 s'intitule « Qui propose quoi » (trois tableaux croisés, sans notes, qui résument les fiches) et la section 3 « Ce que deviennent les promesses » (ce que disent les études sur les promesses tenues et les chiffrages passés). La section 1 donne le calendrier, les candidats, les sondages, l'état des programmes, la question de la majorité et les organismes qui chiffrent. La section 4 présente les autres candidats.
+**L'introduction** suit le gabarit d'un chapitre, avec deux différences : la section 2 s'intitule « Qui propose quoi » (trois tableaux croisés, sans notes, qui résument les fiches) et la section 3 « Ce que deviennent les promesses » (ce que disent les études sur les promesses tenues et les chiffrages passés). La section 1 donne l'état des programmes et les organismes qui chiffrent ; le calendrier, les candidats, la question de la majorité et la règle de choix des partis sont dans la partie « Qui se présente », au début du livre (12 novembre 2026). La section 4 présente les autres candidats.
 
 **Le gabarit des fiches** (même plan, même ordre, ≈ 1 200 à 2 500 mots) :
 - titre, ligne de version (« *Fiche du …* »), un paragraphe de présentation, **Voir aussi** ;
@@ -259,15 +259,23 @@ La Partie V compte neuf fichiers dans le dossier `partis/` : une introduction (`
 | **Graphiques** | Une plage de valeurs se trace par un trait, pas par une barre ; son axe peut ne pas partir de zéro si le sous-titre le dit (section 5). |
 | **Dates** | Chaque chapitre ou fiche corrigé garde sa date et ajoute « , corrigée le 21 octobre 2026 ». |
 
+**12 novembre 2026, place des partis et des sondages.**
+
+| Sujet | Décision |
+|---|---|
+| **Partie « Qui se présente »** | Une partie courte ouvre le livre, avant le cadre : calendrier, candidats, mesures phares des huit partis, gouverner ensuite. Les fiches détaillées restent à la fin, car elles s'appuient sur les chapitres. |
+| **Sondages** | Le livre ne commente plus les intentions de vote, qui changent trop vite à cinq mois du scrutin. Un encadré (partie « Qui se présente », section 5) donne la règle des 5 %, appliquée une fois par édition, et ce qu'un sondage ne dit pas. Retirés : l'analyse des 17 sondages, les figures 01 et 02 de la partie « Les partis », le point 2 de son « L'essentiel », la colonne « Sondages » des autres candidats et quatre affirmations de sa section 5 qui reposaient sur des sondages. Le fichier `partis/data/sondages_2026.csv` est gardé pour appliquer la règle. |
+
 ## 7. Plan du document unifié
 
 | Partie | Chapitres |
 |---|---|
 | **Ouverture** | Introduction (pourquoi ce livre, contenu, ce qu'il ne traite pas encore, méthode et sources, date des chiffres, par où commencer) ; les grands enjeux de 2027 ; le livre en bref ; mode d'emploi (plan d'un chapitre et des fiches, partis retenus et ordre, leviers, verdicts, signes, unités, sigles) |
-| **0. Le cadre** | Institutions : comment la France est gouvernée (majorité, Constitution, référendum, juges et droit européen, propositions des partis). Le calendrier de 2027, les candidats et les sondages sont dans l'introduction de la Partie V, section 1 |
+| **Qui se présente** | Partie courte placée avant le cadre (12 novembre 2026) : calendrier, candidats des huit partis, leurs mesures phares (reprises des « En bref » des fiches), gouverner ensuite, et un encadré sur les sondages (règle de choix des partis, ce qu'un sondage ne dit pas) |
+| **0. Le cadre** | Institutions : comment la France est gouvernée (majorité, Constitution, référendum, juges et droit européen, propositions des partis) |
 | **I. Économie et finances** | Finances publiques ; Pouvoir d'achat, salaires et inégalités ; Retraites et productivité ; Travail et emploi ; Logement |
 | **II. Services publics** | Éducation ; Santé et assurance maladie ; Sécurité et justice |
 | **III. Énergie et climat** | Énergie ; Climat et environnement |
 | **IV. La France dans le monde** | Immigration ; Défense et Europe |
-| **V. Les partis** | Introduction (calendrier, candidats, sondages, programmes, tableau croisé, promesses tenues, autres candidats), puis une fiche par parti, sur le même gabarit, qui renvoie aux chapitres |
+| **V. Les partis** | Introduction (programmes, organismes qui chiffrent, tableau croisé, promesses tenues, autres candidats), puis une fiche par parti, sur le même gabarit, qui renvoie aux chapitres |
 | **Annexes** | Études de cas (TotalEnergies, profits et impôts) ; glossaire |
